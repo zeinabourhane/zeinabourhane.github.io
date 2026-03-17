@@ -1,45 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Zeina Bourhane</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <header>
-    <img src="images/profile.jpg" alt="Zeina Bourhane" width="150">
-    <h1>Zeina Bourhane</h1>
-    <p>Data Scientist | Bioinformatics | Open Source Enthusiast</p>
-    <nav>
-      <a href="#news">News</a>
-      <a href="#cv">CV</a>
-      <a href="#projects">Projects</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  height: 100vh;
+}
 
-  <section id="news">
-    <h2>News</h2>
-    <p>Latest updates about my work.</p>
-  </section>
+/* Left sidebar */
+.sidebar {
+  width: 250px;
+  background-color: #f0f0f0;
+  padding: 30px;
+  text-align: center;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-  <section id="cv">
-    <h2>CV</h2>
-    <p><a href="ZeinaCV.pdf" target="_blank">Download my CV</a></p>
-  </section>
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <p>Descriptions and links to your projects.</p>
-  </section>
+.sidebar h1 {
+  margin: 10px 0 5px 0;
+}
 
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: your.email@example.com</p>
-    <p>
-      <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> |
-      <a href="https://twitter.com/yourprofile">Twitter</a>
-    </p>
-  </section>
-</body>
-</html>
+.sidebar p {
+  font-size: 14px;
+  margin: 0 0 15px 0;
+}
+
+.social-links a {
+  display: block;
+  margin: 5px 0;
+  text-decoration: none;
+  color: #333;
+}
+
+/* Main content area */
+.main {
+  flex: 1;
+  padding: 20px;
+  overflow-y: scroll;
+}
+
+/* Top horizontal menu */
+.top-menu {
+  display: flex;
+  justify-content: space-around;
+  background-color: #333;
+  padding: 10px 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.top-menu a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.top-menu a:hover {
+  background-color: #555;
+  border-radius: 5px;
+}
+
+/* Sections styling */
+section {
+  margin: 40px 0;
+}
