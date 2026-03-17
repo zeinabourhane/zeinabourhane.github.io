@@ -1,19 +1,75 @@
 body {
-  font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  height: 100vh;
 }
-header {
-  text-align: center;
-  padding: 50px;
+
+/* Left sidebar */
+.sidebar {
+  width: 250px;
   background-color: #f0f0f0;
+  padding: 30px;
+  text-align: center;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-nav a {
-  margin: 0 15px;
+
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.sidebar h1 {
+  margin: 10px 0 5px 0;
+}
+
+.sidebar p {
+  font-size: 14px;
+  margin: 0 0 15px 0;
+}
+
+.social-links a {
+  display: block;
+  margin: 5px 0;
   text-decoration: none;
   color: #333;
 }
+
+/* Main content area */
+.main {
+  flex: 1;
+  padding: 20px;
+  overflow-y: scroll;
+}
+
+/* Top horizontal menu */
+.top-menu {
+  display: flex;
+  justify-content: space-around;
+  background-color: #333;
+  padding: 10px 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.top-menu a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.top-menu a:hover {
+  background-color: #555;
+  border-radius: 5px;
+}
+
+/* Sections styling */
 section {
-  padding: 50px;
-  border-bottom: 1px solid #ddd;
+  margin: 40px 0;
 }
