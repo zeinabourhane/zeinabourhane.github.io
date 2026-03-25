@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Zeina Bourhane"
   avatar           : "profile-zeinabourhane.jpg"
-  bio              : "Doctor in Microbial ecology | Born in 1993 | Woman in STEM | Citizen of the world born in Spain"
+  bio              : "Doctor in Microbial ecology | Extreme environments"
+  # bio              : "Doctor in Microbial ecology | Born in 1993 | Woman in STEM | Citizen of the world born in Spain"
   location         : "Pau, FRANCE"
   employer         : "IPREM Institute"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alicia+l+bruzos"
+ # pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alicia+l+bruzos"
   googlescholar    : "https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao"
   email            : "zeina.bourhane@hotmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Zeina-Bourhane"
