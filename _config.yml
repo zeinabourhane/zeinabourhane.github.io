@@ -107,14 +107,14 @@ author:
   orcid            : "https://orcid.org/0000-0002-9663-2584"        
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow: ""
   steam            :
   tumblr           :
   twitter          : "ZeinaBourhane"
   vine             :
   weibo            :
   xing             :
-  youtube          :# "https://www.youtube.com/channel/UC0RtfiU2t0tQeAIZFI07N2Q"
+  youtube: "https://www.youtube.com/channel/UC0RtfiU2t0tQeAIZFI07N2Q"
   wikipedia        :
 
 
@@ -422,7 +422,7 @@ compress_html:
 #   dribbble         : # Username
 #   github           : "academicpages"
 #   kaggle           : # Username  
-#   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+#   stackoverflow: ""   
 
 #   # Social media
 #   artstation       : # Username
@@ -448,7 +448,7 @@ compress_html:
 #   weibo            : # Username
 #   wikipedia        : # Username
 #   xing             : # Username
-#   youtube          : "https://www.youtube.com/channel/UC0RtfiU2t0tQeAIZFI07N2Q"
+#   youtube: "https://www.youtube.com/channel/UC0RtfiU2t0tQeAIZFI07N2Q"
 #   zhihu            : # Username
 
 # # Publication Category - The following the list of publication categories and their headings
