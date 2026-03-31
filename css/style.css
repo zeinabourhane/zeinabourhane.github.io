@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   display: flex;
-  height: 100vh;
+  min-height: 100vh;
   background-color: #ffffff;
 }
 
@@ -47,7 +47,6 @@ body {
 .main {
   flex: 1;
   padding: 20px;
-  overflow-y: auto;
 }
 
 /* Top horizontal menu */
@@ -76,4 +75,8 @@ body {
 /* Sections styling */
 section {
   margin: 40px 0;
+}
+
+html {
+  scroll-behavior: smooth;
 }
