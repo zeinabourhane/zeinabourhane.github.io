@@ -1,1 +1,5 @@
-##Funding
+---
+layout: page
+title: Funding
+permalink: /funding/
+---
