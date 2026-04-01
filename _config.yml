@@ -132,7 +132,7 @@ exclude:
   - .sass-cache
   - CHANGELOG
   - Capfile
-  
+  - Gemfile
   - Gruntfile.js
   - LICENSE
   - README
