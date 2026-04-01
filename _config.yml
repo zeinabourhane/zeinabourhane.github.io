@@ -9,9 +9,10 @@ author:
 header_pages:
   - publications.md
   - conferences.md
-  - research.md
-  - teaching.md
+  - funding.md
   - awards.md
+  - teaching.md
+  - outreach.md
   - cv.md
 
 show_excerpts: true
