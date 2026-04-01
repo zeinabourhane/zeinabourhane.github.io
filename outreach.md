@@ -1,1 +1,5 @@
-##Outreach
+---
+layout: page
+title: Outreach
+permalink: /outreach/
+---
