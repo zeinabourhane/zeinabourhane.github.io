@@ -1,5 +1,5 @@
 <img src="assets/profile.jpg" alt="Muhammad Ayaz" width="180" style="float:left; margin-right:20px; border-radius:10px;">
-# Muhammad Ayaz, PhD
+# Zeina Bourhane, PhD
 **Postdoctoral Research Fellow**  
 Eklore-ed School of Management, France
 
