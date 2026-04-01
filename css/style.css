@@ -73,6 +73,14 @@ body {
   border-radius: 5px;
 }
 
+section p, section li {
+  display: block !important;
+  color: black !important;
+  font-size: 16px !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
 /* Sections styling */
 section {
   margin: 40px 0;
