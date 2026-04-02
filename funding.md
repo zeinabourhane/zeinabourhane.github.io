@@ -12,7 +12,7 @@
 
 ## Travel grant
 
-**2023**: Bourse 75th Lindau Meeting Interdisciplinary  (CONFIRMED)
+**2023**: Bourse 75th Lindau Meeting Interdisciplinary, Germany  (CONFIRMED)
 
 **2023**: AFEM Young researcher mobility (1200 €)
 
