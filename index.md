@@ -7,7 +7,7 @@ Postdoctoral Research Fellow
 
 Microbial ecology | Metagenomics | Metabolomics | Bioinformatics | Data Scientist 
 
-📍 France  
+📍 Pau, France  
 📧 zeina.bourhane@hotmail.com
 🌐 [Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao) | 💼 [LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144)| 📄 [Orcid]([https://hal.science/984215](https://orcid.org/0000-0002-9663-2584)
 
