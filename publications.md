@@ -63,8 +63,6 @@ Published: 27 January 2023
 **link**: https://doi.org/10.3389/fmicb.2023.1186847
 
 **Citation**:	Amato, P et al **(includes Bourhane, Z)**. (2023). IF(2023) = 5.5
-Zeina's Citation:
-Amato, P. et al. (includes Bourhane Z.). 2023. "The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome". Frontiers in Microbiology. 14:1186847. IF = 5.5 (2023).
 
 **About the paper**:
 This review article examines the aeromicrobiome, the microbial communities inhabiting the Earth’s atmosphere. It synthesizes current knowledge on the diversity, dynamics, and environmental drivers of airborne microbes, highlighting how the atmosphere acts as a selective and dynamic layer connecting terrestrial, aquatic, and human-associated microbiomes.
