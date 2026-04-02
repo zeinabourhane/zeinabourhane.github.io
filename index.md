@@ -4,8 +4,7 @@ Postdoctoral Research Fellow
 ##Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
 ##Université de Pau et des Pays de l'Adour, France
 
-
-Microbial ecology | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatics | Data Scientist
+Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatics | Data Scientist 
 
 📍 Pau, France  
 📧 zeina.bourhane@hotmail.com
@@ -22,16 +21,6 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 ## Research Fields
 
-- Development Economics  
-- Agricultural Economics  
-- Environmental Economics  
-- Climate Change  
-- Food Security  
-
----
-
-## Featured Research
-
 - **Valorization of extreme ecosystems**
 - **Secialized thermostable metabolites**
 - **Microbial interaction and functional networks**
@@ -39,21 +28,6 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 👉 See full work: [Research](research.md)
 
----
-
-## 📊 Research Impact
-
-- 📈 Google Scholar Profile: 🌐 [Google Scholar](https://scholar.google.fr/citations?user=vDB0ClQAAAAJ) 
-
-- 🎓 Citation metrics :
-  - Total citations  **119**
-  - h-index          **6**
-  - i10-index        **4**
-
-![Profile Views](https://komarev.com/ghpvc/?username=m-ayazKhan)
-![GitHub followers](https://img.shields.io/github/followers/m-ayazKhan)
-
-👉 Full list: [Publications](publications.md)
 ---
 
 ## Education
