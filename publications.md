@@ -92,17 +92,22 @@ Published: 16 May 2023
 ## Submitted Papers
 
 **Unveiling the metagenomic profiles of Pyrenean thermal waters**. Under review in Microbiome.
+
 Bourhane Z1/4*, Duran R, Preud’homme H, Cravo-Laureau C. (2026).
 
 **Metagenomic insights into microbial dynamics under redox conditions in a hypersaline wetland soil using Indicator of Redox in Soils (IRIS) films**. Under review in FEMS.
+
 Bourhane Z1/5*, Cagnon C., Cravo-Laureau C., Castañeda C, Duran R. (2026)
  
 **Genome-resolved analyses disentangle the strategies of hypersaline microbiomes and metabolic interactions within a hydrological gradient**. Under review in Enviro Science & Technol journal
+
 Liu B, Bourhane Z2/9*, Yoa Jun P, Castañeda C, Cagnon C, Cravo-Laureau C, Ma B., Chen Z., Duran R. (2026)
 
 **Effects of pollution on the activity of the soil/sediment microbial communities from a soil-river-lake continuum in Ichkeul Lagoon**. Under review in Environmrental Pollution
+
 Kouchou A, Tadist F, Bourhane Z3/7*, Ben Said O, Rais N, Duran R, El Ghachtouli N. (2026)
 
 **Assessing climate change impact using bioindicators on the complex Ichkeul Lake, Tunisia**. Under review in Frontiers in Microbiology. Under review Environmrental Pollution
+
 Bem Salem F, Ben Said O, Bourhane Z3/8*, Sahbani A, …, Duran R. (2026)
 
