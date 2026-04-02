@@ -1,5 +1,5 @@
 ## Publications
-## Journal Articles
+## Articles
 
 **Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
 
@@ -32,6 +32,7 @@ Published: February 2022
 **link**: https://doi.org/10.3389/fmicb.2023.869907
 
 **Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). 
+
 ---
 
 **About the paper:**  
@@ -41,8 +42,7 @@ The study investigates the vertical stratification of microbial communities in t
 
 **Impact:** We provide insights into the depth-dependent organization of microbial communities in hypersaline wetlands, revealing potential microbial indicators of environmental conditions and enhancing understanding of biogeochemical processes in extreme ecosystems.
 
-**My contribution:** Conducted experimental and performed the bioinformatics and wrote the original draft.
-and biostatistics analyses
+**My contribution**: Conducted experimental and performed the bioinformatics and wrote the original draft and biostatistics analyses
 
 **More information:**  
 **Authorship:**  
