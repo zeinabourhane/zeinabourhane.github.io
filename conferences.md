@@ -1,5 +1,7 @@
 ## Conferences
 
+*OP: Oral presentation;  P: Poster*
+
 **2026**. P: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NOUVELLE-ZELANDE. Confirmed
 
 **2025**. P: Bioactive molecules in thermal waters: A revolution in cosmetic products. Société Française de la microbiologie SFM, Bordeaux, FRANCE.
@@ -25,5 +27,4 @@
 **2020**. P: Bacterial bioindicators for reporting contamination around Ichkeul Lake. Second International Conference on Microbial Ecotoxicology, EcotoxicoMic, Montpellier, FRANCE.
 
 **2019**. OP: Role of bioindicators in the environmental assessment. AZTI, Marine Research Center, Pasaia, ESPAGNE.
-
 ---
