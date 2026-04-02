@@ -1,4 +1,4 @@
-## Conferences
+# Conferences
 # *OP: Oral presentation;  P: Poster*
 
 **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NOUVELLE-ZELANDE. Confirmed
