@@ -13,4 +13,5 @@
 2021. OP: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, ESPAGNE.
 2020. P: Bacterial bioindicators for reporting contamination around Ichkeul Lake. Second International Conference on Microbial Ecotoxicology, EcotoxicoMic, Montpellier, FRANCE.
 2019. OP: Role of bioindicators in the environmental assessment. AZTI, Marine Research Center, Pasaia, ESPAGNE.
+
 ---
