@@ -5,7 +5,7 @@
 
 **link**: https://doi.org/10.1016/j.jhazmat.2021.126789
 
-**Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).   
+**Citation**: **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).   IF(2022) = 14.3
 
 **About the paper**:
 Here we identify contamination-driven alterations in microbial community structure across the soil–river–lake continuum, enabling the detection of robust microbial biomarkers for environmental monitoring.
@@ -34,7 +34,7 @@ Published: February 2022
 
 **link**: https://doi.org/10.3389/fmicb.2023.869907
 
-**Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). 
+**Citation**: **Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). IF(2023) = 5.5
 
 **About the paper:**  
 The study investigates the vertical stratification of microbial communities in the Salineta hypersaline wetland, a highly saline wetland ecosystem. Using sequencing and microbial ecology analyses, the paper characterizes how microbial diversity and community composition vary with sediment depth and environmental gradients, highlighting the ecological roles of microorganisms in hypersaline conditions.
@@ -51,24 +51,43 @@ Position of Bourhane: 1
 Total number of authors: 7 
 
 **Journal information**  
-**Peer-review process:**  
+
+**Peer-review process**:
 Received: 5 February 2022  
 Accepted: 3 January 2023  
 Published: 27 January 2023 
+
 ---
+**The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome**
 
+**link**: https://doi.org/10.3389/fmicb.2023.1186847
 
+**Citation**:	Amato, P et al **(includes Bourhane, Z)**. (2023). IF(2023) = 5.5
+Zeina's Citation:
+Amato, P. et al. (includes Bourhane Z.). 2023. "The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome". Frontiers in Microbiology. 14:1186847. IF = 5.5 (2023).
 
+**About the paper**:
+This review article examines the aeromicrobiome, the microbial communities inhabiting the Earth’s atmosphere. It synthesizes current knowledge on the diversity, dynamics, and environmental drivers of airborne microbes, highlighting how the atmosphere acts as a selective and dynamic layer connecting terrestrial, aquatic, and human-associated microbiomes.
 
-## Book Chapters
+**Scope**: We reviewed studies on the composition, functional roles, dispersal mechanisms, and ecological significance of airborne microbial communities, emphasizing factors that shape the aeromicrobiome across spatial and temporal scales.
 
-Ayaz, M., & Mughal, M. (2022)  
-Climate Disasters and Sustainability Challenges  
-Palgrave Handbook of Green Finance
+**Impact**: We provide a comprehensive overview that frames the atmosphere as a key component of the Earth’s microbiome, offering insights into microbial transport, ecosystem connectivity, climate interactions, and implications for environmental monitoring and public health.
 
-Brun, M., Ayaz, M., & Mughal, M. (2025)  
-Pakistan: A Future Food and Agricultural Power in 2050?  
-IRIS Club Déméter
+**My contribution**: contributed to the article writing and approved the submitted version.
+
+**More information**:
+
+**Authorship**:
+
+Position of Bourhane: 5
+Total number of authors: 9
+
+**Journal information**
+
+**Peer-review process**:
+Received: 16 March 2023
+Accepted: 24 April 2023
+Published: 16 May 2023
 
 ---
 
