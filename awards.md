@@ -1,5 +1,5 @@
 ---
-title: "MAB - UNESCO Young Scientist Award 2021"
+# title: "MAB - UNESCO Young Scientist Award 2021"
 date: 2021-09-01
 organization: "UNESCO Man and the Biosphere (MAB) Programme"
 image: "/images/awards/mab-award.jpg"
