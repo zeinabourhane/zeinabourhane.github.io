@@ -14,7 +14,7 @@ header_pages:
   - teaching.md
   - outreach.md
   - media.md
-  - research.md
+  - courses.md
   - cv.md
 
 show_excerpts: true
