@@ -5,7 +5,7 @@ Postdoctoral Research Fellow
 ##Université de Pau et des Pays de l'Adour, France
 
 
-Microbial ecology | Metagenomics | Metabolomics | Bioinformatics | Data Scientist 
+Microbial ecology | Metagenomics | Metabolomics | Bioinformatics | Data Scientist .
 
 📍 Pau, France  
 📧 zeina.bourhane@hotmail.com
