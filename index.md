@@ -55,7 +55,7 @@ eDNA extraction; DNA QC (NanoDrop/Xpose) & quantification (Qubit); PCR; qPCR-dat
 Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with Slurm (sbatch) on HPC clusters.
 
 **𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
-Co supervision of MSc students; Participation in multi institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, arabic & English.
+Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, arabic & English.
 
 ----
 
