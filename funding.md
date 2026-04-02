@@ -13,6 +13,7 @@
 ## Travel grant
 
 **2023**: AFEM Young researcher mobility (1200 €)
+
 **2022**: FEMS Conference attendance Grant, Belgrade (1200 €)
 
 **2021**: AFEM Young researcher mobility (500 €)
