@@ -1,11 +1,12 @@
 ## Publications
 ## Journal Articles
 
-Ayaz, M., & Mughal, M. (2024)  
+**Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).  
 **Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
 
 About the paper:
 Here we identify contamination-driven alterations in microbial community structure across the soil–river–lake continuum, enabling the detection of robust microbial biomarkers for environmental monitoring.
+
 Scope: We investigated the changes in microbial diversity and community composition across the soil–river–lake continuum, aiming to link these alterations to environmental contamination and identify microbial biomarkers indicative of ecosystem health.
 
 Impact: We provide a framework for using microbial community shifts as sensitive biomarkers of contamination, offering practical tools for environmental monitoring, early detection of pollution, and management of soil and aquatic ecosystems.
