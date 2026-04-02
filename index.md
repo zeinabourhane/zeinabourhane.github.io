@@ -1,19 +1,20 @@
 <img src="assets/profile.jpg" alt="Muhammad Ayaz" width="180" style="float:left; margin-right:20px; border-radius:10px;">
 # Zeina Bourhane, PhD
 **Postdoctoral Research Fellow**  
-Eklore-ed School of Management, France
+Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
+Université de Pau et des Pays de l'Adour, Pau, France
 
-Economist | Development | Agricultural | Environmental Economics  
+Microbial ecology | Metagenomics | Metabolomics | Bioinformatics | Data Scientist 
 
 📍 France  
-📧 m.ayaz@univ-pau.fr  and  ayaznasar@gmail.com
-🌐 [Google Scholar](https://scholar.google.fr/citations?user=vDB0ClQAAAAJ) | 📄 [HAL](https://hal.science/984215) | 💼 [LinkedIn](https://www.linkedin.com/in/ayaz-khan-12b0b780)
+📧 zeina.bourhane@univ-pau.fr  and  zeina.bourhane@hotmail.com
+🌐 [Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao) | 📄 [orcid]([https://hal.science/984215](https://orcid.org/0000-0002-9663-2584) | 💼 [LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144)
 
 ---
 
 ## About Me
 
-I am an applied economist specializing in **development economics, agricultural productivity, and environmental sustainability**. My research focuses on understanding how economic shocks, climate change, and policy interventions affect Agricultural productivity, poverty, food security, and inequality.
+Scientist in microbial ecology, with expertise in metagenomics, metabolomics and microbial network analysis applied to the valorization of extreme thermal water ecosystems.
 
 <div style="clear: both;"></div>
 ---
