@@ -1,11 +1,9 @@
 ---
-#title: "MAB - UNESCO Young Scientist Award 2021"
-title: "Awards"
+title: "MAB - UNESCO Young Scientist Award 2021"
 date: 2021-09-01
 organization: "UNESCO Man and the Biosphere (MAB) Programme"
 image: "/images/awards/mab-award.jpg"
 ---
-
 I have been awarded the **UNESCO Man and the Biosphere (MAB) Award** for my project:
 
 *“Elaboration of the First Microbial Study of the Environmental Quality of the Jabal Moussa Biosphere Reserve, in Lebanon”.*
