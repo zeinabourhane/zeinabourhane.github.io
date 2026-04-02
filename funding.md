@@ -8,5 +8,17 @@
 
 **2018-2021**: PhD scholarship AQUASALT ERANET MED (Number NMED-0003-01) (98 500 €)
 
+---
+
 ## Travel grant
 
+**2023**: AFEM Young researcher mobility (1200 €)
+**2022**: FEMS Conference attendance Grant, Belgrade (1200 €)
+
+**2021**: AFEM Young researcher mobility (500 €)
+
+**2019**: Grant of Excellence, Energy and Environment Solutions (E2S), France (5000 €)
+
+**2019**: Aquitaine Mobility (AquiMob) International Mobility Grant, UPPA (1200 €)
+
+---
