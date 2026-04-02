@@ -12,8 +12,8 @@ Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatic
 
 📍 Pau, France  
 📧 zeina.bourhane@hotmail.com
-🌐 [Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao) | 💼 [LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144) | 📄 [HAL]([https://hal.science/984215](https://orcid.org/0000-0002-9663-2584)
-
+🌐 [Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao) | 💼 [LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144) | 📄 [HAL]([https://hal.science/984215](https://orcid.org/0000-0002-9663-2584) |
+[Researchgate] (https://www.researchgate.net/profile/Zeina-Bourhane)
 ---
 
 ## About Me
