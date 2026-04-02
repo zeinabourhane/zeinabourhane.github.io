@@ -1,5 +1,4 @@
 ## Funding
-
 ## Research grant
 
 **2026**: Research grant. FEMS (Federation of European Microbiological Societies) (3000 €)
