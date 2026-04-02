@@ -2,7 +2,7 @@
 
 # *OP: Oral presentation;  P: Poster*
 
-**2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NOUVELLE-ZELANDE. Confirmed
+**2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NOUVELLE-ZELANDE. **(CONFIRMED)**
 
 **2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. Société Française de la microbiologie SFM, Bordeaux, FRANCE.
 
