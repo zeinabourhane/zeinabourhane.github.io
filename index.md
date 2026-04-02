@@ -58,14 +58,14 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 ## Education
 
-**PhD in Economics**  
-Université de Pau et des Pays de l’Adour, France (2022)
+**Ph.D. in Physiology and Biology of organisms-Populations-Interactions**  
+[09/2018 – 01/2022]    Université de Pau et des Pays de l’Adour, France
 
-**MPhil in Applied Economics**  
-Applied Economics Research Centre (AERC), University of Karachi
+**MSc. in Management and Conservation of Natural Resources**  
+[09/2016 – 06/2018]    Lebanese University, Beirut, Lebanon 
 
-**MA Economics**  
-University of Balochistan
+**BSc. in Biology**  
+[09/2013 – 06/2016]    Lebanese University, Beirut, Lebanon
 
 ---
 
