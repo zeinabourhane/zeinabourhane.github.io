@@ -1,7 +1,8 @@
 ## Publications
 ## Journal Articles
----
+
 **Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
+**link**: https://doi.org/10.1016/j.jhazmat.2021.126789
 **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).   
 
 **About the paper**:
@@ -10,6 +11,7 @@ Here we identify contamination-driven alterations in microbial community structu
 **Scope**: We investigated the changes in microbial diversity and community composition across the soil–river–lake continuum, aiming to link these alterations to environmental contamination and identify microbial biomarkers indicative of ecosystem health.
 
 **Impact**: We provide a framework for using microbial community shifts as sensitive biomarkers of contamination, offering practical tools for environmental monitoring, early detection of pollution, and management of soil and aquatic ecosystems.
+
 **My contribution**: Conceptualisation, Investigation, Resources, Formal analysis, Writing – original draft.
 
 **More information**:
@@ -21,7 +23,6 @@ Peer-review process:
 Received: 16 February 2021
 Accepted: 28 July 2021
 Published: February 2022
----
 
 Ayaz, M., Martin, H., Maisonnave, H., & Mughal, M. (2024)  
 **Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa**  
