@@ -21,9 +21,9 @@ Table ronde : Devenir professeur-chercheuse en microbiologie
 
 Atelier : Micro-organismes amis ou ennemis ?
 
-**link**: https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3
-
 **link**: https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html
+
+**link**: https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3
 
 ---
 ## Les Cordées Scientifiques
