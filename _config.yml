@@ -1,10 +1,10 @@
 title: "Zeina Bourhane, PhD"
-description: Economist | Development | Agricultural | Environmental Economics
+description: Microbial ecology | Metagenomics | Metabolomics | Bioinformatics
 theme: minima
 
 author:
   name: Zeina Bourhane, PhD
-  email: m.ayaz@univ-pau.fr
+  email: zeina.bourhane@univ-pau.fr
 
 header_pages:
   - publications.md
@@ -12,9 +12,9 @@ header_pages:
   - funding.md
   - awards.md
   - teaching.md
-  - research.md
   - outreach.md
   - media.md
+  - courses.md
   - cv.md
 
 show_excerpts: true
