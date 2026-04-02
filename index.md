@@ -4,6 +4,7 @@ Postdoctoral Research Fellow
 ##Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
 ##Université de Pau et des Pays de l'Adour, France
 
+
 Microbial ecology | Metagenomics | Metabolomics | Bioinformatics | Data Scientist 
 
 📍 France  
