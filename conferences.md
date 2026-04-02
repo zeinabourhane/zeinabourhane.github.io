@@ -1,8 +1,4 @@
----
-layout: page
-title: Conferences
-permalink: /conferences/
----
+
 2026. P: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NOUVELLE-ZELANDE. Confirmé
 2025. P: Bioactive molecules in thermal waters: A revolution in cosmetic products. Société Française de la microbiologie SFM, Bordeaux, FRANCE.
 2025. P: Novel Bioactive molecules in Thermal Waters: A New Frontier in Cosmetic Innovation EcotoxicoMicYR, FRANCE.
