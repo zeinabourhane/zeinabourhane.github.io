@@ -1,4 +1,4 @@
-<img src="assets/profile.jpg" alt="Muhammad Ayaz" width="180" style="float:left; margin-right:20px; border-radius:10px;">
+<img src="assets/profile.jpg" alt="Zeina Bourhane" width="180" style="float:left; margin-right:20px; border-radius:10px;">
 # Zeina Bourhane, PhD
 Postdoctoral Research Fellow 
 ##Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
@@ -8,8 +8,8 @@ Postdoctoral Research Fellow
 Microbial ecology | Metagenomics | Metabolomics | Bioinformatics | Data Scientist 
 
 📍 France  
-📧 zeina.bourhane@hotmail.com  #and  zeina.bourhane@univ-pau.fr
-🌐 [Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao) | 📄 [Orcid]([https://hal.science/984215](https://orcid.org/0000-0002-9663-2584) | 💼 [LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144)
+📧 zeina.bourhane@hotmail.com
+🌐 [Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao) | 💼 [LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144)| 📄 [Orcid]([https://hal.science/984215](https://orcid.org/0000-0002-9663-2584)
 
 ---
 
