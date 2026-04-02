@@ -1,6 +1,6 @@
 ## CV 
 
-**Detailed information**
+## Detailed information
 
 👉 [Download my CV](assets/Zeina_CV.pdf) 
 
