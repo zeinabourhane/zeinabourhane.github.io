@@ -5,7 +5,7 @@ Postdoctoral Research Fellow
 ##Université de Pau et des Pays de l'Adour, France
 
 
-Microbial ecology | Metagenomics | Metabolomics | Bioinformatics | Data Scientist .
+Microbial ecology | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatics | Data Scientist
 
 📍 Pau, France  
 📧 zeina.bourhane@hotmail.com
@@ -32,10 +32,10 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 ## Featured Research
 
-- **Flood shocks and food security in Pakistan**
-- **Land inequality and agricultural productivity**
-- **Livelihood of smallholder farmers in developing countries**
-- **Climate change and SDGs**
+- **Valorization of extreme ecosystems**
+- **Secialized thermostable metabolites**
+- **Microbial interaction and functional networks**
+- **Collective biosynthetic potential**
 
 👉 See full work: [Research](research.md)
 
@@ -71,7 +71,7 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 ## CV
 
-👉 [Download my CV](assets/Ayaz_CV.pdf)
+👉 [Download my CV](assets/Zeina_CV.pdf)
 
 ---
 
