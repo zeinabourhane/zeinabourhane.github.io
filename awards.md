@@ -15,7 +15,7 @@ This award promotes new generations of scientists working on ecological and sust
 
 --
 
-**Grant of Excellence, Energy and Environment Solutions (E2S), France**
+**Grant of Excellence, Energy and Environment Solutions (E2S), 2019**
 
 **organization**: Université de Pau et des Pays de l’Adour, FRANCE 
 
