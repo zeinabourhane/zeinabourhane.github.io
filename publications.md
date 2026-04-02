@@ -3,6 +3,7 @@
 
 **Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
 **link**: https://doi.org/10.1016/j.jhazmat.2021.126789
+
 **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).   
 
 **About the paper**:
@@ -32,17 +33,6 @@ Ayaz, M., & Mughal, M. (2023)
 **Land Inequality and Landlessness in Pakistan**  
 Land Use Policy
 
-Ali, U., Mughal, M., Ayaz, M., & Ahmed (2024)  
-**Migrant remittances and the adoption of information and communication technology**  
-Information Economics and Policy
-
-Ayaz, M., & Mughal, M. (2022)  
-**Family workers’ reluctance to work on away farms and productivity**  
-Development Economics Review
-
-Asghar, M., Ayaz, M., & Ali, S. (2025)  
-**Ecological sustainability in environmentally failed states**  
-Land Use Policy
 
 ---
 
