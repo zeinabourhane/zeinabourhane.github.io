@@ -33,8 +33,6 @@ Published: February 2022
 
 **Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). 
 
----
-
 **About the paper:**  
 The study investigates the vertical stratification of microbial communities in the Salineta hypersaline wetland, a highly saline wetland ecosystem. Using sequencing and microbial ecology analyses, the paper characterizes how microbial diversity and community composition vary with sediment depth and environmental gradients, highlighting the ecological roles of microorganisms in hypersaline conditions.
 
