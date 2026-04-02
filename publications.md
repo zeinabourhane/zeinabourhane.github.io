@@ -17,11 +17,13 @@ Here we identify contamination-driven alterations in microbial community structu
 **My contribution**: Conceptualisation, Investigation, Resources, Formal analysis, Writing – original draft.
 
 **More information**:
+
 **Authorship**:
 Position of Bourhane: 1
 Total number of authors: 10
 
 **Journal information**
+
 **Peer-review process**:
 Received: 16 February 2021
 Accepted: 28 July 2021
@@ -53,8 +55,10 @@ Total number of authors: 7
 Received: 5 February 2022  
 Accepted: 3 January 2023  
 Published: 27 January 2023 
-
 ---
+
+
+
 
 ## Book Chapters
 
