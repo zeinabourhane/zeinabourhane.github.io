@@ -1,8 +1,11 @@
 <img src="assets/profile.jpg" alt="Zeina Bourhane" width="180" style="float:left; margin-right:20px; border-radius:10px;">
 # Zeina Bourhane, PhD
+
 Postdoctoral Research Fellow 
-##Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
-##Université de Pau et des Pays de l'Adour, France
+
+Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
+
+Université de Pau et des Pays de l'Adour, France
 
 Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatics | Data Scientist 
 
