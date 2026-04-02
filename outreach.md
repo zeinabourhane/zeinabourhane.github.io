@@ -29,15 +29,19 @@ Atelier : Micro-organismes amis ou ennemis ?
 ## Les Cordées Scientifiques
 
 Collège Joseph Peyré - Garlin
+
 Atelier : Le rôle des micro-organismes dans l’environnement (15/01/2026)
 
 Collège Jean Sarrailh - Monein
+
 Atelier : Le rôle des micro-organismes dans l’environnement (20/01/2026)
 
 Collège d'Arzacq
+
 Atelier : Les Marvels de l’environnement (03/03/2026)
 
 Collège de Baretous
+
 Atelier : Les Marvels de l’environnement (19/03/2026)
 
 ---
