@@ -14,15 +14,11 @@ This award promotes new generations of scientists working on ecological and sust
 👉 [Learn more about the program](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
 
 --
--
 
-## Publications
-## Articles
+**Grant of Excellence, Energy and Environment Solutions (E2S), France**
 
-**Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
+**organization**: Université de Pau et des Pays de l’Adour, FRANCE 
 
-**link**: https://doi.org/10.1016/j.jhazmat.2021.126789
-
-**Citation**: **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).   IF(2022) = 14.3
+**link**: file:///E:/zbourhane/Downloads/Laureates_InternationalDoctoralMobility_session2_2019.pdf
 
 ---
