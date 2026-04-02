@@ -2,8 +2,25 @@
 ## Journal Articles
 
 Ayaz, M., & Mughal, M. (2024)  
-**Farm-size and Productivity – The Role of Family Labor**  
-Economic Development and Cultural Change
+**Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
+
+About the paper:
+Here we identify contamination-driven alterations in microbial community structure across the soil–river–lake continuum, enabling the detection of robust microbial biomarkers for environmental monitoring.
+Scope: We investigated the changes in microbial diversity and community composition across the soil–river–lake continuum, aiming to link these alterations to environmental contamination and identify microbial biomarkers indicative of ecosystem health.
+
+Impact: We provide a framework for using microbial community shifts as sensitive biomarkers of contamination, offering practical tools for environmental monitoring, early detection of pollution, and management of soil and aquatic ecosystems.
+My contribution: Conceptualisation, Investigation, Resources, Formal analysis, Writing – original draft.
+
+More information:
+Authorship:
+Position of Bourhane: 1
+Total number of authors: 10
+Journal information
+Peer-review process:
+Received: 16 February 2021
+Accepted: 28 July 2021
+Published: February 2022
+
 
 Ayaz, M., Martin, H., Maisonnave, H., & Mughal, M. (2024)  
 **Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa**  
