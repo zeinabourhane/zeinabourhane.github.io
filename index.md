@@ -17,6 +17,7 @@ Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatic
 Scientist in microbial ecology, with expertise in metagenomics, metabolomics and microbial network analysis applied to the valorization of extreme thermal water ecosystems.
 
 <div style="clear: both;"></div>
+
 ---
 
 ## Research Fields
@@ -25,8 +26,6 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 - **Secialized thermostable metabolites**
 - **Microbial interaction and functional networks**
 - **Collective biosynthetic potential**
-
-👉 See full work: [Research](research.md)
 
 ---
 
@@ -42,6 +41,20 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 [09/2013 – 06/2016]    Lebanese University, Beirut, Lebanon
 
 ---
+## Core Sills
+**𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐁𝐢𝐨𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬** 
+R studio; QIIME2, DADA2; Tax4Fun2, PICRUSt2; CoNet, SparCC, among others.
+
+**𝐌𝐨𝐥𝐞𝐜𝐮𝐥𝐚𝐫 & 𝐌𝐢𝐜𝐫𝐨𝐛𝐢𝐚𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬** 
+eDNA extraction; DNA QC (NanoDrop/Xpose) & quantification (Qubit); PCR; qPCR-data interpretation; DGGE
+
+**𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 & 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧**
+Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with Slurm (sbatch) on HPC clusters.
+
+**𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
+Co supervision of MSc students; Participation in multi institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, arabic & English.
+
+----
 
 ## CV
 
