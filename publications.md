@@ -3,8 +3,7 @@
 
 **Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
 
-**link**: https://doi.org/10.1016/j.jhazmat.2021.126789
-[See article here](https://doi.org/10.1016/j.jhazmat.2021.126789)
+👉 [See article here](https://doi.org/10.1016/j.jhazmat.2021.126789)
 
 **Citation**: **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).   IF(2022) = 14.3
 
@@ -33,7 +32,7 @@ Published: February 2022
 ---
 **Vertical organization of microbial communities in Salineta hypersaline wetland, Spain**
 
-**link**: https://doi.org/10.3389/fmicb.2023.869907
+👉 [See article here](https://doi.org/10.3389/fmicb.2023.869907)
 
 **Citation**: **Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). IF(2023) = 5.5
 
@@ -61,7 +60,7 @@ Published: 27 January 2023
 ---
 **The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome**
 
-**link**: https://doi.org/10.3389/fmicb.2023.1186847
+👉 [See article here](https://doi.org/10.3389/fmicb.2023.1186847)
 
 **Citation**:	Amato, P et al **(includes Bourhane, Z)**. (2023). IF(2023) = 5.5
 
