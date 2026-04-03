@@ -18,14 +18,14 @@ I have received travel grants from major international societies (including FEMS
 
 - **2026**: Bourse 75th Lindau Meeting Interdisciplinary, Germany  **(CONFIRMED)**
 
-**2023**: AFEM Young researcher mobility (1200 €)
+- **2023**: AFEM Young researcher mobility (1200 €)
 
-**2022**: FEMS Conference attendance Grant, Belgrade (1200 €)
+- **2022**: FEMS Conference attendance Grant, Belgrade (1200 €)
 
-**2021**: AFEM Young researcher mobility (500 €)
+- **2021**: AFEM Young researcher mobility (500 €)
 
-**2019**: Grant of Excellence, Energy and Environment Solutions (E2S), France (5000 €)
+- **2019**: Grant of Excellence, Energy and Environment Solutions (E2S), France (5000 €)
 
-**2019**: Aquitaine Mobility (AquiMob) International Mobility Grant, UPPA (1200 €)
+- **2019**: Aquitaine Mobility (AquiMob) International Mobility Grant, UPPA (1200 €)
 
 ---
