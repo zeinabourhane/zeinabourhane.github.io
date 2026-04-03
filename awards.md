@@ -18,6 +18,6 @@ This award promotes new generations of scientists working on ecological and sust
 
 **organization**: Université de Pau et des Pays de l’Adour, FRANCE 
 
-**link**: file:///E:/zbourhane/Downloads/Laureates_InternationalDoctoralMobility_session2_2019.pdf
+👉 [Check here](assets/Laureates_InternationalDoctoralMobility_session2_2019.pdf) 
 
 ---
