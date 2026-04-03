@@ -82,7 +82,7 @@ Accepted: 24 April 2023
 Published: 16 May 2023
 
 ---
-## Submitted Papers
+## Submitted Papers *(available upon request)*
 
 **Unveiling the metagenomic profiles of Pyrenean thermal waters**. Under review in Microbiome.
 
