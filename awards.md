@@ -1,8 +1,7 @@
 ## Awards
-
 *Winning an award is always a special moment. Ravi Kishan*
 
-**MAB - UNESCO Young Scientist Award 2021**
+- **MAB - UNESCO Young Scientist Award 2021**
 
 **organization**: "UNESCO Man and the Biosphere (MAB) Programme
 image: "/images/awards/mab-award.jpg"
@@ -16,7 +15,7 @@ This award promotes new generations of scientists working on ecological and sust
 👉 [Learn more about the program](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
 
 ---
-**Grant of Excellence, Energy and Environment Solutions (E2S), 2019**
+- **Grant of Excellence, Energy and Environment Solutions (E2S), 2019**
 
 **organization**: Université de Pau et des Pays de l’Adour, FRANCE 
 
