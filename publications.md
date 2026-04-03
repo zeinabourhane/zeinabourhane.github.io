@@ -115,3 +115,4 @@ My scientific expertise has led me to several invitations to take part in the pe
 - 1 for Thalassas: An International Journal of Marine Sciences (Springer). IF(2024)=1, JCR rank (2022) 10/52 (Q1)
 - 1 for Scientific Reports. (2024)
 
+---
