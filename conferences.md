@@ -26,6 +26,6 @@
 
 **2020**. **P**: Bacterial bioindicators for reporting contamination around Ichkeul Lake. Second International Conference on Microbial Ecotoxicology, EcotoxicoMic, Montpellier, FRANCE.
 
-**2019**. **OP**: Role of bioindicators in the environmental assessment. AZTI, Marine Research Center, Pasaia, SPAIN.
+**2019**. **OP**: Role of bioindicators in the environmental assessment. AZTI, Marine Research Center, Pasaia, SPAIN...
 
 ---
