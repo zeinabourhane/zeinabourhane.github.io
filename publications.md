@@ -1,11 +1,9 @@
 ## Publications
 ## Articles
 
-**Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum**  
-
 **[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
 
-**Citation**: **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022).   IF(2022) = 14.3
+**Citation**: **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022). IF(2022) = 14.3
 
 **About the paper**:
 Here we identify contamination-driven alterations in microbial community structure across the soil–river–lake continuum, enabling the detection of robust microbial biomarkers for environmental monitoring.
@@ -30,9 +28,7 @@ Accepted: 28 July 2021
 Published: February 2022
 
 ---
-**Vertical organization of microbial communities in Salineta hypersaline wetland, Spain**
-
-👉 [See article here](https://doi.org/10.3389/fmicb.2023.869907)
+**[Vertical organization of microbial communities in Salineta hypersaline wetland, Spai](https://doi.org/10.3389/fmicb.2023.869907)**
 
 **Citation**: **Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). IF(2023) = 5.5
 
@@ -58,9 +54,7 @@ Accepted: 3 January 2023
 Published: 27 January 2023 
 
 ---
-**The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome**
-
-👉 [See article here](https://doi.org/10.3389/fmicb.2023.1186847)
+**[The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome](https://doi.org/10.3389/fmicb.2023.1186847)**
 
 **Citation**:	Amato, P et al **(includes Bourhane, Z)**. (2023). IF(2023) = 5.5
 
@@ -88,7 +82,6 @@ Accepted: 24 April 2023
 Published: 16 May 2023
 
 ---
-
 ## Submitted Papers
 
 **Unveiling the metagenomic profiles of Pyrenean thermal waters**. Under review in Microbiome.
@@ -112,7 +105,6 @@ Kouchou A, Tadist F, **Bourhane Z3/7**, Ben Said O, Rais N, Duran R, El Ghachtou
 Bem Salem F, Ben Said O, **Bourhane Z3/8**, Sahbani A, …, Duran R. (2026)
 
 ---
-
 ## Peer-reviewing activity
 
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
