@@ -5,7 +5,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 ## Research grant
 
-- **2026**: Research grant. FEMS (Federation of European Microbiological Societies) (3000 €)
+- **2026**: Research grant. **FEMS (Federation of European Microbiological Societies)**  [Federation of European Microbiological Societies](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
 
 - **2021**: UNESCO MAB for young scientists program grant (5000 $) 👉 [See here](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
 
