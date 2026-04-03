@@ -111,3 +111,15 @@ Kouchou A, Tadist F, Bourhane Z3/7*, Ben Said O, Rais N, Duran R, El Ghachtouli 
 
 Bem Salem F, Ben Said O, Bourhane Z3/8*, Sahbani A, …, Duran R. (2026)
 
+---
+
+## Peer-reviewing activity
+
+My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:
+
+1 for Science (AAAS). IF(2021)=56.9, JCR rank (2022) 2/73 (D1)
+1 for Science Advances (AAAS). IF(2021)=13.6, JCR rank (2022) 7/73 (D1)
+1 for Molecular Ecology (Wiley). IF(2022)=4.9, JCR rank (2022) 8/52 (Q1)
+1 for Proceedings of the Royal Society B - Biological Sciences. IF(2022)=4.7, JCR rank (2022) 10/52 (Q1)
+1 for Scientific Reports.
+
