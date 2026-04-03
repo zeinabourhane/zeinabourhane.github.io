@@ -8,7 +8,7 @@
 
 **2025**. **P**: Novel Bioactive molecules in Thermal Waters: A New Frontier in Cosmetic Innovation EcotoxicoMicYR, FRANCE.
 
-**2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. International School on Mass Spectrometry, Erice, ITALIY.
+**2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. International School on Mass Spectrometry, Erice, ITALIY.....
 
 **2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA.
 
