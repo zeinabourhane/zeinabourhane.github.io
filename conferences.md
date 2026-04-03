@@ -10,7 +10,7 @@
 
 **2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. International School on Mass Spectrometry, Erice, ITALIY. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_i-had-a-pleasure-of-participating-and-presenting-activity-7242796531290968064--m-Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
-**2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA.
+**2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA. 👉 [See pictures](https://www.facebook.com/photo?fbid=10222140473116582&set=pcb.10222140485476891)
 
 **2023**. **P**: How microbial communities organize vertically in hypersaline wetland to ensure biogeochemical cycles? EcotoxicoMic, FRANCE.
 
