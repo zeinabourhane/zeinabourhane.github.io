@@ -117,9 +117,9 @@ Bem Salem F, Ben Said O, Bourhane Z3/8*, Sahbani A, …, Duran R. (2026)
 
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 
-- 1 for  Environmental Pollution. IF(2021)=56.9, JCR rank (2024) 2/73 (D1)
-- 1 for  Environmental Research. IF(2021)=13.6, JCR rank (2025) 7/73 (D1)
-- 1 for Microbial Ecology (Springer). IF(2022)=4.9, JCR rank (2024) 8/52 (Q1)
-- 1 for Thalassas: An International Journal of Marine Sciences (Springer). IF(2026)=4.7, JCR rank (2022) 10/52 (Q1)
+- 1 for Environmental Pollution. IF(2024)=7.3, JCR rank (2024) 2/73 (D1)
+- 1 for Environmental Research. IF(2024)=7.7, JCR rank (2025) 7/73 (D1)
+- 1 for Microbial Ecology (Springer). IF(2024)=4, JCR rank (2024) 8/52 (Q1)
+- 1 for Thalassas: An International Journal of Marine Sciences (Springer). IF(2024)=1, JCR rank (2022) 10/52 (Q1)
 - 1 for Scientific Reports. (2024)
 
