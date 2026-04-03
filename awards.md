@@ -1,7 +1,7 @@
 ## Awards
 *Winning an award is always a special moment. Ravi Kishan*
 
-- **MAB - UNESCO Young Scientist Award 2021**
+- **MAB - UNESCO Young Scientist Award, 2021**
 
 **organization**: "UNESCO Man and the Biosphere (MAB) Programme
 image: "/images/awards/mab-award.jpg"
