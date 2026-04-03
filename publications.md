@@ -28,7 +28,7 @@ Accepted: 28 July 2021
 Published: February 2022
 
 ---
-**[Vertical organization of microbial communities in Salineta hypersaline wetland, Spai](https://doi.org/10.3389/fmicb.2023.869907)**
+**[Vertical organization of microbial communities in Salineta hypersaline wetland, Spain](https://doi.org/10.3389/fmicb.2023.869907)**
 
 **Citation**: **Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). IF(2023) = 5.5
 
