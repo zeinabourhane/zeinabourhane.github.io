@@ -20,7 +20,7 @@ I have received travel grants from major international societies (including FEMS
 
 - **2023**: AFEM Young researcher mobility (1200 €)
 
-- **2022**: FEMS Conference attendance Grant, Belgrade (1200 €)
+- **2022**: Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/) Conference attendance Grant, Belgrade, Serbia (1200 €)
 
 - **2021**: AFEM Young researcher mobility (500 €)
 
