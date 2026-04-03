@@ -1,4 +1,4 @@
-## Courses
+## Courses and Certificates
 
 **Developing Skills for Women Leadership in Climate Action**
 
