@@ -13,7 +13,7 @@ Filles et sciences : atelier sur les stéréotypes et comment s'en prémunir, en
 ---
 ## Circuit Scientifique
 
-Cité Scolaire Gaston Crampe -Aire sur Adour
+Cité Scolaire Gaston Crampe -Aire sur Adour  👉 [See my participation here](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 Table ronde : Devenir professeur-chercheuse en microbiologie
 
