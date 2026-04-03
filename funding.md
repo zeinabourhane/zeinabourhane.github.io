@@ -16,7 +16,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 I have received travel grants from major international societies (including FEMS,AFEM, …), enabling my participation in global meetings or courses across Europe and Asia.
 
-**2026**: Bourse 75th Lindau Meeting Interdisciplinary, Germany  **(CONFIRMED)**
+-**2026**: Bourse 75th Lindau Meeting Interdisciplinary, Germany  **(CONFIRMED)**
 
 **2023**: AFEM Young researcher mobility (1200 €)
 
