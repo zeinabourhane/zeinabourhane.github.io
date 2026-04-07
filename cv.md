@@ -95,19 +95,19 @@ Hosts: Prof. Angel Borga, Dr. Anders Lanzén
 ---
 ## III- Membership of scientific organizations
 
-**2026-** Pins of Sciences (Event Mananger)
+**2026- present** Pins of Sciences (Event Mananger)
 
-**2026-** ISME member (International Society for Microbial Ecology)
+**2026- present** ISME member (International Society for Microbial Ecology)
 
-**2025-**  SFM member (Société Française de Microbiologie) : https://www.sfm-microbiologie.org/
+**2025- present**  SFM member (Société Française de Microbiologie) : https://www.sfm-microbiologie.org/
 
-**2025-** NextGen4MED: Network of young researchers focused on sustainable water management in the Mediterranean
+**2025- present** NextGen4MED: Network of young researchers focused on sustainable water management in the Mediterranean
 
-**2024-** SFBI member (Société savante de la bioinformatique) : https://www.sfbi.fr
+**2024- present** SFBI member (Société savante de la bioinformatique) : https://www.sfbi.fr
 
-**2020-** EcotoxicoMic member: https://ecotoxicomic.org
+**2020- present** EcotoxicoMic member: https://ecotoxicomic.org
 
-**2019-** AFEM member (Francophone Association of Microbial Ecology)
+**2019- present** AFEM member (Francophone Association of Microbial Ecology)
 
 ---
 ## IV- Core Skills
@@ -136,6 +136,6 @@ English – C1*
 
 Arabic – Native
 
-Common European Framework of Reference
+* Common European Framework of Reference
 
 ---
