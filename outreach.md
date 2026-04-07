@@ -14,6 +14,7 @@ On This Page you find
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
 
+---
 ## I- Scientific fairs (11)
 
 - **Les Cordées Scientifiques** (2026)
