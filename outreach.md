@@ -2,15 +2,15 @@
 
 On This Page
 
-- **[I- Scientific fairs (10)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
+- **[I- Scientific fairs (11)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
 
 - **[II- School visits (13 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)**
 
-- **[Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
+- **[III- Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
 
-- **[General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
+- **[IV- General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
-- Workshops
+- **[V- Workshops]**
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
 
@@ -60,7 +60,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - Collège Ammar El Baykat, LEBANON (10/11/2021), in person.
 
 ---
-## Popular science articles / Bolgs (3)
+## III-  Popular science articles / Bolgs (3)
 
 - **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)** 👉 [More details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbes-metabolites-share-7400642395698122752-akVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
@@ -69,7 +69,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - **IPREM Bulletin** (2025). An article entiteld **[Étude des micro-organismes dans les eaux thermales des Pyrénées : un potentiel caché pour des cosmétiques durables](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?mtm_campaign=Newsletters/Le%20Mensuel%20de%20l%27Universit%C3%A9&mtm_medium=email&mtm_source=N%C2%B085%20-%2007/10/2025%20-%20ERRATUM%20-%20Lisez%20le%20Mensuel%20de%20l%27universit%C3%A9-85-2025-10-07)**
   
 ---
-## General public talks (5)
+## IV- General public talks (5)
 
 - **Les Cordées Scientifiques** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
 
@@ -82,32 +82,10 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - **Science outreach talk** (2018). Doctoral Scool Day. Université de Pau et des Pays de l’Adour
 
 ---
-## Village des Sciences
+## V- Workshops
 
-Lycée Jules Supervielle /OLORON-SAINTE-MARIE 
+-**[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
 
-Filles et sciences : atelier sur les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques
-
-**link**: https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html
-
----
-## Circuit Scientifique
-
-Cité Scolaire Gaston Crampe -Aire sur Adour  👉 [See my participation here](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
-
-
-Atelier : Micro-organismes amis ou ennemis ?
-
-**link**: https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html
-
-**link**: https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3
-
----
-## Les Cordées Scientifiques
-
-Atelier : Le rôle des micro-organismes dans l’environnement (15/01/2026)
-
-Atelier : Les Marvels de l’environnement (03/03/2026)
-
+- 
 
 ---
