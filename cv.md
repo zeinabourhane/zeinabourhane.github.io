@@ -31,7 +31,6 @@ Pau University (UPPA), CNRS, France
 Advisors: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
 
 ---
-
 **[06/2023 – 07/2024]    Researcher**
 
 Microbial Ecology (CNRS-L - UNESCO)
