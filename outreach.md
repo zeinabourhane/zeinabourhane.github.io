@@ -89,6 +89,9 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 
 
 <p style="text-align:center;">
-  <img src="/assets/images/profile.jpg" width="400">
+  <img src="/assets/profile.jpg" width="400">
 </p>
+
+<img src="assets/profile.jpg" alt="Zeina Bourhane" width="200" style="float:left; margin-right:20px; border-radius:10px;">
+
 ---
