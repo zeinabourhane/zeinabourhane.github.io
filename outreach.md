@@ -87,11 +87,4 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 
 - **[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
 
-
-<p style="text-align:center;">
-  <img src="/assets/profile.jpg" width="400">
-</p>
-
-<img src="assets/profile.jpg" alt="Zeina Bourhane" width="200" style="float:left; margin-right:20px; border-radius:10px;">
-
 ---
