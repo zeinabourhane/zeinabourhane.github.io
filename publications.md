@@ -1,4 +1,14 @@
 ## Publications
+
+On this page
+
+- [Article](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)
+
+- [Submitted Papers *(available upon request)*](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#submitted-papers-available-upon-request)
+  
+- [Peer-reviewing activity](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)
+  
+
 ## Articles
 
 - **[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
@@ -117,7 +127,7 @@ My scientific expertise has led me to several invitations to take part in the pe
   
   ** All stated reviews have been certified by Publons/ ResearcherID: OWA-4138-2025
   
-
+---
   
 
 ---
