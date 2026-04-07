@@ -25,7 +25,6 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 <div style="clear: both;"></div>
 
 ---
-
 ## Research Fields
 
 - Valorization of extreme ecosystems
@@ -34,7 +33,6 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 - Microbial collective biosynthetic potential
   
 ---
-
 ## Education
 
 **Ph.D. in Physiology and Biology of organisms-Populations-Interactions**  
