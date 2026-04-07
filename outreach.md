@@ -2,7 +2,7 @@
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
 
-## Scientific fairs 
+## I- Scientific fairs 
 
 - Les Cordées Scientifiques (2026)
   
@@ -21,6 +21,25 @@ Commitment to public outreach is central in my career and therefore, I am always
 - Fête de la Science (2021): Preparation of a workshop for the two-day open doors at Université de Pau et des Pays de l’Adour 
 
 - Open doors day (2019): Participation as an instructor in workshops, conferences and debates fors tudents in the event (Université de Pau et des Pays de l’Adour)
+
+---
+## II- School visits (13 visits across 2 countries)
+
+I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
+
+- Cité Scolaire Gaston Crampe -Aire sur Adour (09/10/2025)  
+
+- Collège Joseph Peyré - Garlin, FRANCE (15/01/2026), in person.
+  
+- Collège Jean Sarrailh - Monein, FRANCE  (20/01/2026), in person.
+  
+- Collège d'Arzacq, FRANCE (03/03/2026), in person.
+  
+- Collège de Baretous, FRANCE (19/03/2026), in person.
+  
+- Lycee Nour Al Houda, LEBNAON (2022), in person.
+  
+- College Anae El Baykat, LEBANON (2021), in person.
 
 ---
 ## Village des Sciences
