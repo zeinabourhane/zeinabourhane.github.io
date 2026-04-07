@@ -69,6 +69,7 @@ Pau University (UPPA), CNRS, France
 Advisors: Prof. Robert Duran, Dr. Christine Cagnon
 
 ---
+
 ## II- International Scientific stays
 
 **[06/2026 – 08/2026]   Research training (Confirmed)**
@@ -105,6 +106,7 @@ AZTI Marine research center, Pasaia, Spain
 Hosts: Prof. Angel Borga, Dr. Anders Lanzén 
 
 ---
+
 ## III- Membership of scientific organizations
 
 **2026- present** Pint of Sciences [Event Manager](https://pintofscience.fr/equipe/Pau/)
@@ -122,6 +124,7 @@ Hosts: Prof. Angel Borga, Dr. Anders Lanzén
 **2019- present** AFEM member (Francophone Association of Microbial Ecology)
 
 ---
+
 ## IV- Core Skills
 
 **Data Analysis and Bioinformatics**
@@ -140,6 +143,7 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ---
+
 ## V- Languages
 
 French – C1*
