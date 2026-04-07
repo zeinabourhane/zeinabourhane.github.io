@@ -2,17 +2,21 @@
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
 
-## Scientific fairs 
+## Scientific fairs https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM
 
 - Les Cordées Scientifiques (2026)
+  
+- Fête de la Science (2025) 👉 [My participation](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
-- Table ronde (2025) : Devenir professeur-chercheuse en microbiologie [See here](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
+- Nuits Européennes des chercheuses & chercheurs 
 
-- Villages des Sciences (2025):  at Université de Pau et des Pays de l’Adour  
+- Table ronde (2025) : Devenir professeur-chercheuse en microbiologie 👉 [See here](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
 
-- Girls in Science (2025): les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
+- Villages des Sciences (2025):  at Université de Pau et des Pays de l’Adour  👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
-- Les Nuees Ardentes (2023): at Université Clermont Auvergne, France
+- Girls in Science (2025): les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
+
+- Les Nuées Ardentes (2023): at Université Clermont Auvergne, France
 
 - Fête de la Science (2021): Preparation of a workshop for the two-day open doors at Université de Pau et des Pays de l’Adour 
 
