@@ -1,6 +1,8 @@
 ## Awards
 *Winning an award is always a special moment. Ravi Kishan*
 
+<img src="images/mab-awar.jpg" alt="Zeina Bourhane" width="180" style="float➡️; margin-right:20px; border-radius:10px;">
+
 - **MAB - UNESCO Young Scientist Award, 2021**
 
 **organization**: "UNESCO Man and the Biosphere (MAB) Programme
