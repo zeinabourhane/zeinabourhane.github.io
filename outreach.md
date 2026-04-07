@@ -75,17 +75,15 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 
 - **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers’ talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
 
-- **Circuit Scientifique** (2025).  I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France.  [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+- **Circuit Scientifique** (2025).  I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. 👉 [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
   
-- **Fête de la Science** (2025). I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+- **Fête de la Science** (2025). I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. 👉 [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 - **Science outreach talk** (2018). Doctoral Scool Day. Université de Pau et des Pays de l’Adour
 
 ---
-## V- Workshops
+## V- Workshop (1)
 
--**[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
-
-- 
+- **[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
 
 ---
