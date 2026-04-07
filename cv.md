@@ -72,7 +72,7 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 
 **Teaching and Projects**
 
-Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, arabic & English.
+Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ---
 ## Languages
