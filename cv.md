@@ -4,7 +4,7 @@
 
 👉 [Download my CV](assets/Zeina_CV.pdf) 
 
-## Academic Positions
+## I- Academic Positions
 
 **[10/2024 – Present]    Postdoctoral fellow**
 
@@ -57,7 +57,7 @@ Pau University (UPPA), CNRS, France
 Advisors: Prof. Robert Duran, Dr. Christine Cagnon
 
 ---
-## IV.	International Scientific stays
+## II- International Scientific stays
 
 **[06/2026 – 08/2026]   Research training (Confirmed)**
 
@@ -66,7 +66,6 @@ Metagenomic insights into microbial dynamics under redox conditions in extreme t
 Host: Pr. Carmen Castañeda, CSIC, Zaragoza, Spain
 
 ---
-
 **[09/2024]    International School on Ion Mobility MASS SPECTROMETRY**
 
 Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications
@@ -94,7 +93,7 @@ AZTI Marine research center, Pasaia, Spain
 Hosts: Prof. Angel Borga, Dr. Anders Lanzén 
 
 ---
-## Core Skills
+## III- Core Skills
 
 **Data Analysis and Bioinformatics**
 
@@ -112,7 +111,7 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ---
-## Languages
+## IV- Languages
 
 French – C1*
 
