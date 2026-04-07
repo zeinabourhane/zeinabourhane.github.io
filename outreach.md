@@ -24,9 +24,9 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - **Table ronde Girls in Research** (2025). Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
 
-- **Circuit Scientifiques** (2025). Université de Pau et des Pays de l’Adour  👉 See [Advertisment](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html) and [my participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3)
+- **Circuit Scientifiques** (2025). Université de Pau et des Pays de l’Adour  👉 See [Advertisement](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html) and [my participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3)
 
-- **Villages des Sciences** (2025). Université de Pau et des Pays de l’Adour  👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
+- **Villages des Sciences** (2025). Université de Pau et des Pays de l’Adour  👉 [My participation](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
 - **Girls in Science** (2025). les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
