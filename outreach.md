@@ -8,7 +8,7 @@ On This Page
 
 - **[Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
 
-- **[General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
+- **[General public talks (4)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
 - Workshops
 
@@ -18,7 +18,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - **Les Cordées Scientifiques** (2026)
   
-- **Fête de la Science** (2025) 👉 [My participation](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+- **Fête de la Science** (2025) 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
   
 - **Nuit de la recherche en Nouvelle-Aquitaine** (2025) 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
 
