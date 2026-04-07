@@ -2,11 +2,11 @@
 
 On This Page
 
-- [I- Scientific fairs (10)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)
+- **[I- Scientific fairs (10)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
 
-- [II- School visits (13 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)
+- **[II- School visits (13 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)**
 
-- [Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)
+- **[Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
 
 - Workshops
 
