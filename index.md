@@ -33,7 +33,7 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 - Secialized thermostable metabolites
 - Microbial interaction and functional networks
 - Microbial collective biosynthetic potential
-- 
+  
 ---
 
 ## Education
