@@ -27,11 +27,13 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
 
-- Cité Scolaire Gaston Crampe -Aire sur Adour (09/10/2025)  
+- Cité Scolaire Gaston Crampe -Aire sur Adour (10/10/2025), in person.
+  
+- Lycée Jules Supervielle /Oloron-Sainte-Marie (09/10/2025), in person. 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
 - Collège Joseph Peyré - Garlin, FRANCE (15/01/2026), in person.
   
-- Collège Jean Sarrailh - Monein, FRANCE  (20/01/2026), in person.
+- Collège Jean Sarrailh - Monein, FRANCE (20/01/2026), in person.
   
 - Collège d'Arzacq, FRANCE (03/03/2026), in person.
   
@@ -42,11 +44,15 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - Collège Ammar El Baykat, LEBANON (10/11/2021), in person.
 
 ---
-## Popular science articles 
+## Popular science articles (3)
 
-- **PANORAMA** (2025). An article Entitled 
+- **PANORAMA** (2025). An article Entitled *Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet* 👉 [Read here](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)
 
+- **SDG Academy** (2025). An article entiteld *Thermal Waters: From Research to Innovation* 👉 [Read here](https://sdgacademy.org/thermal-waters-from-research-to-innovation/?utm_content=buffer93014&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
+- **IPREM Bulletin** (2025). An article entiteld *Étude des micro-organismes dans les eaux thermales des Pyrénées : un potentiel caché pour des cosmétiques durables* 👉 [Read here](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?mtm_campaign=Newsletters/Le%20Mensuel%20de%20l%27Universit%C3%A9&mtm_medium=email&mtm_source=N%C2%B085%20-%2007/10/2025%20-%20ERRATUM%20-%20Lisez%20le%20Mensuel%20de%20l%27universit%C3%A9-85-2025-10-07)
+  
+  
 ---
 ## Village des Sciences
 
