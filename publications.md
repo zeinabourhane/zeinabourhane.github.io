@@ -2,11 +2,11 @@
 
 On this page
 
-- **I- [Articles](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
+- **[I- Articles](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
 
-- **II- [Submitted Papers *(available upon request)*](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#submitted-papers-available-upon-request)**
+- **[II- Submitted Papers *(available upon request)*](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#submitted-papers-available-upon-request)**
   
-- **III- [Peer-reviewing activity](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
+- **[III- Peer-reviewing activity](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
   
 
 ## I- Articles
