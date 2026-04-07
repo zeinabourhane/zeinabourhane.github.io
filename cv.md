@@ -93,6 +93,17 @@ AZTI Marine research center, Pasaia, Spain
 Hosts: Prof. Angel Borga, Dr. Anders Lanzén 
 
 ---
+## III- Membership of scientific organizations
+
+**2026-** Pins of Sciences (Event Mananger)
+**2026-** ISME member (International Society for Microbial Ecology)
+**2025-**  SFM member (Société Française de Microbiologie) : https://www.sfm-microbiologie.org/
+**2025-** NextGen4MED: Network of young researchers focused on sustainable water management in the Mediterranean
+**2024-** SFBI member (Société savante de la bioinformatique) : https://www.sfbi.fr
+**2020-** EcotoxicoMic member: https://ecotoxicomic.org
+**2019-** AFEM member (Francophone Association of Microbial Ecology)
+
+---
 ## III- Core Skills
 
 **Data Analysis and Bioinformatics**
