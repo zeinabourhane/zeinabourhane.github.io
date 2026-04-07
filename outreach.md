@@ -8,6 +8,8 @@ On This Page
 
 - **[Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
 
+- **[General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
+
 - Workshops
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
@@ -67,10 +69,13 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 ---
 ## General public talks (4)
 
+- **Les Cordées Scientifiques** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
 
-- 
+- **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers talks.
+  
+- **Fête de la Science** (2025). I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. 
 
-
+- **Science outreach talk** (2018). Doctoral Scool Day. Université de Pau et des Pays de l’Adour
 
 ---
 ## Village des Sciences
