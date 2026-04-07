@@ -17,7 +17,7 @@ I have gained teaching experience at public universities across TWO countries, d
 
 I have supervised and mentored five undergraduate and master’s students in Lebanon and France. Three of them continued into doctoral studies. These experiences have enhanced my mentoring abilities while contributing to their training and research career.
 
-Among the students:
+**Among the students:**
 
 Madeline Simone, thèse de master, Université de Pau, France (2025-2026) 
 
