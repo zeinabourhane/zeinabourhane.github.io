@@ -26,10 +26,8 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. 👉 [See abstract](assets/SETAC31-europe2021abstractbook.pdf)
 
-**2020**. **P**: Bacterial bioindicators for reporting contamination around Ichkeul Lake. Second International Conference on Microbial Ecotoxicology, EcotoxicoMic, Montpellier, FRANCE.
+**2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtuel Format), Montpellier, FRANCE.
 
 **2019**. **OP**: Role of bioindicators in the environmental assessment. AZTI, Marine Research Center, Pasaia, SPAIN.
 
-
-[See pic](assets/profile.png)
 ---
