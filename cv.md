@@ -16,7 +16,7 @@ On this page you find
 
   ---
   
-## **I- Academic Positions**
+## I- Academic Positions**
 
 **[10/2024 – Present]    Postdoctoral fellow**
 
