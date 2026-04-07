@@ -107,17 +107,17 @@ Hosts: Prof. Angel Borga, Dr. Anders Lanzén
 ---
 ## III- Membership of scientific organizations
 
-**2026- present** Pins of Sciences (Event Mananger)
+**2026- present** Pint of Sciences [Event Manager](https://pintofscience.fr/equipe/Pau/)
 
 **2026- present** ISME member (International Society for Microbial Ecology)
 
-**2025- present**  SFM member (Société Française de Microbiologie) : https://www.sfm-microbiologie.org/
+**2025- present**  SFM member [Société Française de Microbiologie](https://www.sfm-microbiologie.org/)
 
 **2025- present** NextGen4MED: Network of young researchers focused on sustainable water management in the Mediterranean
 
-**2024- present** SFBI member (Société savante de la bioinformatique) : https://www.sfbi.fr
+**2024- present** SFBI member [Société savante de la bioinformatique](https://www.sfbi.fr)
 
-**2020- present** EcotoxicoMic member: https://ecotoxicomic.org
+**2020- present** [EcotoxicoMic member](https://ecotoxicomic.org/?s=zeina)
 
 **2019- present** AFEM member (Francophone Association of Microbial Ecology)
 
