@@ -14,7 +14,7 @@ On This Page
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
 
-## I- Scientific fairs (10)
+## I- Scientific fairs (11)
 
 - **Les Cordées Scientifiques** (2026)
   
@@ -73,7 +73,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 
 - **Les Cordées Scientifiques** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
 
-- **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
+- **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers’ talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
 
 - **Circuit Scientifique** (2025).  I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France.  [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
   
