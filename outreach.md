@@ -7,6 +7,8 @@ Commitment to public outreach is central in my career and therefore, I am always
 - Les Cordées Scientifiques (2026)
   
 - Fête de la Science (2025) 👉 [My participation](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+  
+- Nuit de la recherche en Nouvelle-Aquitaine (2025): 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
 
 - Table ronde (2025) : Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
 
@@ -14,11 +16,11 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - Girls in Science (2025): les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
-- Nuits Européennes des chercheuses & chercheurs (2024)
+- Women in STEM (2025): University of Pau. Participation in a networking event dedicated to women in research, aimed at fostering connections and supporting female researchers (Pau, France).
 
-- Les Nuées Ardentes (2023): at Université Clermont Auvergne, France
+- Les Journées Nuées Ardentes (2023): Participation as an instructor in workshops, podcasts, conferences, and debates for both children and adults during the event where participants discovered scientific curiosity laboratories run by researchers and students from the University of Clermont Auvergne (UCA) (Clermont Auvergne, France).
 
-- Fête de la Science (2021): Preparation of a workshop for the two-day open doors at Université de Pau et des Pays de l’Adour 
+- Fête de la Science (2021): Participation as an instructor in workshops, connecting researchers and the general public. The event allows citizens of all ages to discover science through workshops, exhibitions and various experiences (Pau, France).
 
 - Open doors day (2019): Participation as an instructor in workshops, conferences and debates fors tudents in the event (Université de Pau et des Pays de l’Adour)
 
