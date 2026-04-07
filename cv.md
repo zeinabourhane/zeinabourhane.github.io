@@ -17,7 +17,6 @@ Institute of Analytical Sciences and Physico-Chemistry for the Environment and M
 Pau University (UPPA), CNRS, France
 
 Advisors: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
-
 ---
 
 **[06/2023 – 07/2024]    Researcher**
