@@ -49,17 +49,21 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 ---
 ## Core Sills
-**𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐁𝐢𝐨𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬** 
+
+**Data Analysis and Bioinformatics**
+
 R studio; QIIME2, DADA2; Tax4Fun2, PICRUSt2; CoNet, SparCC, among others.
 
-**𝐌𝐨𝐥𝐞𝐜𝐮𝐥𝐚𝐫 & 𝐌𝐢𝐜𝐫𝐨𝐛𝐢𝐚𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬** 
-eDNA extraction; DNA QC (NanoDrop/Xpose) & quantification (Qubit); PCR; qPCR-data interpretation; DGGE
+**Molecular and Microbial Techniques**
 
-**𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 & 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧**
+eDNA/RNA extraction; DNA QC (NanoDrop/Xpose) & quantification (Qubit); PCR; qPCR-data interpretation
+
+**Computing and Workflow Automation**
 Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with Slurm (sbatch) on HPC clusters.
 
-**𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
-Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, arabic & English.
+**Teaching and Projects**
+
+Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ----
 
