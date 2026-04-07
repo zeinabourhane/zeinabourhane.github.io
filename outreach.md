@@ -4,13 +4,21 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 ## Scientific fairs 
 
-•	Les Cordées Scientifiques (2026) 
-•	Villages des Sciences (2025) at Université de Pau et des Pays de l’Adour                       
-•	For Girls in Science (2025). Speed-dating with high-school students at the Cité des Sciences (Pau, France)
-•	Les Nuees Ardentes (2023). Universite Clermont Auvergne
-•	Fête de la Science (2021). Preparation of a workshop for the two-day open doors at Université de Pau et des Pays de l’Adour 
-•	Open doors day (2019). Participation as an instructor in workshops, conferences and debates fors tudents in the event ( Université de Pau et des Pays de l’Adour )
+- Les Cordées Scientifiques (2026)
 
+- Table ronde (2025) : Devenir professeur-chercheuse en microbiologie [See here](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
+
+- Villages des Sciences (2025):  at Université de Pau et des Pays de l’Adour  
+
+- Girls in Science (2025): les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
+
+- Les Nuees Ardentes (2023): at Université Clermont Auvergne, France
+
+- Fête de la Science (2021): Preparation of a workshop for the two-day open doors at Université de Pau et des Pays de l’Adour 
+
+- Open doors day (2019): Participation as an instructor in workshops, conferences and debates fors tudents in the event (Université de Pau et des Pays de l’Adour)
+
+---
 ## Village des Sciences
 
 Lycée Jules Supervielle /OLORON-SAINTE-MARIE 
