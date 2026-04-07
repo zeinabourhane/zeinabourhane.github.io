@@ -46,9 +46,9 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 ---
 ## Popular science articles (3)
 
-- **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)**
+- **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)** 👉 [More details](
 
-- **SDG Academy** (2025). An article entiteld **[Thermal Waters: From Research to Innovation](https://sdgacademy.org/thermal-waters-from-research-to-innovation/?utm_content=buffer93014&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)** 👉 [More information](
+- **SDG Academy** (2025). An article entiteld **[Thermal Waters: From Research to Innovation](https://sdgacademy.org/thermal-waters-from-research-to-innovation/?utm_content=buffer93014&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)** 👉 [More information](https://www.linkedin.com/posts/sdg-academy_sdgs-moocs-activity-7394831326429999104-QRTV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 - **IPREM Bulletin** (2025). An article entiteld **[Étude des micro-organismes dans les eaux thermales des Pyrénées : un potentiel caché pour des cosmétiques durables](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?mtm_campaign=Newsletters/Le%20Mensuel%20de%20l%27Universit%C3%A9&mtm_medium=email&mtm_source=N%C2%B085%20-%2007/10/2025%20-%20ERRATUM%20-%20Lisez%20le%20Mensuel%20de%20l%27universit%C3%A9-85-2025-10-07)**
   
