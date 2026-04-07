@@ -65,6 +65,14 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - **IPREM Bulletin** (2025). An article entiteld **[Étude des micro-organismes dans les eaux thermales des Pyrénées : un potentiel caché pour des cosmétiques durables](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?mtm_campaign=Newsletters/Le%20Mensuel%20de%20l%27Universit%C3%A9&mtm_medium=email&mtm_source=N%C2%B085%20-%2007/10/2025%20-%20ERRATUM%20-%20Lisez%20le%20Mensuel%20de%20l%27universit%C3%A9-85-2025-10-07)**
   
 ---
+## General public talks (4)
+
+
+- 
+
+
+
+---
 ## Village des Sciences
 
 Lycée Jules Supervielle /OLORON-SAINTE-MARIE 
