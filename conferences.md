@@ -6,7 +6,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NEW ZEANLAND. **(CONFIRMED)**
 
-**2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. Société Française de la microbiologie SFM, Bordeaux, FRANCE. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+**2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. Société Française de la microbiologie SFM, Bordeaux, FRANCE. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/SFM-Microbes 2025-Bordeaux.pdf)
 
 **2025**. **P**: Novel Bioactive molecules in Thermal Waters: A New Frontier in Cosmetic Innovation EcotoxicoMicYR, FRANCE. 👉 [See video](https://www.youtube.com/watch?v=jd-LUYRIm28)
 
@@ -18,7 +18,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2022**. **P**: Comparison of bacterial biodegradation of polycyclic aromatic hydrocarbons (PAHs) in the atmosphere and soil. Int. Society for Microbial Ecology (ISME18), Lausanne, SWITZERLAND.
 
-**2022**. **P**: Vertical organisation of microbial communities in Salineta hypersaline wetland, Spain. International Society for Microbial Ecology (ISME18), Belgrade, SERBIA.
+**2022**. **P**: Vertical organisation of microbial communities in Salineta hypersaline wetland, Spain. International Society for Microbial Ecology (ISME18), Belgrade, SERBIA. 👉 [See Poster](assets/Poster-FEMS Belgrade2022.pdf)
 
 **2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. International Conference: Science and Research in, for and with UNESCO Biosphere Reserves, Eberswalde, GERMANY. 👉 [See more details](https://www.facebook.com/photo/?fbid=10220376892628172&set=a.10218179401692272)
 
