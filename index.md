@@ -14,7 +14,7 @@ Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatic
 
 📧 zeina.bourhane@hotmail.com
 
-🌐 **[Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao)** | 💼 **[LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144)** | 📄 **[HAL](https://hal.science/984215)** |
+🌐 **[Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao)** | 💼 **[LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144)** | 📄 **[HAL](https://hal.science/984215)**
 | **[ORCID](https://orcid.org/0000-0002-9663-2584)** | **[Researchgate](https://www.researchgate.net/profile/Zeina-Bourhane)**
 
 ---
@@ -39,7 +39,7 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 ## Education
 
 **Ph.D. in Physiology and Biology of organisms-Populations-Interactions**  
-[09/2018 – 01/2022]    Université de Pau et des Pays de l’Adour, France
+[09/2018 – 12/2021]    Université de Pau et des Pays de l’Adour, France
 
 **MSc. in Management and Conservation of Natural Resources**  
 [09/2016 – 06/2018]    Lebanese University, Beirut, Lebanon 
