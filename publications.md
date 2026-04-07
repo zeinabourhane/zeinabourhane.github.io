@@ -17,6 +17,7 @@ Here we identify contamination-driven alterations in microbial community structu
 **More information**:
 
 **Authorship**:
+
 Position of Bourhane: 1
 
 Total number of authors: 10
@@ -24,7 +25,6 @@ Total number of authors: 10
 **Journal information**
 
 **Peer-review process**:
-
 Received: 16 February 2021; Accepted: 28 July 2021; Published: February 2022
 
 ---
@@ -44,6 +44,7 @@ The study investigates the vertical stratification of microbial communities in t
 **More information:**  
 
 **Authorship:**  
+
 Position of Bourhane: 1  
 
 Total number of authors: 7 
@@ -78,9 +79,7 @@ Total number of authors: 9
 
 **Peer-review process**:
 
-Received: 16 March 2023;
-Accepted: 24 April 2023;
-Published: 16 May 2023
+Received: 16 March 2023; Accepted: 24 April 2023; Published: 16 May 2023
 
 ---
 ## Submitted Papers *(available upon request)*
