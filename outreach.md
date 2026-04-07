@@ -8,7 +8,7 @@ Commitment to public outreach is central in my career and therefore, I am always
   
 - Fête de la Science (2025) 👉 [My participation](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
   
-- Nuit de la recherche en Nouvelle-Aquitaine (2025): 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
+- Nuit de la recherche en Nouvelle-Aquitaine (2025) 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
 
 - Table ronde (2025) : Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
 
@@ -16,9 +16,9 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - Girls in Science (2025): les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
-- Women in STEM (2025): University of Pau. Participation in a networking event dedicated to women in research, aimed at fostering connections and supporting female researchers (Pau, France).
+- Women in STEM (2025): Participation in a networking event dedicated to women in research, aimed at fostering connections and supporting female researchers (Université de Pau et des Pays de l’Adour).
 
-- Les Journées Nuées Ardentes (2023): Participation as an instructor in workshops, podcasts, conferences, and debates for both children and adults during the event where participants discovered scientific curiosity laboratories run by researchers and students from the University of Clermont Auvergne (UCA) (Clermont Auvergne, France).
+- Les Journées Nuées Ardentes (2023): Participation as an instructor in workshops, podcasts, conferences, and debates for both children and adults during the event where participants discovered scientific curiosity laboratories run by researchers and students from the University of Clermont Auvergne (UCA) (Clermont Ferrand, France).
 
 - Fête de la Science (2021): Participation as an instructor in workshops, connecting researchers and the general public. The event allows citizens of all ages to discover science through workshops, exhibitions and various experiences (Pau, France).
 
@@ -46,7 +46,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - Collège Ammar El Baykat, LEBANON (10/11/2021), in person.
 
 ---
-## Popular science articles (3)
+## Popular science articles / Bolgs (3)
 
 - **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)** 👉 [More details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbes-metabolites-share-7400642395698122752-akVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
@@ -68,9 +68,6 @@ Filles et sciences : atelier sur les stéréotypes et comment s'en prémunir, en
 
 Cité Scolaire Gaston Crampe -Aire sur Adour  👉 [See my participation here](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
-Table ronde : Devenir professeur-chercheuse en microbiologie
-
-**link**: https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2
 
 Atelier : Micro-organismes amis ou ennemis ?
 
@@ -81,20 +78,9 @@ Atelier : Micro-organismes amis ou ennemis ?
 ---
 ## Les Cordées Scientifiques
 
-Collège Joseph Peyré - Garlin
-
 Atelier : Le rôle des micro-organismes dans l’environnement (15/01/2026)
-
-Collège Jean Sarrailh - Monein
-
-Atelier : Le rôle des micro-organismes dans l’environnement (20/01/2026)
-
-Collège d'Arzacq
 
 Atelier : Les Marvels de l’environnement (03/03/2026)
 
-Collège de Baretous
-
-Atelier : Les Marvels de l’environnement (19/03/2026)
 
 ---
