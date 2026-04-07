@@ -110,7 +110,7 @@ Hosts: Prof. Angel Borga, Dr. Anders Lanzén
 **2019-** AFEM member (Francophone Association of Microbial Ecology)
 
 ---
-## III- Core Skills
+## IV- Core Skills
 
 **Data Analysis and Bioinformatics**
 
@@ -128,7 +128,7 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ---
-## IV- Languages
+## V- Languages
 
 French – C1*
 
