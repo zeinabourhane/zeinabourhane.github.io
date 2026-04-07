@@ -100,7 +100,7 @@ Liu B, **Bourhane Z2/9**, Yoa Jun P, Castañeda C, Cagnon C, Cravo-Laureau C, Ma
 
 Kouchou A, Tadist F, **Bourhane Z3/7**, Ben Said O, Rais N, Duran R, El Ghachtouli N. (2026)
 
-- **Assessing climate change impact using bioindicators on the complex Ichkeul Lake, Tunisia**. Under review in Frontiers in Microbiology. Under review Environmrental Pollution
+- **Assessing climate change impact using bioindicators on the complex Ichkeul Lake, Tunisia**. Under review in Frontiers in Microbiology.
 
 Bem Salem F, Ben Said O, **Bourhane Z3/8**, Sahbani A, …, Duran R. (2026)
 
