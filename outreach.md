@@ -24,7 +24,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - **Table ronde Girls in Research** (2025). Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
 
-- **Circuit Scientifiques** (2025). Université de Pau et des Pays de l’Adour  👉 
+- **Circuit Scientifiques** (2025). Université de Pau et des Pays de l’Adour  👉 [See here]([See here](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3)
 
 - **Villages des Sciences** (2025). Université de Pau et des Pays de l’Adour  👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
