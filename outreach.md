@@ -2,14 +2,13 @@
 
 On This Page
 
-- [I- Scientific fairs](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)
+- [I- Scientific fairs (10)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)
 
-- II- School visits (13 visits across 2 countries)
+- [II- School visits (13 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)
 
-- Popular science articles / Bolgs (3)
+- [Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)
 
 - Workshops
-
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
 
