@@ -1,6 +1,10 @@
 ## Outreach
 
-## School visits
+Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
+
+## Scientific fairs 
+
+•	Fête de la Science (2024). Preparation of a workshop for the two-day open doors 
 
 ## Village des Sciences
 
