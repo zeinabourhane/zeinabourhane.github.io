@@ -17,6 +17,7 @@ Institute of Analytical Sciences and Physico-Chemistry for the Environment and M
 Pau University (UPPA), CNRS, France
 
 Advisors: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
+
 ---
 
 **[06/2023 – 07/2024]    Researcher**
@@ -26,6 +27,7 @@ Microbial Ecology (CNRS-L - UNESCO)
 Laboratoire de Microbiologie, Santé et Environnement
 
 Lebanese University, Lebanon
+
 ---
 
 **[02/2022 – 05/2024]     Postdoctoral fellow**
@@ -39,6 +41,7 @@ Clermont-Ferrand Institute of Chemistry (ICCF)
 Clermont Auvergne University (UCA), CNRS, France
 
 Advisor: Dr. B. Ervens
+
 ---
 
 **[09/2018 – 12/2021]     Doctoral student**
