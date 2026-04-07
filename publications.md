@@ -2,14 +2,14 @@
 
 On this page
 
-- [Article](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)
+- ** I- [Articles](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
 
-- [Submitted Papers *(available upon request)*](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#submitted-papers-available-upon-request)
+- ** II- [Submitted Papers *(available upon request)*](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#submitted-papers-available-upon-request)**
   
-- [Peer-reviewing activity](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)
+- ** III- [Peer-reviewing activity](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
   
 
-## Articles
+## I- Articles
 
 - **[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
 
@@ -92,7 +92,7 @@ Total number of authors: 9
 Received: 16 March 2023; Accepted: 24 April 2023; Published: 16 May 2023
 
 ---
-## Submitted Papers *(available upon request)*
+## II- Submitted Papers *(available upon request)*
 
 - **Unveiling the metagenomic profiles of Pyrenean thermal waters**. Under review in Microbiome.
 
@@ -115,7 +115,7 @@ Kouchou A, Tadist F, **Bourhane Z3/7**, Ben Said O, Rais N, Duran R, El Ghachtou
 Bem Salem F, Ben Said O, **Bourhane Z3/8**, Sahbani A, …, Duran R. (2026)
 
 ---
-## Peer-reviewing activity
+## III- Peer-reviewing activity
 
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 
