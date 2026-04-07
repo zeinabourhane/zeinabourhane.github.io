@@ -65,12 +65,15 @@ Metagenomic insights into microbial dynamics under redox conditions in extreme t
 
 Host: Pr. Carmen Castañeda, CSIC, Zaragoza, Spain
 
+---
+
 **[09/2024]    International School on Ion Mobility MASS SPECTROMETRY**
 
 Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications
 
 Host: Ettore Majorna Foundation, Erice, Italy
 
+---
 **[05/2022]    UNESCO-MAB Laureate**
 
 Research In the World Network of Biosphere Reserve
@@ -81,6 +84,7 @@ Eberswalde University for Sustainable Development
 
 Host: Biosphere Reserves Institute, Eberswalde, Germany
 
+---
 **[10/2019 – 02/2020]    Doctoral Mobility**
 
 *Adapt microgAMBI microbial Index for contaminated soils and sediments*
