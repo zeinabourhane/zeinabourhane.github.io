@@ -1,7 +1,7 @@
 ## Publications
 ## Articles
 
-**[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
+- **[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
 
 **Citation**: **Bourhane Z.**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022). IF(2022) = 14.3
 
@@ -28,7 +28,7 @@ Total number of authors: 10
 Received: 16 February 2021; Accepted: 28 July 2021; Published: February 2022
 
 ---
-**[Vertical organization of microbial communities in Salineta hypersaline wetland, Spain](https://doi.org/10.3389/fmicb.2023.869907)**
+- **[Vertical organization of microbial communities in Salineta hypersaline wetland, Spain](https://doi.org/10.3389/fmicb.2023.869907)**
 
 **Citation**: **Bourhane Z.**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). IF(2023) = 5.5
 
@@ -54,7 +54,7 @@ Total number of authors: 7
 **Peer-review process**: Received: 5 February 2022; Accepted: 3 January 2023; Published: 27 January 2023 
 
 ---
-**[The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome](https://doi.org/10.3389/fmicb.2023.1186847)**
+- **[The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome](https://doi.org/10.3389/fmicb.2023.1186847)**
 
 **Citation**:	Amato, P et al **(includes Bourhane, Z)**. (2023). IF(2023) = 5.5
 
@@ -84,23 +84,23 @@ Received: 16 March 2023; Accepted: 24 April 2023; Published: 16 May 2023
 ---
 ## Submitted Papers *(available upon request)*
 
-**Unveiling the metagenomic profiles of Pyrenean thermal waters**. Under review in Microbiome.
+- **Unveiling the metagenomic profiles of Pyrenean thermal waters**. Under review in Microbiome.
 
 **Bourhane Z1/4**, Duran R, Preud’homme H, Cravo-Laureau C. (2026).
 
-**Metagenomic insights into microbial dynamics under redox conditions in a hypersaline wetland soil using Indicator of Redox in Soils (IRIS) films**. Under review in FEMS.
+- **Metagenomic insights into microbial dynamics under redox conditions in a hypersaline wetland soil using Indicator of Redox in Soils (IRIS) films**. Under review in FEMS.
 
 **Bourhane Z1/5***, Cagnon C., Cravo-Laureau C., Castañeda C, Duran R. (2026)
  
-**Genome-resolved analyses disentangle the strategies of hypersaline microbiomes and metabolic interactions within a hydrological gradient**. Under review in Enviro Science & Technol journal
+- **Genome-resolved analyses disentangle the strategies of hypersaline microbiomes and metabolic interactions within a hydrological gradient**. Under review in Enviro Science & Technol journal
 
 Liu B, **Bourhane Z2/9**, Yoa Jun P, Castañeda C, Cagnon C, Cravo-Laureau C, Ma B., Chen Z., Duran R. (2026)
 
-**Effects of pollution on the activity of the soil/sediment microbial communities from a soil-river-lake continuum in Ichkeul Lagoon**. Under review in Environmrental Pollution
+- **Effects of pollution on the activity of the soil/sediment microbial communities from a soil-river-lake continuum in Ichkeul Lagoon**. Under review in Environmrental Pollution
 
 Kouchou A, Tadist F, **Bourhane Z3/7**, Ben Said O, Rais N, Duran R, El Ghachtouli N. (2026)
 
-**Assessing climate change impact using bioindicators on the complex Ichkeul Lake, Tunisia**. Under review in Frontiers in Microbiology. Under review Environmrental Pollution
+- **Assessing climate change impact using bioindicators on the complex Ichkeul Lake, Tunisia**. Under review in Frontiers in Microbiology. Under review Environmrental Pollution
 
 Bem Salem F, Ben Said O, **Bourhane Z3/8**, Sahbani A, …, Duran R. (2026)
 
