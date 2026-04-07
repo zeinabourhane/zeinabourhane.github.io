@@ -18,7 +18,15 @@ Pau University (UPPA), CNRS, France
 
 Advisors: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
 
-**[02/2022 – 2024]     Postdoctoral fellow**
+**[06/2023 – 07/2024]    Researcher**
+
+Microbial Ecology (CNRS-L - UNESCO)
+
+Laboratoire de Microbiologie, Santé et Environnement
+
+Lebanese University, Lebanon
+
+**[02/2022 – 05/2024]     Postdoctoral fellow**
 
 *Modelling of chemical and microbiological processes in the atmosphere and soil*
 
