@@ -42,6 +42,12 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - Collège Ammar El Baykat, LEBANON (10/11/2021), in person.
 
 ---
+## Popular science articles 
+
+- **PANORAMA** (2025). An article Entitled 
+
+
+---
 ## Village des Sciences
 
 Lycée Jules Supervielle /OLORON-SAINTE-MARIE 
