@@ -46,7 +46,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 ---
 ## Popular science articles (3)
 
-- **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)** 👉 [More details](
+- **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)** 👉 [More details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbes-metabolites-share-7400642395698122752-akVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 - **SDG Academy** (2025). An article entiteld **[Thermal Waters: From Research to Innovation](https://sdgacademy.org/thermal-waters-from-research-to-innovation/?utm_content=buffer93014&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)** 👉 [More information](https://www.linkedin.com/posts/sdg-academy_sdgs-moocs-activity-7394831326429999104-QRTV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
