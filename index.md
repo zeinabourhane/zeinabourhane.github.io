@@ -11,9 +11,11 @@ Université de Pau et des Pays de l'Adour, France
 Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatics | Data Scientist 
 
 📍 Pau, France  
+
 📧 zeina.bourhane@hotmail.com
+
 🌐 [Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao) | 💼 [LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144) | 📄 [HAL]([https://hal.science/984215](https://orcid.org/0000-0002-9663-2584) |
-[Researchgate] (https://www.researchgate.net/profile/Zeina-Bourhane)
+[Researchgate](https://www.researchgate.net/profile/Zeina-Bourhane)
 
 ---
 
@@ -27,11 +29,11 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 ## Research Fields
 
-- **Valorization of extreme ecosystems**
-- **Secialized thermostable metabolites**
-- **Microbial interaction and functional networks**
-- **Collective biosynthetic potential**
-
+- Valorization of extreme ecosystems
+- Secialized thermostable metabolites
+- Microbial interaction and functional networks
+- Microbial collective biosynthetic potential
+- 
 ---
 
 ## Education
