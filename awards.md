@@ -1,7 +1,8 @@
 ## Awards
+
 *Winning an award is always a special moment. Ravi Kishan*
 
-                                                                     <img src="images/mab-awar.jpg"; style="float➡️ margin-right:20px; border-radius:10px;">
+---
 
 - **MAB - UNESCO Young Scientist Award, 2021**
 
