@@ -8,7 +8,7 @@ On This Page
 
 - **[Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
 
-- **[General public talks (4)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
+- **[General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
 - Workshops
 
@@ -23,6 +23,8 @@ Commitment to public outreach is central in my career and therefore, I am always
 - **Nuit de la recherche en Nouvelle-Aquitaine** (2025) 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
 
 - **Table ronde Girls in Research** (2025). Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
+
+- **Circuit Scientifiques** (2025). Université de Pau et des Pays de l’Adour  👉 
 
 - **Villages des Sciences** (2025). Université de Pau et des Pays de l’Adour  👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
@@ -67,13 +69,15 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - **IPREM Bulletin** (2025). An article entiteld **[Étude des micro-organismes dans les eaux thermales des Pyrénées : un potentiel caché pour des cosmétiques durables](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?mtm_campaign=Newsletters/Le%20Mensuel%20de%20l%27Universit%C3%A9&mtm_medium=email&mtm_source=N%C2%B085%20-%2007/10/2025%20-%20ERRATUM%20-%20Lisez%20le%20Mensuel%20de%20l%27universit%C3%A9-85-2025-10-07)**
   
 ---
-## General public talks (4)
+## General public talks (5)
 
 - **Les Cordées Scientifiques** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
 
 - **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
+
+- **Circuit Scientifique** (2025).  I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France.  [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
   
-- **Fête de la Science** (2025). I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. 
+- **Fête de la Science** (2025). I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 - **Science outreach talk** (2018). Doctoral Scool Day. Université de Pau et des Pays de l’Adour
 
