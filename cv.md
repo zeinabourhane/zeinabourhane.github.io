@@ -1,9 +1,21 @@
 ## CV 
 
-## Detailed information
+On this page you find
 
-👉 [Download my CV](assets/Zeina_CV.pdf) 
+- You can download my detailed CV from here 👉 [Download my CV](assets/Zeina_CV.pdf) 
 
+- I- Academic Positions
+
+- II- International Scientific stays
+
+- III- Membership of scientific organizations
+
+- IV- Core Skills
+
+- V- Languages
+
+  ---
+  
 ## I- Academic Positions
 
 **[10/2024 – Present]    Postdoctoral fellow**
@@ -17,6 +29,7 @@ Institute of Analytical Sciences and Physico-Chemistry for the Environment and M
 Pau University (UPPA), CNRS, France
 
 Advisors: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
+
 ---
 
 **[06/2023 – 07/2024]    Researcher**
