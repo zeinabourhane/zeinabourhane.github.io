@@ -25,9 +25,7 @@ Total number of authors: 10
 
 **Peer-review process**:
 
-Received: 16 February 2021;
-Accepted: 28 July 2021;
-Published: February 2022
+Received: 16 February 2021; Accepted: 28 July 2021; Published: February 2022
 
 ---
 **[Vertical organization of microbial communities in Salineta hypersaline wetland, Spain](https://doi.org/10.3389/fmicb.2023.869907)**
@@ -52,10 +50,7 @@ Total number of authors: 7
 
 **Journal information**  
 
-**Peer-review process**:
-Received: 5 February 2022;
-Accepted: 3 January 2023;  
-Published: 27 January 2023 
+**Peer-review process**: Received: 5 February 2022; Accepted: 3 January 2023; Published: 27 January 2023 
 
 ---
 **[The aeromicrobiome: the selective and dynamic outer-layer of the Earth’s microbiome](https://doi.org/10.3389/fmicb.2023.1186847)**
