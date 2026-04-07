@@ -2,17 +2,17 @@
 
 On this page you find
 
-- You can download my detailed CV from here 👉 [Download my CV](assets/Zeina_CV.pdf) 
+- You can download my detailed CV from here 👉 [my CV](assets/Zeina_CV.pdf) 
 
-- I- Academic Positions
+- **[I- Academic Positions](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/cv.md#i--academic-positions)**
 
-- II- International Scientific stays
+- **[II- International Scientific stays](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/cv.md#ii--international-scientific-stays)**
 
-- III- Membership of scientific organizations
+- **[III- Membership of scientific organizations](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/cv.md#iii--membership-of-scientific-organizations)**
 
-- IV- Core Skills
+- **[IV- Core Skills](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/cv.md#iv--core-skills)**
 
-- V- Languages
+- **[V- Languages](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/cv.md#v--languages)**
 
   ---
   
