@@ -10,7 +10,7 @@ On This Page you find
 
 - **[IV- General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
-- **[V- Workshops](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#v--workshop-1)**
+- **[V- Workshop (1)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#v--workshop-1)**
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks .
 
