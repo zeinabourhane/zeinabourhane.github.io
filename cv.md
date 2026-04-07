@@ -17,6 +17,7 @@ Institute of Analytical Sciences and Physico-Chemistry for the Environment and M
 Pau University (UPPA), CNRS, France
 
 Advisors: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
+---
 
 **[06/2023 – 07/2024]    Researcher**
 
@@ -25,6 +26,7 @@ Microbial Ecology (CNRS-L - UNESCO)
 Laboratoire de Microbiologie, Santé et Environnement
 
 Lebanese University, Lebanon
+---
 
 **[02/2022 – 05/2024]     Postdoctoral fellow**
 
@@ -37,6 +39,7 @@ Clermont-Ferrand Institute of Chemistry (ICCF)
 Clermont Auvergne University (UCA), CNRS, France
 
 Advisor: Dr. B. Ervens
+---
 
 **[09/2018 – 12/2021]     Doctoral student**
 
@@ -54,15 +57,18 @@ Advisors: Prof. Robert Duran, Dr. Christine Cagnon
 ## Core Skills
 
 **Data Analysis and Bioinformatics**
+
 R studio; QIIME2, DADA2; Tax4Fun2, PICRUSt2; CoNet, SparCC, among others.
 
 **Molecular and Microbial Techniques**
+
 eDNA/RNA extraction; DNA QC (NanoDrop/Xpose) & quantification (Qubit); PCR; qPCR-data interpretation
 
 **Computing and Workflow Automation**
 Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with Slurm (sbatch) on HPC clusters.
 
 **Teaching and Projects**
+
 Co supervision of MSc students; Participation in multi-institutional projects (AQUASALT, MOBIDIC, CARUSO), contributing to grant writing that secured funding; Stakeholder engagement in French, arabic & English.
 
 ---
