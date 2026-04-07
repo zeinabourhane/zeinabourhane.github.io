@@ -16,7 +16,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2023**. **P**: How microbial communities organize vertically in hypersaline wetland to ensure biogeochemical cycles? EcotoxicoMic, FRANCE.
 
-**2022**. **P**: Comparison of bacterial biodegradation of polycyclic aromatic hydrocarbons (PAHs) in the atmosphere and soil. Int. Society for Microbial Ecology (ISME18), Lausanne, SWITZERLAND.
+**2022**. **P**: Comparison of bacterial biodegradation of polycyclic aromatic hydrocarbons (PAHs) in the atmosphere and soil. Int. Society for Microbial Ecology (ISME18), Lausanne, SWITZERLAND. 👉 [See presentation](https://presentations.copernicus.org/EGU23/EGU23-6568_presentation.pdf) and [Abstract]([https://presentations.copernicus.org/EGU23/EGU23-6568_presentation.pdf](https://meetingorganizer.copernicus.org/EGU23/EGU23-6568.html)
 
 **2022**. **P**: Vertical organisation of microbial communities in Salineta hypersaline wetland, Spain. International Society for Microbial Ecology (ISME18), Belgrade, SERBIA. 👉 [See Poster](assets/Poster-FEMS Belgrade2022.pdf)
 
