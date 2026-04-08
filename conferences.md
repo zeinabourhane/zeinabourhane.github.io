@@ -10,7 +10,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NEW ZEANLAND. **(CONFIRMED)**
 
-**2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. Société Française de la microbiologie SFM, Bordeaux, FRANCE. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/SFM-Microbes 2025-Bordeaux.pdf)
+**2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. Société Française de la microbiologie SFM, Bordeaux, FRANCE. 👉 [See details, figures](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/SFM-Microbes 2025-Bordeaux.pdf)
 
 **2025**. **P**: Novel Bioactive molecules in Thermal Waters: A New Frontier in Cosmetic Innovation EcotoxicoMicYR, FRANCE. 👉 [See video](https://www.youtube.com/watch?v=jd-LUYRIm28)
 
@@ -32,11 +32,13 @@ I have had the privilege of presenting my research at 20 international and natio
 
 <img src="/images/germany.png" alt="MAB" width="500">
 
-**2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. EcotoxicoMic, FRANCE.
+**2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. [EcotoxicoMicYR_2021](https://ecotoxicomic.org/ecotoxicomicyr_2021/), FRANCE. 👉 [More details](https://ecotoxicomic.org/ecotoxicomicyr_2021/)
+
+First international webinar of young microbial ecotoxicology researchers
 
 **2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. 👉 [See abstract](assets/SETAC31-europe2021abstractbook.pdf)
 
-**2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtuel Format), Montpellier, FRANCE. 👉 [See my abstract](assets/Book-of-Abstract-EcotoxicoMic2020-3)
+**2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtual Format), Montpellier, FRANCE. 👉 [See my abstract](assets/Book-of-Abstract-EcotoxicoMic2020-3)
 
 **2019**. **OP**: Role of bioindicators in the environmental assessment. AZTI, Marine Research Center, Pasaia, SPAIN.
 
