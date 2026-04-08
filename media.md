@@ -25,3 +25,10 @@ permalink: /media/
     <p>Right caption</p>
   </div>
 </div>
+
+------
+
+<div style="display:flex; justify-content:space-between;">
+  <img src="/assets/images/ismelausanne.png" width="250">
+  <img src="/assets/images/EGU.png" width="250">
+</div>
