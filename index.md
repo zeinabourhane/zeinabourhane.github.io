@@ -23,6 +23,8 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 <div style="clear: both;"></div>
 
+<img src="/images/thesis.png" alt="Thesis" width="500">
+
 ---
 ## Research Fields
 
