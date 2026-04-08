@@ -34,7 +34,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. [EcotoxicoMicYR_2021](https://ecotoxicomic.org/ecotoxicomicyr_2021/), FRANCE. 👉 [More details](https://ecotoxicomic.org/ecotoxicomicyr_2021/)
 
-*First international webinar of young microbial ecotoxicology researchers.*
+*EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event*
 
 **2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. 👉 [See abstract](assets/SETAC31-europe2021abstractbook.pdf)
 
