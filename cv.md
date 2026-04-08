@@ -95,14 +95,14 @@ Research In the World Network of Biosphere Reserve
 
 Eberswalde University for Sustainable Development
 
-Host: Biosphere Reserves Institute, Eberswalde, Germany
+Host: [Biosphere Reserves Institute](https://www.biospherereserves.institute/#TheInstitute), Eberswalde, Germany
 
 ---
 **[10/2019 – 02/2020]    Doctoral Mobility**
 
 *Adapt microgAMBI microbial Index for contaminated soils and sediments*
 
-AZTI Marine research center, Pasaia, Spain
+[AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, Spain
 
 Hosts: Prof. Angel Borga, Dr. Anders Lanzén 
 
