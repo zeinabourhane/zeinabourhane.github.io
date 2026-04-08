@@ -3,6 +3,10 @@ layout: page
 title: Media
 permalink: /media/
 ---
+
+<img src="/images/fems.png" alt="fems" width="500"
+     style="display:block; margin:0 auto; float:none;">
+
 <img src="/images/Thesis.png" alt="Thesis" width="500" style="display:block; margin:0 auto;">
 
 <img src="assets/profile.jpg" alt="Zeina Bourhane" width="200" style="float:left; margin-right:20px; border-radius:10px;">
