@@ -30,5 +30,10 @@ permalink: /media/
 
 <div style="display:flex; justify-content:space-between;">
   <img src="/images/ismelausanne.png" width="250">
-  <img src="/images/EGU.png" width="250">
+  <img src="/images/EGU.png" width="400">
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+  <img src="/assets/images/left.png" width="250">
+  <img src="/assets/images/right.png" width="250">
 </div>
