@@ -24,4 +24,6 @@ Sahar Bouchboua. Master thesis, Université de Pau, France (2025-2026)
 
 Rim Jamal. Master thesis (2023-2024), Lebanese University, Beirut, Lebanon (2023-2024) 
 
+<img src="/images/Students.png" alt="PhD Day" width="400">
+
 ---
