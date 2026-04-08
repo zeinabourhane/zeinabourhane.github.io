@@ -18,12 +18,12 @@ I have supervised and mentored five undergraduate and master’s students in Leb
 
 **Among the students:**
 
-2025-2026. Madeline Simone. Master thesis, Université de Pau, France 
+**2025-2026**. *Madeline Simone*. Master thesis, Université de Pau, France 
 
-Sahar Bouchboua. Master thesis, Université de Pau, France (2025-2026) 
+**2025-2026**. *Sahar Bouchboua*. Master thesis, Université de Pau, France
 
-Rim Jamal. Master thesis (2023-2024), Lebanese University, Beirut, Lebanon (2023-2024) 
+**2023-2024**. *Rim Jamal*. Master thesis (2023-2024), Lebanese University, Beirut, Lebanon
 
-<img src="/images/Students.png" alt="PhD Day" width="500">
+<img src="/images/Students.png" alt="PhD Day" width="700">
 
 ---
