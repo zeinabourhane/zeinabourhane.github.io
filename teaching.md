@@ -4,7 +4,7 @@ I have gained teaching experience at public universities across TWO countries, d
 
 ## Teaching Accreditations
 
-2023: Qualification Section 68 – Maître de conférences, Ministère de l’Enseignement Supérieur, FRANCE.
+**2023**. Qualification Section 68 – Maître de conférences, Ministère de l’Enseignement Supérieur, FRANCE.
 
 ## Courses
 
