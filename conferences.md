@@ -36,6 +36,6 @@ I have had the privilege of presenting my research at 20 international and natio
 
 ---
   
-<img src="/images/EGU.png" alt="PhD Day" width="400" style="float:right;">    ; <img src="/images/ismelausanne.png" alt="ISME" width="500">
+<img src="/images/EGU.png" alt="EGU" width="400" style="float:right;">          <img src="/images/ismelausanne.png" alt="ISME" width="500">
 
 
