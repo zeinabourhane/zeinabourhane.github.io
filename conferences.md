@@ -31,3 +31,5 @@ I have had the privilege of presenting my research at 20 international and natio
 **2019**. **OP**: Role of bioindicators in the environmental assessment. AZTI, Marine Research Center, Pasaia, SPAIN.
 
 ---
+
+<img src="/images/ismelausanne.png" alt="PhD Day" width="400" style="float:left; margin-right:20px; border-radius:10px;">
