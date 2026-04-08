@@ -23,8 +23,6 @@ Scientist in microbial ecology, with expertise in metagenomics, metabolomics and
 
 <div style="clear: both;"></div>
 
-<img src="/images/Thesis.png" alt="Thesis" width="500">
-
 ---
 ## Research Fields
 
@@ -67,6 +65,8 @@ Co supervision of MSc students; Participation in multi-institutional projects (A
 ## CV
 
 👉 [Download my CV](assets/Zeina_CV.pdf)
+
+<img src="/images/Thesis.png" alt="Thesis" width="700">
 
 ---
 
