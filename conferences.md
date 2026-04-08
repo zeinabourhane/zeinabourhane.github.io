@@ -40,6 +40,6 @@ I have had the privilege of presenting my research at 20 international and natio
 
 ---
   
-<img src="/images/EGU.png" alt="EGU" width="800">                             <img src="/images/ismelausanne.png" alt="ISME" width="500">
+<img src="/images/EGU.png" alt="EGU" width="800">         ;                    <img src="/images/fems.png" alt="fems" width="500">
 
 
