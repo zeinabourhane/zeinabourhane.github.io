@@ -154,3 +154,5 @@ Arabic – Native
 * Common European Framework of Reference
 
 ---
+
+<img src="/images/lab.png" alt="lab" width="500">
