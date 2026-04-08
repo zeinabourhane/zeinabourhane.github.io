@@ -34,4 +34,6 @@ I have had the privilege of presenting my research at 20 international and natio
 
 <img src="/images/ismelausanne.png" alt="PhD Day" width="400" style="float:left; margin-right:20px; border-radius:10px;">
 
-<img src="/images/ismelausanne.png" alt="PhD Day" width="400" style="float:right; margin-right:20px; border-radius:10px;">
+<img src="/images/EGU.png" alt="PhD Day" width="400" style="float:right;">
+  
+  margin-right:20px; border-radius:10px;">
