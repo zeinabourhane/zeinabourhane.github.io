@@ -4,6 +4,9 @@ On This Page you find
 
 - **[I- Scientific fairs (11)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
 
+
+<img src="/images/Massspectro.jpg" alt="Research" width="250" style="float:left; margin-right:20px;">
+
 - **[II- School visits (13 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)**
 
 - **[III- Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
