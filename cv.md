@@ -73,14 +73,16 @@ Advisors: Prof. Robert Duran, Dr. Christine Cagnon
 
 **[06/2026 – 08/2026]   Research training (Confirmed)**
 
-Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters
+*Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
 
-Host: Pr. Carmen Castañeda, CSIC, Zaragoza, Spain
+CSIC, Zaragoza, Spain
+
+Host: Pr. Carmen Castañeda
 
 ---
 **[09/2024]    International School on Ion Mobility MASS SPECTROMETRY**
 
-Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications
+*Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications*
 
 Host: Ettore Majorna Foundation, Erice, Italy
 
