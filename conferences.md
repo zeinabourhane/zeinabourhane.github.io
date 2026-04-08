@@ -39,13 +39,3 @@ I have had the privilege of presenting my research at 20 international and natio
 <img src="/images/EGU.png" alt="PhD Day" width="400" style="float:right;">
 
 
-<div style="display:flex; justify-content:space-between;">
-  <div>
-    <img src="/images/ismelausanne.png" width="300">
-    <p>Left caption</p>
-  </div>
-  <div>
-    <img src="/images/EGU.png" width="300">
-    <p>Right caption</p>
-  </div>
-</div>
