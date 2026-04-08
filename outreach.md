@@ -5,7 +5,7 @@ On This Page you find
 - **[I- Scientific fairs (11)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
 
 
-![PhD Day](images/phdday.png)
+<img src="/images/phdday.png" alt="PhD Day" width="500">
 
 - **[II- School visits (13 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)**
 
