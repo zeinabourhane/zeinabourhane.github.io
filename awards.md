@@ -22,4 +22,3 @@ This award promotes new generations of scientists working on ecological and sust
 
 <img src="/images/mab-award.jpg" alt="PhD Day" width="400">
 
----
