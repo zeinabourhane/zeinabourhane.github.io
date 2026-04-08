@@ -13,7 +13,7 @@ header_pages:
   - awards.md
   - teaching.md
   - outreach.md
- # - media.md
+ ## - media.md
   - courses.md
   - cv.md
 
