@@ -41,3 +41,7 @@ permalink: /media/
 <div style="text-align:center;">
   <img src="/images/phdday.png" alt="PhD Day" width="200">
 </div>
+----
+<div style="display:flex; justify-content:center; align-items:center; height:300px;">
+  <img src="/images/phdday.png" alt="PhD Day" width="200">
+</div>
