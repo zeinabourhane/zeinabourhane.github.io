@@ -4,7 +4,7 @@ I have gained teaching experience at public universities across TWO countries, d
 
 ## Teaching Accreditations
 
-- 2023: Qualification Section 68 – Maître de conférences, Ministère de l’Enseignement Supérieur, FRANCE.
+2023: Qualification Section 68 – Maître de conférences, Ministère de l’Enseignement Supérieur, FRANCE.
 
 ## Courses
 
@@ -12,17 +12,16 @@ I have gained teaching experience at public universities across TWO countries, d
 - Environmental ecology. (24 hours)
 - Environment and Pollution. (24 hours)
 
-
 ## Supervision and Mentoring
 
 I have supervised and mentored five undergraduate and master’s students in Lebanon and France. Three of them continued into doctoral studies. These experiences have enhanced my mentoring abilities while contributing to their training and research career.
 
 **Among the students:**
 
-Madeline Simone, thèse de master, Université de Pau, France (2025-2026) 
+Madeline Simone. Master thesis, Université de Pau, France (2025-2026) 
 
-Sahar Bouchboua, thèse de master, Université de Pau, France (2025-2026) 
+Sahar Bouchboua. Master thesis, Université de Pau, France (2025-2026) 
 
-Rim Jamal, thèse de master (2023-2024), Université Libanaise, Beyrouth, LIBAN 
+Rim Jamal. Master thesis (2023-2024), Lebanese University, Beyrouth, Lebanon (2023-2024) 
 
 ---
