@@ -10,7 +10,7 @@ permalink: /media/
 
 
 ## to try 
-<img src="/images/phdday.png" alt="PhD Day" width="200" style="float:left; margin-right:20px; border-radius:10px;">
+<img src="/images/phdday.png" alt="PhD Day" width="200" style="float ; margin-right:20px; border-radius:10px;">
 
 
 
@@ -36,4 +36,8 @@ permalink: /media/
 <div style="display:flex; justify-content:space-between;">
   <img src="/assets/images/left.png" width="250">
   <img src="/assets/images/right.png" width="250">
+</div>
+
+<div style="text-align:center;">
+  <img src="/images/phdday.png" alt="PhD Day" width="200">
 </div>
