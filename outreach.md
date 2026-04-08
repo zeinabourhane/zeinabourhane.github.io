@@ -31,7 +31,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - **Villages des Sciences** (2025). Université de Pau et des Pays de l’Adour  👉 [My participation](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
-- **Girls in Science** (2025). les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
+- **Girls in Science** (2025). les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques 👉 [See figures](images/sterotype.jpeg) and [details](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
 - **Women in STEM** (2025). Participation in a networking event dedicated to women in research, aimed at fostering connections and supporting female researchers (Université de Pau et des Pays de l’Adour).
 
