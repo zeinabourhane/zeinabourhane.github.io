@@ -19,3 +19,4 @@ This award promotes new generations of scientists working on ecological and sust
 **organization**: Université de Pau et des Pays de l’Adour, FRANCE. 👉 [Check here](assets/Laureates_InternationalDoctoralMobility_session2_2019.pdf) 
 
 ---
+<img src="/images/mab-award.jpg" alt="PhD Day" width="200">
