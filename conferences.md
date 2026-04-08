@@ -36,6 +36,6 @@ I have had the privilege of presenting my research at 20 international and natio
 
 ---
   
-                             <img src="/images/EGU.png" alt="EGU" width="600">   
+<img src="/images/EGU.png" alt="EGU" width="600">   
 
 
