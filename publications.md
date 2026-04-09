@@ -51,7 +51,6 @@ The study investigates the vertical stratification of microbial communities in t
 **More information:**  
 
 **Authorship:**  
-
 Position of Bourhane: 1; Total number of authors: 7 
 
 **Journal information**  
@@ -75,13 +74,11 @@ This review article examines the aeromicrobiome, the microbial communities inhab
 **More information**:
 
 **Authorship**:
-
 Position of Bourhane: 5; Total number of authors: 9
 
 **Journal information**
 
 **Peer-review process**:
-
 Received: 16 March 2023; Accepted: 24 April 2023; Published: 16 May 2023
 
 ---
