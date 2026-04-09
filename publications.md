@@ -83,11 +83,11 @@ Received: 16 March 2023; Accepted: 24 April 2023; Published: 16 May 2023
 
 - **Unveiling the metagenomic profiles of Pyrenean thermal waters**. *Under review in Microbiome*.
 
-**Bourhane Z,**, Duran R, Meselier M., Preud’homme H, Cravo-Laureau C. (2026).
+**Bourhane Z**, Duran R, Meselier M., Preud’homme H, Cravo-Laureau C. (2026).
 
 - **Metagenomic insights into microbial dynamics under redox conditions in a hypersaline wetland soil using Indicator of Redox in Soils (IRIS) films**. *Under review in FEMS*.
 
-**Bourhane Z,***, Cagnon C., Cravo-Laureau C., Castañeda C, Duran R. (2026)
+**Bourhane Z**, Cagnon C., Cravo-Laureau C., Castañeda C, Duran R. (2026)
  
 - **Genome-resolved analyses disentangle the strategies of hypersaline microbiomes and metabolic interactions within a hydrological gradient**. *Under review in Enviro Science & Technol journal*.
 
