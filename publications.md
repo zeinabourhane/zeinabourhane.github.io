@@ -24,7 +24,7 @@ Here we identify contamination-driven alterations in microbial community structu
 
 **My contribution**: Conceptualisation, Investigation, Resources, Formal analysis, Writing – original draft.
 
-**More information**:
+**More information**
 
 **Authorship**: Position of Bourhane: 1; Total number of authors: 10
 
@@ -41,15 +41,15 @@ Received: 16 February 2021; Accepted: 28 July 2021; Published: February 2022
 **About the paper:**  
 The study investigates the vertical stratification of microbial communities in the Salineta hypersaline wetland, a highly saline wetland ecosystem. Using sequencing and microbial ecology analyses, the paper characterizes how microbial diversity and community composition vary with sediment depth and environmental gradients, highlighting the ecological roles of microorganisms in hypersaline conditions.
 
-**Scope:** We investigated the vertical distribution of microbial taxa and functional groups in sediment layers, assessing how salinity, oxygen, and nutrient gradients shape community structure and ecosystem functioning.
+**Scope**: We investigated the vertical distribution of microbial taxa and functional groups in sediment layers, assessing how salinity, oxygen, and nutrient gradients shape community structure and ecosystem functioning.
 
-**Impact:** We provide insights into the depth-dependent organization of microbial communities in hypersaline wetlands, revealing potential microbial indicators of environmental conditions and enhancing understanding of biogeochemical processes in extreme ecosystems.
+**Impact**: We provide insights into the depth-dependent organization of microbial communities in hypersaline wetlands, revealing potential microbial indicators of environmental conditions and enhancing understanding of biogeochemical processes in extreme ecosystems.
 
 **My contribution**: Conducted experimental and performed the bioinformatics and wrote the original draft and biostatistics analyses
 
-**More information:**  
+**More information**  
 
-**Authorship:** Position of Bourhane: 1; Total number of authors: 7 
+**Authorship**: Position of Bourhane: 1; Total number of authors: 7 
 
 **Journal information**  
 
@@ -69,7 +69,7 @@ This review article examines the aeromicrobiome, the microbial communities inhab
 
 **My contribution**: contributed to the article writing and approved the submitted version.
 
-**More information**:
+**More information**
 
 **Authorship**: Position of Bourhane: 5; Total number of authors: 9
 
