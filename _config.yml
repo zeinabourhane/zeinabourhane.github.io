@@ -4,7 +4,7 @@ theme: minima
 
 author:
   name: Zeina Bourhane, PhD
-  email: zeina.bourhane@univ-pau.fr
+#  email: zeina.bourhane@univ-pau.fr
 
 header_pages:
   - publications.md
