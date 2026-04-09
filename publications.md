@@ -26,8 +26,7 @@ Here we identify contamination-driven alterations in microbial community structu
 
 **More information**:
 
-**Authorship**:
-Position of Bourhane: 1; Total number of authors: 10
+**Authorship**: Position of Bourhane: 1; Total number of authors: 10
 
 **Journal information**
 
@@ -50,8 +49,7 @@ The study investigates the vertical stratification of microbial communities in t
 
 **More information:**  
 
-**Authorship:**  
-Position of Bourhane: 1; Total number of authors: 7 
+**Authorship:** Position of Bourhane: 1; Total number of authors: 7 
 
 **Journal information**  
 
@@ -73,8 +71,7 @@ This review article examines the aeromicrobiome, the microbial communities inhab
 
 **More information**:
 
-**Authorship**:
-Position of Bourhane: 5; Total number of authors: 9
+**Authorship**: Position of Bourhane: 5; Total number of authors: 9
 
 **Journal information**
 
