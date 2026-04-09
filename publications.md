@@ -123,7 +123,7 @@ My scientific expertise has led me to several invitations to take part in the pe
 - 1 for Environmental Research. IF(2024)=7.7, JCR rank (2025) 7/73 (D1)
 - 1 for Microbial Ecology (Springer). IF(2024)=4, JCR rank (2024) 8/52 (Q1)
 - 1 for Thalassas: An International Journal of Marine Sciences (Springer). IF(2024)=1, JCR rank (2022) 10/52 (Q1)
-- 1 for Frontiers in Microbiology. IF(2024)=5. [see here](https://loop.frontiersin.org/people/1666424/overview)
+- 1 for Frontiers in Microbiology. IF(2024)=5 [see here](https://loop.frontiersin.org/people/1666424/overview)
 - 1 for Scientific Reports. (2024)
   
   ** All stated reviews have been certified by Publons/ ResearcherID: OWA-4138-2025
