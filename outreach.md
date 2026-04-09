@@ -6,7 +6,7 @@ On This Page you find
 
 - **[II- School visits (13 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)**
 
-- **[III- Popular science articles / Bolgs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
+- **[III- Popular science articles / Blogs (3)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#popular-science-articles--bolgs-3)**
 
 - **[IV- General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
@@ -68,7 +68,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 </div>
 
 ---
-## III-  Popular science articles / Bolgs (3)
+## III-  Popular science articles / Blogs (3)
 
 - **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)** 👉 [More details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbes-metabolites-share-7400642395698122752-akVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
