@@ -4,9 +4,6 @@ title: Media
 permalink: /media/
 header:
 intro: 
-  - excerpt: 'We are engaged in different projects to disseminate science to a broad audience and to promote fair and transparent scientific publishing.'
----
-{% include feature_row id="intro" type="center" %}
 ---
 
 > (*) stands for Corresponding Author
