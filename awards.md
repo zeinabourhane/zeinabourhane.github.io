@@ -5,7 +5,7 @@
 ---
 ## MAB - UNESCO Young Scientist Award, 2021
 
-**organization**: "UNESCO Man and the Biosphere (MAB) Programme
+**organization**: UNESCO Man and the Biosphere (MAB) Programme
 
 I have been awarded the **UNESCO Man and the Biosphere (MAB) Award** for my project:
 
@@ -22,3 +22,4 @@ This award promotes new generations of scientists working on ecological and sust
 
 <img src="/images/mab-award.jpg" alt="PhD Day" width="400">
 
+---
