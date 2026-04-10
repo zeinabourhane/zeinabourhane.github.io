@@ -43,7 +43,8 @@ More broadly, my research contributes to advancing our understanding of microbia
 **Ph.D. in Physiology and Biology of organisms-Populations-Interactions**  
 [09/2018 – 12/2021]   [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html), France
 
-**Ph.D. European Label** 
+**Ph.D. European Label**
+
 [09/2018 – 12/2021]   [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html), France
 
 **MSc. in Management and Conservation of Natural Resources**  
