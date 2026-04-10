@@ -16,7 +16,7 @@ On this page you find
 
 - **[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
 
-**Citation**: **Bourhane Z.***, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022). IF(2022) = 14.3
+**Citation**: **Bourhane Z. (*)**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022). IF(2022) = 14.3
 
 **About the paper**:
 Here we identify contamination-driven alterations in microbial community structure across the soil–river–lake continuum, enabling the detection of robust microbial biomarkers for environmental monitoring.
@@ -39,7 +39,7 @@ Received: 16 February 2021; Accepted: 28 July 2021; Published: February 2022
 ---
 - **[Vertical organization of microbial communities in Salineta hypersaline wetland, Spain](https://doi.org/10.3389/fmicb.2023.869907)**
 
-**Citation**: **Bourhane Z.***, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). IF(2023) = 5.5
+**Citation**: **Bourhane Z. (*)**, Cagnon C., Cravo-Laureau C., Duran R. et al. (2023). IF(2023) = 5.5
 
 **About the paper:**  
 The study investigates the vertical stratification of microbial communities in the Salineta hypersaline wetland, a highly saline wetland ecosystem. Using sequencing and microbial ecology analyses, the paper characterizes how microbial diversity and community composition vary with sediment depth and environmental gradients, highlighting the ecological roles of microorganisms in hypersaline conditions.
