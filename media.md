@@ -2,8 +2,6 @@
 layout: page
 title: Media
 permalink: /media/
-header:
-intro: 
 ---
 
 > (*) stands for Corresponding Author
