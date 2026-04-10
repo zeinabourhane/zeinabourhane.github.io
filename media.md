@@ -13,7 +13,7 @@ permalink: /media/
 *Zeina*    italic words
 
 ---
-- Zeina    Point at the begenning of teh line
+- Zeina    Point at the begenning of the line
 
 --------
 1 picture code
