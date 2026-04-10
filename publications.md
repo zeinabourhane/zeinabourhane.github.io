@@ -1,5 +1,6 @@
 ## Publications
 
+
 On this page you find
 
 - **[I- Articles](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
@@ -10,6 +11,7 @@ On this page you find
   
 ---
 ## I- Articles
+> (*) stands for Corresponding Author
 
 - **[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
 
@@ -81,6 +83,7 @@ Received: 16 March 2023; Accepted: 24 April 2023; Published: 16 May 2023
 ---
 ## II- Submitted Papers *(available upon request)*
 
+
 - **Unveiling the metagenomic profiles of Pyrenean thermal waters**. *Under review in Microbiome*.
 
 **Bourhane Z**, Duran R, Meslier M, Preud’homme H, Cravo-Laureau C. (2026)
@@ -103,6 +106,7 @@ Bem Salem F, Ben Said O, **Bourhane Z**, Sahbani A, …, Duran R. (2026)
 
 ---
 ## III- Peer-reviewing activity
+
 
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 
