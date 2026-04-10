@@ -19,7 +19,13 @@ Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatic
 ---
 ## About Me
 
-Scientist in microbial ecology, with expertise in metagenomics, metabolomics and microbial network analysis applied to the valorization of extreme thermal water ecosystems.
+Scientist in microbial ecology, with expertise in metagenomics, metabolomics and microbial network analysis applied to the valorization of extreme ecosystems.
+
+My research focuses on the microbial ecology of aquatic and terrestrial environments, with a particular emphasis on extreme ecosystems such as thermal waters. I am interested in understanding the dynamics of microbial communities under environmental stress and the factors shaping their structure, function, and adaptation to changing conditions.
+
+Using integrative multi-omics approaches, including metagenomics, metabolomics, and network analyses, I aim to link microbial diversity to functional potential and metabolic activity. My work seeks to identify key microbial taxa, biosynthetic pathways, and bioactive metabolites, as well as potential bioindicators and genetic biomarkers for environmental monitoring.
+
+More broadly, my research contributes to advancing our understanding of microbial ecosystem functioning and to unlocking the biotechnological potential of microbiomes for sustainable applications.
 
 <div style="clear: both;"></div>
 
