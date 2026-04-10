@@ -7,13 +7,13 @@ permalink: /media/
 > (*) stands for Corresponding Author
 > 
 ---
-**XXX**   bold words
+**Zeina**   bold words
 
 ---
-*XXX*    italic words
+*Zeina*    italic words
 
 ---
-- XXXX    Point at the begenning of teh line
+- Zeina    Point at the begenning of teh line
 
 --------
 1 picture code
