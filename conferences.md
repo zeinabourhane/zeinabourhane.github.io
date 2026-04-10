@@ -5,8 +5,8 @@ I have had the privilege of presenting my research at 20 international and natio
 
 <img src="/images/ismelausanne2.png" alt="ISME" width="500">
 
+(*) **OP**: Oral presentation;    **P**: Poster
 
- *-**OP**: Oral presentation;    **P**: Poster-*
 
 **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NEW ZEANLAND. **(CONFIRMED)**
 
