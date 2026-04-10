@@ -15,4 +15,6 @@ Organised by: UN Environmental Program, PEDRR, EU,  and SDG Academy.
 
 --- 
 
-<img src="/images/Course1.jpg" alt="Course" width="400"><img src="/images/Course2.jpg" alt="Course" width="400">
+ <div style="display:flex; justify-content:space-between;">
+  <img src="/images/Course1.jpg" width="400">
+  <img src="/images/Course2.jpg" width="450">
