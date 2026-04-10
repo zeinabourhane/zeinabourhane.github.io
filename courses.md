@@ -14,3 +14,5 @@ Organised by: UN Environmental Program, PEDRR, EU,  and SDG Academy.
 👉 [See course details about the course](https://www.linkedin.com/posts/zeina-bourhane-772373144_natureforresilience-climateresilience-sustainability-activity-7371074984766619648-D4pb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 --- 
+
+<img src="/images/Course1.jpg" alt="Course" width="400">           <img src="/images/Course2.jpg" alt="Course" width="400">
