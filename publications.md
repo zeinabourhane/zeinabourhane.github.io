@@ -11,10 +11,10 @@ On this page you find
   
 ---
 ## I- Articles
+
 > (*) Fisrt/ Corresponding Author
 
-- hhhhh
-- 
+
 - **[Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum](https://doi.org/10.1016/j.jhazmat.2021.126789)**
 
 **Citation**: **Bourhane Z. (*)**, Lanzén A., Cagnon C., Ben Said O., Mahmoudi E., Coulon F., Atai E., Borja A., Cravo-Laureau C., Duran R. (2022). IF(2022) = 14.3
