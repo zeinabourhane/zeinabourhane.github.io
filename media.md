@@ -11,6 +11,11 @@ permalink: /media/
 
 - XXXX    Poit at the begenning of teh line
 
+--------
+1 picture 
+
+<img src="/images/mab-award.jpg" alt="PhD Day" width="400">
+
 -----
 2 different pictures on the same line 
 
