@@ -6,8 +6,11 @@ permalink: /media/
 > (*) stands for Corresponding Author
 
 **XXX**   bold words
+
 *XXX*    italic words
--XXXX    Poit at the begenning of teh line 
+
+- XXXX    Poit at the begenning of teh line
+- 
 <img src="/images/fems.png" alt="fems" width="500"
      style="display:block; margin:0 auto; float:none;">
 
