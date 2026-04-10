@@ -36,6 +36,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 > (*) EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event
 
+
 **2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. 👉 [See abstract](assets/SETAC31-europe2021abstractbook.pdf)
 
 **2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtual Format), Montpellier, FRANCE. 👉 [See my abstract](assets/Book-of-Abstract-EcotoxicoMic2020-3)
