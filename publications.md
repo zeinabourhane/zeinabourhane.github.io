@@ -119,7 +119,7 @@ My scientific expertise has led me to several invitations to take part in the pe
 - 1 for Frontiers in Microbiology. IF(2024)=5 [see here](https://loop.frontiersin.org/people/1666424/overview)
 - 1 for Scientific Reports. (2024)
   
-  ** All stated reviews have been certified by Publons/ ResearcherID: OWA-4138-2025
+  ** All stated reviews have been certified by Publons/ Web of Science: [OWA-4138-2025](https://www.webofscience.com/wos/author/record/OWA-4138-2025).
   
   
 
