@@ -2,7 +2,7 @@
 
 **Zeina Bourhane, PhD**
 
-Postdoctoral Research Fellow 
+**Postdoctoral Research Fellow**
 
 [Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)](https://iprem.univ-pau.fr/fr/index.html)
 
