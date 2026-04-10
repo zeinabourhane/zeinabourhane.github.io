@@ -4,9 +4,9 @@
 
 Postdoctoral Research Fellow 
 
-Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
+[Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)](https://iprem.univ-pau.fr/fr/index.html)
 
-Université de Pau et des Pays de l'Adour, France
+[Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html), France
 
 Microbial ecology  | Metagenomics | Metabolomics | Ecotoxicology | Bioinformatics | Data Scientist 
 
@@ -41,7 +41,10 @@ More broadly, my research contributes to advancing our understanding of microbia
 ## Education
 
 **Ph.D. in Physiology and Biology of organisms-Populations-Interactions**  
-[09/2018 – 12/2021]    Université de Pau et des Pays de l’Adour, France
+[09/2018 – 12/2021]   [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html), France
+
+**Ph.D. European Label** 
+[09/2018 – 12/2021]   [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html), France
 
 **MSc. in Management and Conservation of Natural Resources**  
 [09/2016 – 06/2018]    Lebanese University, Beirut, Lebanon 
