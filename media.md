@@ -25,6 +25,8 @@ permalink: /media/
 
  <div style="display:flex; justify-content:space-between;">
   <img src="/images/Course1.jpg" width="100">
+  
+  
   <img src="/images/Course2.jpg" width="100">
 
 -------
