@@ -22,11 +22,10 @@ permalink: /media/
 
 -----
 2 different pictures on the same line code
+separate the code to have more space between pictures
 
  <div style="display:flex; justify-content:space-between;">
   <img src="/images/Course1.jpg" width="100">
-  
-  
   <img src="/images/Course2.jpg" width="100">
 
 -------
