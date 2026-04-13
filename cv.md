@@ -71,23 +71,23 @@ Advisors: Prof. Robert Duran, Dr. Christine Cagnon
 
 ## II- International Scientific stays
 
-**[06/2026 – 08/2026]   Research training (Confirmed)**
+**[09/2026 – 11/2026]   Research training (CONFIRMED)**
 
 *Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
 
-CSIC, Zaragoza, Spain
+[CSIC](https://delegacion.aragon.csic.es/), Zaragoza, Spain
 
 Host: Pr. Carmen Castañeda
 
 ---
-**[09/2024]    International School on Ion Mobility MASS SPECTROMETRY**
+**[09/2024]    [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/)**
 
 *Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications*
 
 Host: Ettore Majorna Foundation, Erice, Italy
 
 ---
-**[05/2022]    UNESCO-MAB Laureate**
+**[05/2022]    [UNESCO-MAB Laureate](https://www.unesco.org/fr/articles/le-programme-sur-lhomme-et-la-biosphere-de-lunesco-nomme-les-laureats-des-bourses-pour-les-jeunes)**
 
 Research In the World Network of Biosphere Reserve
 
@@ -112,7 +112,7 @@ Hosts: Prof. Angel Borga, Dr. Anders Lanzén
 
 **2026- present**. Pint of Sciences [Event Manager](https://pintofscience.fr/equipe/Pau/)
 
-**2026- present**. ISME member (International Society for Microbial Ecology)
+**2026- present**. [ISME member (International Society for Microbial Ecology)](https://isme-microbes.org/)
 
 **2025- present**. SFM member [Société Française de Microbiologie](https://www.sfm-microbiologie.org/)
 
@@ -153,7 +153,7 @@ English – C1*
 
 Arabic – Native
 
-* Common European Framework of Reference
+*  Common European Framework of Reference
 
 ---
 
