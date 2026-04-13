@@ -22,7 +22,7 @@ On this page you find
 
 *Identification of Bioactive molecules in Thermal Spring Waters for skin microbiome enhancement*
 
-CARUSO Project: Interreg POCTEFA
+[CARUSO Project](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?search-keywords=CARUSO): Interreg POCTEFA
 
 Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
 
