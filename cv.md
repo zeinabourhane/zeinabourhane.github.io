@@ -59,7 +59,7 @@ Advisor: Dr. B. Ervens
 
 *Thesis: Anthropogenic impacts on microbial communities in agriculture arid zones*
 
-AQUASALT Project: ERANETMED Program
+[AQUASALT Project](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche-termines/aquasalt-2018-22.html?search-keywords=AQUASALT): ERANETMED Program
 
 Institute of Experimental Biocenotics and Agrosystems (IBEAS)
 
