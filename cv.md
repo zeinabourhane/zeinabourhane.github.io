@@ -45,13 +45,11 @@ Lebanese University, Lebanon
 
 *Modelling of chemical and microbiological processes in the atmosphere and soil*
 
-MOBIDIC Project: Make Our Planet Great Again (MOPGA)
+[MOBIDIC Project](https://www.uca.fr/medias/fichier/mopga-iccf_1571038931653-pdf): [Make Our Planet Great Again (MOPGA)](https://dred.uca.fr/ingenieriebr-de-projets/projets-finances/projets-termines/mobidic)
 
-Clermont-Ferrand Institute of Chemistry (ICCF)
+Clermont-Ferrand Institute of Chemistry (ICCF), CNRS, France
 
-Clermont Auvergne University (UCA), CNRS, France
-
-Advisor: Dr. B. Ervens
+Advisor: Dr. Barbara Ervens
 
 ---
 
