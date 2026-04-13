@@ -64,6 +64,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 
   <div style="display:flex; justify-content:space-between;">
   <img src="/images/visitescolaire1.png" width="400">
+    
   <img src="/images/visitescolaire2.png" width="350">
 
 ---
