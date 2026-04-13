@@ -49,7 +49,7 @@ Lebanese University, Lebanon
 
 Clermont-Ferrand Institute of Chemistry (ICCF), CNRS, France
 
-Advisor: Dr. Barbara Ervens
+Advisor: Dr. B. Ervens
 
 ---
 
