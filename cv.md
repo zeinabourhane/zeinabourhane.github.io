@@ -82,7 +82,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 *Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications*
 
-[Summer School Program](assest/intSMS_2024_program.pdf)
+[Summer School Program](assests/intSMS_2024_program.pdf)
 
 **Host**: Ettore Majorna Foundation, Erice, Italy
 
