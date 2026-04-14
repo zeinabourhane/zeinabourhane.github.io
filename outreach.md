@@ -86,7 +86,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 
 <img src="/images/talkfetedesciences.png" alt="ISME" width="500">
 
-- **Science outreach talk** (2018). Doctoral Scool Day. Université de Pau et des Pays de l’Adour
+- **Science outreach talk** (2018). Doctoral School Day. Université de Pau et des Pays de l’Adour
 
 ---
 ## V- Workshop (1)
