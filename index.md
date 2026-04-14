@@ -1,4 +1,4 @@
-<img src="assets/profile.jpg" alt="Zeina Bourhane" width="300" style="float:left; margin-right:20px; border-radius:10px;">
+<img src="images/profile.jpg" alt="Zeina Bourhane" width="300" style="float:left; margin-right:20px; border-radius:10px;">
 
 **Zeina Bourhane, PhD**
 
