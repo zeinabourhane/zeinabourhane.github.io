@@ -8,7 +8,7 @@ The workshop covered key topics including: [From research ideas to project conce
 👉 [See workshop program](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 
-<img src="/images/nextgen1.jpg" alt="ISME" width="500"> <img src="/images/nextgen2.jpg" alt="ISME" width="400">
+<img src="/images/nextgen1.jpg" alt="ISME" width="450"> <img src="/images/nextgen2.jpg" alt="ISME" width="400">
 
 ---
 
