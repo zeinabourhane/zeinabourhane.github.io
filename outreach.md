@@ -76,7 +76,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 ---
 ## IV- General public talks (5)
 
-- **Les Cordées Scientifiques** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
+- **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
 
 - **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers’ talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
 
