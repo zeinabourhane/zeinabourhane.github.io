@@ -10,7 +10,7 @@ On This Page you find
 
 - **[IV- General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
-- **[V- Workshop (1)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#v--workshop-1)**
+- **[V- Workshops (2)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#v--workshop-1)**
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks.
 
@@ -89,8 +89,16 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 - **Science outreach talk** (2018). Doctoral School Day. Université de Pau et des Pays de l’Adour
 
 ---
-## V- Workshop (1)
+## V- Workshops (2)
+
+- **Les Marvels de l'environnement** (2026). Pau, France. 👉 [More details: coming soon]
+  
+This workshop offers students the opportunity to discover the omnipresence of microorganisms and their essential role the environment. Through fun activities (quizzes, role-playing, debates), they learn to distinguish between beneficial and harmful microbes, while developing their critical thinking skills.
+
+<img src="/images/visitescolaire1.png" width="450"> <img src="/images/visitescolaire2.png" width="350">
 
 - **[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
+
+
 
 ---
