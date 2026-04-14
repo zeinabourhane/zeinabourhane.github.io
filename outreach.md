@@ -100,4 +100,6 @@ This workshop offers students the opportunity to discover the omnipresence of mi
 
 - **[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
 
+> International Microorganism Day is a global celebration dedicated to highlighting the fascinating world of microorganisms and their profound contributions to our planet. From their essential roles in human health and agriculture to their critical functions in environmental sustainability and biotechnology, microbes are everywhere and they affect everything!
+
 ---
