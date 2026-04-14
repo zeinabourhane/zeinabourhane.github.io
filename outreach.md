@@ -46,9 +46,9 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
 
-- Cité Scolaire Gaston Crampe -Aire sur Adour (10/10/2025), in person.
+- Cité Scolaire Gaston Crampe -Aire sur Adour, FRANCE (10/10/2025), in person.
   
-- Lycée Jules Supervielle /Oloron-Sainte-Marie (09/10/2025), in person. 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
+- Lycée Jules Supervielle /Oloron-Sainte-Marie, FRANCE (09/10/2025), in person. 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
 - Collège Joseph Peyré - Garlin, FRANCE (15/01/2026), in person.
   
