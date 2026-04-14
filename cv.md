@@ -151,7 +151,7 @@ English – C1*
 
 Arabic – Native
 
-> * Common European Framework of Reference
+> * *Common European Framework of Reference*
 
 ---
 
