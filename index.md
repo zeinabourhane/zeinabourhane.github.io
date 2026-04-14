@@ -33,7 +33,7 @@ More broadly, my research contributes to advancing our understanding of microbia
 ## Research Fields
 
 - Valorization of extreme ecosystems
-- Secialized thermostable metabolites
+- Sepcialized thermostable metabolites
 - Microbial interaction and functional networks
 - Microbial collective biosynthetic potential
   
