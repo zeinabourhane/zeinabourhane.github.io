@@ -28,7 +28,7 @@ Institute of Analytical Sciences and Physico-Chemistry for the Environment and M
 
 Pau University (UPPA), CNRS, France
 
-Advisors: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
+**Advisors**: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
 
 ---
 **[06/2023 – 07/2024]    Researcher**
@@ -49,7 +49,7 @@ Lebanese University, Lebanon
 
 Clermont-Ferrand Institute of Chemistry (ICCF), CNRS, France
 
-Advisor: Dr. B. Ervens
+**Advisor**: Dr. B. Ervens
 
 ---
 
@@ -63,7 +63,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS)
 
 Pau University (UPPA), CNRS, France
 
-Advisors: Prof. Robert Duran, Dr. Christine Cagnon
+**Advisors**: Prof. Robert Duran, Dr. Christine Cagnon
 
 ---
 
@@ -75,14 +75,14 @@ Advisors: Prof. Robert Duran, Dr. Christine Cagnon
 
 [CSIC](https://delegacion.aragon.csic.es/), Zaragoza, Spain
 
-Host: Pr. Carmen Castañeda
+**Host**: Pr. Carmen Castañeda
 
 ---
 **[09/2024]    [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/)**
 
 *Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications*
 
-Host: Ettore Majorna Foundation, Erice, Italy
+**Host**: Ettore Majorna Foundation, Erice, Italy
 
 ---
 **[05/2022]    [UNESCO-MAB Laureate](https://www.unesco.org/fr/articles/le-programme-sur-lhomme-et-la-biosphere-de-lunesco-nomme-les-laureats-des-bourses-pour-les-jeunes)**
@@ -93,7 +93,7 @@ Research In the World Network of Biosphere Reserve
 
 Eberswalde University for Sustainable Development
 
-Host: [Biosphere Reserves Institute](https://www.biospherereserves.institute/#TheInstitute), Eberswalde, Germany
+**Host**: [Biosphere Reserves Institute](https://www.biospherereserves.institute/#TheInstitute), Eberswalde, Germany
 
 ---
 **[10/2019 – 02/2020]    Doctoral Mobility**
@@ -102,7 +102,7 @@ Host: [Biosphere Reserves Institute](https://www.biospherereserves.institute/#Th
 
 [AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, Spain
 
-Hosts: Prof. Angel Borga, Dr. Anders Lanzén 
+**Hosts**: Prof. Angel Borga, Dr. Anders Lanzén 
 
 ---
 
