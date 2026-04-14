@@ -22,7 +22,7 @@ I have supervised and mentored five undergraduate and master’s students in Leb
 
 **2025-2026**. *Sahar Bouchboua*. Master thesis, Université de Pau, France
 
-**2023-2024**. *Rim Jamal*. Master thesis, Lebanese University, Beirut, Lebanon
+**2023-2024**. *Rim Jamal B.*. Master thesis, Lebanese University, Beirut, Lebanon
 
 <img src="/images/Students.png" alt="PhD Day" width="700">
 
