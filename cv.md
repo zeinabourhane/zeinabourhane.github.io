@@ -114,7 +114,7 @@ Eberswalde University for Sustainable Development
 
 **2025- present**. SFM member [Société Française de Microbiologie](https://www.sfm-microbiologie.org/)
 
-**2025- present**. NextGen4MED: Network of young researchers focused on sustainable water management in the Mediterranean
+**2025- present**. [NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all) Network of young researchers focused on sustainable water management in the Mediterranean
 
 **2024- present**. SFBI member [Société savante de la bioinformatique](https://www.sfbi.fr)
 
