@@ -35,7 +35,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - **Women in STEM** (2025). Participation in a networking event dedicated to women in research, aimed at fostering connections and supporting female researchers (Université de Pau et des Pays de l’Adour).
 
-- **Les Journées Nuées Ardentes** (2023). Participation as an instructor in workshops, podcasts, conferences, and debates for both children and adults during the event where participants discovered scientific curiosity laboratories run by researchers and students from the University of Clermont Auvergne (UCA) (Clermont Ferrand, France).
+- **[Les Journées Nuées Ardentes](https://www.youtube.com/watch?v=FlFpWQB-AtU)** (2022). Participation as an instructor in workshops, podcasts, conferences, and debates for both children and adults during the event where participants discovered scientific curiosity laboratories run by researchers and students from the University of Clermont Auvergne (UCA) (Clermont Ferrand, France).
 
 - **Fête de la Science** (2021). Participation as an instructor in workshops, connecting researchers and the general public. The event allows citizens of all ages to discover science through workshops, exhibitions and various experiences (Pau, France). 👉 [See figures](images/fetedessciences.jpeg)
 
