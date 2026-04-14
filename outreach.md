@@ -95,7 +95,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
   
 > This workshop offers students the opportunity to discover the omnipresence of microorganisms and their essential role the environment. Through fun activities (quizzes, role-playing, debates), they learn to distinguish between beneficial and harmful microbes, while developing their critical thinking skills.
 
-<img src="/images/C1.jpeg" width="180"> <img src="/images/C2.jpeg" width="180"> <img src="/images/C3.jpeg" width="180"> <img src="/images/C4.jpeg" width="180"> <img src="/images/C5.jpeg" width="180">
+<img src="/images/C1.jpeg" width="250"> <img src="/images/C2.jpeg" width="250"> <img src="/images/C3.jpeg" width="250"> <img src="/images/C4.jpeg" width="250"> <img src="/images/C5.jpeg" width="250">
 
 
 - **[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
