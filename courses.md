@@ -5,10 +5,10 @@
 A 5-week online workshop organized by **[NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all)**, designed for early-career and next-generation researchers. The program featured experienced project coordinators and representatives from funding organizations, providing practical insights into developing competitive research proposals.
 The workshop covered key topics including: [From research ideas to project concepts](https://www.linkedin.com/posts/nextgen4med_the-first-round-of-the-free-nextgen4med-workshop-activity-7429073616836689920-MZPd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)(exploring funding opportunities, aligning ideas with priorities, and building strong project foundations), [Evaluation criteria and funding priorities](https://www.linkedin.com/posts/nextgen4med_session-4-activity-7434181102698688513-JMRr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Experience-based reflections from researchers actively involved in proposal development](https://www.linkedin.com/posts/nextgen4med_nextgen4med-proposalwriting-researchfunding-activity-7437045874842783745-q3Fy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM).
 
-👉 [See course program](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+👉 [See workshop program](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 
-<img src="/images/nextgen1.jpg" alt="ISME" width="400"> <img src="/images/nextgen2.jpg" alt="ISME" width="400">
+<img src="/images/nextgen1.jpg" alt="ISME" width="500"> <img src="/images/nextgen2.jpg" alt="ISME" width="400">
 
 ---
 
