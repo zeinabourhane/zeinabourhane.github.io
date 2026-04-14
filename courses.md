@@ -14,12 +14,16 @@ The workshop covered key topics including: [From research ideas to project conce
 
 - **Developing Skills for Women Leadership in Climate Action, 2025**
 
+This course is designed to inspire women and girls, strengthen leadership skills, and empower emerging climate leaders to drive just and inclusive climate initiatives.
+
 Developed by UNITAR and C40 with the exclusive support of the Fondation L’Oréal, and with knowledge contributions from Columbia Climate School and CARE France.
 
 👉 [See course details](https://www.linkedin.com/posts/zeina-bourhane-772373144_climateaction-womenleadership-sustainability-activity-7354797653315993600-Q-4f?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 ---
 - **Nature-based Solutions for Disaster and Climate Resilience, 2025**
+
+This course is designed to provide an understanding of how nature itself offers powerful tools for building resilience and sustainability, and how Nature-based Solutions (NbS) can be applied to address climate change and disaster risks.
 
 Organised by: UN Environmental Program, PEDRR, EU,  and SDG Academy.
 
