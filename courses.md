@@ -7,7 +7,7 @@ The workshop covered key topics including: [From research ideas to project conce
 
 👉 [See workshop program](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
-> Organized by [NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all).
+> Organized by: [NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all).
 
 <img src="/images/nextgen1.jpg" alt="ISME" width="350">  <img src="/images/nextgen2.jpg" alt="ISME" width="300">
 
@@ -17,7 +17,7 @@ The workshop covered key topics including: [From research ideas to project conce
 
 This course is designed to inspire women and girls, strengthen leadership skills, and empower emerging climate leaders to drive just and inclusive climate initiatives.
 
-> Developed by UNITAR and C40 with the exclusive support of the Fondation L’Oréal, and with knowledge contributions from Columbia Climate School and CARE France.
+> Developed by: UNITAR and C40 with the exclusive support of the Fondation L’Oréal, and with knowledge contributions from Columbia Climate School and CARE France.
 
 👉 [See course details](https://www.linkedin.com/posts/zeina-bourhane-772373144_climateaction-womenleadership-sustainability-activity-7354797653315993600-Q-4f?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
