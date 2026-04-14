@@ -24,9 +24,9 @@ On this page you find
 
 [CARUSO Project](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?search-keywords=CARUSO): Interreg POCTEFA
 
-Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)
+[Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)](https://iprem.univ-pau.fr/fr/index.html)
 
-Pau University (UPPA), CNRS, France
+[Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) (UPPA), CNRS, France
 
 **Advisors**: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
 
@@ -59,9 +59,9 @@ Clermont-Ferrand Institute of Chemistry (ICCF), CNRS, France
 
 [AQUASALT Project](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche-termines/aquasalt-2018-22.html?search-keywords=AQUASALT): ERANETMED Program
 
-Institute of Experimental Biocenotics and Agrosystems (IBEAS)
+Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://iprem.univ-pau.fr/fr/index.html)
 
-Pau University (UPPA), CNRS, France
+[Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) (UPPA), CNRS, France
 
 **Advisors**: Prof. Robert Duran, Dr. Christine Cagnon
 
