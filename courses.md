@@ -1,5 +1,12 @@
 ## Courses
 
+**Proposal Writing Workshop**, Online workshop, 2026
+
+A 5-week online workshop organized by **[NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all)** and designed for early-career and next-generation researchers, featuring experienced project coordinators and funding organization representatives who provide practical insights into developing competitive research proposals.
+[Getting Started-From research ideas to project concept](https://www.linkedin.com/posts/nextgen4med_the-first-round-of-the-free-nextgen4med-workshop-activity-7429073616836689920-MZPd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) (exploring funding opportunities, aligning ideas with priorities, and shaping solid project foundations), [Evaluation Criteria & Funding Priorities](https://www.linkedin.com/posts/nextgen4med_session-4-activity-7434181102698688513-JMRr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [experience-based reflections from researchers actively involved in proposal development](https://www.linkedin.com/posts/nextgen4med_nextgen4med-proposalwriting-researchfunding-activity-7437045874842783745-q3Fy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM).
+
+👉 [See course program](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+
 **Developing Skills for Women Leadership in Climate Action, 2025**
 
 Developed by UNITAR and C40 with the exclusive support of the Fondation L’Oréal, and with knowledge contributions from Columbia Climate School and CARE France.
