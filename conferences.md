@@ -14,7 +14,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2025**. **P**: Novel Bioactive molecules in Thermal Waters: A New Frontier in Cosmetic Innovation EcotoxicoMicYR, FRANCE. 👉 [See video](https://www.youtube.com/watch?v=jd-LUYRIm28)
 
-**2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. International School on Mass Spectrometry, Erice, ITALIY. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_i-had-a-pleasure-of-participating-and-presenting-activity-7242796531290968064--m-Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+**2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. International School on Mass Spectrometry, Erice, ITALIY. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_i-had-a-pleasure-of-participating-and-presenting-activity-7242796531290968064--m-Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/Poster-intMSMS.pdf)
 
 <img src="/images/Massspectro.png" alt="ISME" width="500">
 
@@ -28,7 +28,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 <img src="/images/fems.png" alt="fems" width="500">
 
-**2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. International Conference: Science and Research in, for and with UNESCO Biosphere Reserves, Eberswalde, GERMANY. 👉 [See more details](https://www.facebook.com/photo/?fbid=10220376892628172&set=a.10218179401692272) and [programm](assets/ResearchConference2022Programme.pdf)
+**2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. International Conference: Science and Research in, for and with UNESCO Biosphere Reserves, Eberswalde, GERMANY. 👉 [See more details](https://www.facebook.com/photo/?fbid=10220376892628172&set=a.10218179401692272) and [program](assets/ResearchConference2022Programme.pdf)
 
 <img src="/images/germany2.png" alt="MAB" width="500">
 
