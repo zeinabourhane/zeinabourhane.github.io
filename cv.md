@@ -84,7 +84,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 [Summer School Program](assests/intSMS_2024_program.pdf)
 
-**Host**: Ettore Majorna Foundation, Erice, Italy
+**Host**: [Ettore Majorna Foundation](https://ettoremajoranafoundation.com/en/), Erice, Italy
 
 ---
 **[05/2022]    [UNESCO-MAB Laureate](https://www.unesco.org/fr/articles/le-programme-sur-lhomme-et-la-biosphere-de-lunesco-nomme-les-laureats-des-bourses-pour-les-jeunes)**
