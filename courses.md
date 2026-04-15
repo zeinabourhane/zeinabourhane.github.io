@@ -13,7 +13,7 @@ The workshop covered key topics including: [From research ideas to project conce
 
 ---
 
-- **Developing Skills for Women Leadership in Climate Action, 2025**
+- **[Developing Skills for Women Leadership in Climate Action](https://unccelearn.org/course/view.php?id=189&page=overview), 2025**
 
 This course is designed to inspire women and girls, strengthen leadership skills, and empower emerging climate leaders to drive just and inclusive climate initiatives.
 
