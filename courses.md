@@ -22,7 +22,7 @@ This course is designed to inspire women and girls, strengthen leadership skills
 👉 [See course details](https://www.linkedin.com/posts/zeina-bourhane-772373144_climateaction-womenleadership-sustainability-activity-7354797653315993600-Q-4f?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 ---
-- **Nature-based Solutions for Disaster and Climate Resilience, 2025**
+- **[Nature-based Solutions for Disaster and Climate Resilience](https://www.unep.org/gan/resources/toolkits-manuals-and-guides/massive-open-online-course-nature-based-solutions-disaster), 2025**
 
 This course is designed to provide an understanding of how nature itself offers powerful tools for building resilience and sustainability, and how Nature-based Solutions (NbS) can be applied to address climate change and disaster risks.
 
