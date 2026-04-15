@@ -6,7 +6,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 - **2026**: [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
 
-- **2022**: Make Our Planet Great Again (MOPGA), Postdoctoral Fellowship (42 700 €)
+- **2022**: Make Our Planet Great Again (MOPGA), [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin) (42 700 €)
 
 - **2021**: [UNESCO MAB](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1) for young scientists program grant (5000 $) 👉 [See here](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
 
