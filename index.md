@@ -64,6 +64,7 @@ R studio; QIIME2, DADA2; Tax4Fun2, PICRUSt2; CoNet, SparCC, among others.
 eDNA/RNA extraction; DNA QC (NanoDrop/Xpose) & quantification (Qubit); PCR; qPCR-data interpretation
 
 **Computing and Workflow Automation**
+
 Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with Slurm (sbatch) on HPC clusters.
 
 **Teaching and Projects**
