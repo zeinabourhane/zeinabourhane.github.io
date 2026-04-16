@@ -15,7 +15,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 <img src="/images/Mass1.jpg" alt="Spectro" width="250"> <img src="/images/Mass2.jpg" alt="Spectro" width="250"> <img src="/images/Mass3.jpg" alt="Spectro" width="250">
 
-**2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA. 👉 [See presentation](https://www.facebook.com/photo?fbid=10222140473116582&set=pcb.10222140485476891) and [See figure](https://www.facebook.com/photo/?fbid=10222140472756573&set=pcb.10222140485476891)
+**2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA. 👉 [See my presentation](https://presentations.copernicus.org/EGU23/EGU23-6568_presentation.pdf)  
 
 <img src="/images/EGU1.JPG" alt="EGU" width="230"> <img src="/images/EGU2.jpg" alt="EGU" width="310"> <img src="/images/EGU3.JPG" alt="EGU" width="230">
 
