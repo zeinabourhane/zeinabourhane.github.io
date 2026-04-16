@@ -18,7 +18,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA. 👉 [See my presentation](https://presentations.copernicus.org/EGU23/EGU23-6568_presentation.pdf)  
 
-<img src="/images/EGU1.JPG" alt="EGU" width="230"> <img src="/images/EGU2.jpg" alt="EGU" width="310"> <img src="/images/EGU3.JPG" alt="EGU" width="230">
+<img src="/images/EGU1.JPG" alt="EGU" width="230"> <img src="/images/EGU3.jpg" alt="EGU" width="230"> <img src="/images/EGU3.JPG" alt="EGU" width="250">
 
 **2023**. **P**: How microbial communities organize vertically in hypersaline wetland to ensure biogeochemical cycles? [EcotoxicoMicYR_2023](https://ecotoxicomic.org/ecotoxicomicyr_2023/), FRANCE. 👉 [Event details](https://ecotoxicomic.org/ecotoxicomicyr_2023/)
 
