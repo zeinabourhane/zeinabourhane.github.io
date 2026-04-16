@@ -2,9 +2,6 @@
 
 I have had the privilege of presenting my research at 20 international and national conferences across 15 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in **MICROBIAL ECOLOGY** world, feel free to [reach out](https://www.linkedin.com/in/zeina-bourhane-772373144). I always do my best to accommodate invitations and events to share and discuss and share insights about this topic !
 
-
-<img src="/images/ISME1.png" alt="ISME" width="400"> <img src="/images/ISME2.JPG" alt="ISME" width="300">
-
 > **OP**: Oral presentation   and     **P**: Poster
 
 
@@ -18,7 +15,6 @@ I have had the privilege of presenting my research at 20 international and natio
 
 <img src="/images/Mass1.jpg" alt="Spectro" width="250"> <img src="/images/Mass2.jpg" alt="Spectro" width="250"> <img src="/images/Mass3.jpg" alt="Spectro" width="250">
 
-
 **2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA. 👉 [See presentation](https://www.facebook.com/photo?fbid=10222140473116582&set=pcb.10222140485476891) and [See figure](https://www.facebook.com/photo/?fbid=10222140472756573&set=pcb.10222140485476891)
 
 <img src="/images/EGU1.JPG" alt="EGU" width="230"> <img src="/images/EGU2.jpg" alt="EGU" width="310"> <img src="/images/EGU3.JPG" alt="EGU" width="230">
@@ -26,6 +22,8 @@ I have had the privilege of presenting my research at 20 international and natio
 **2023**. **P**: How microbial communities organize vertically in hypersaline wetland to ensure biogeochemical cycles? [EcotoxicoMicYR_2023](https://ecotoxicomic.org/ecotoxicomicyr_2023/), FRANCE. 👉 [Event details](https://ecotoxicomic.org/ecotoxicomicyr_2023/)
 
 **2022**. **P**: Comparison of bacterial biodegradation of polycyclic aromatic hydrocarbons (PAHs) in the atmosphere and soil. Int. Society for Microbial Ecology (ISME18), Lausanne, SWITZERLAND. 👉 [See presentation](https://presentations.copernicus.org/EGU23/EGU23-6568_presentation.pdf) and [Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6568.html)
+
+<img src="/images/ISME1.png" alt="ISME" width="400"> <img src="/images/ISME2.JPG" alt="ISME" width="300">
 
 **2022**. **P**: Vertical organisation of microbial communities in Salineta hypersaline wetland, Spain. International Society for Microbial Ecology (ISME18), Belgrade, SERBIA. 👉 [See Poster](assets/Poster-FEMS-Belgrade2022.pdf)
 
