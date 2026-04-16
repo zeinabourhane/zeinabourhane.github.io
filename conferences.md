@@ -50,6 +50,6 @@ I have had the privilege of presenting my research at 20 international and natio
   
 <img src="/images/EGU.png" alt="EGU" width="800">         
 
-<img src="/images/EGU1.JPG" alt="EGU" width="250"> <img src="/images/EGU2.jpg" alt="EGU" width="350"> <img src="/images/EGU3.JPG" alt="EGU" width="250">
+<img src="/images/EGU1.JPG" alt="EGU" width="250"> <img src="/images/EGU2.jpg" alt="EGU" width="330"> <img src="/images/EGU3.JPG" alt="EGU" width="250">
 
   
