@@ -158,6 +158,6 @@ Arabic – Native
 
 ---
 
-<img src="/images/LAB1.jpeg" alt="lab" width="400"> <img src="/images/LAB2.jpeg" alt="lab" width="400"> 
+<img src="/images/LAB1.jpeg" alt="lab" width="380"> <img src="/images/LAB2.jpeg" alt="lab" width="380"> 
 
 
