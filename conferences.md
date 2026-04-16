@@ -35,7 +35,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 ##<img src="/images/germany2.png" alt="MAB" width="500">##
 
-<img src="/images/MAB1.jpg" alt="MAB" width="230"> <img src="/images/MAB2.jpg" alt="MAB" width="260"> <img src="/images/MAB3.jpg" alt="MAB" width="280"> 
+<img src="/images/MAB1.jpg" alt="MAB" width="230"> <img src="/images/MAB2.jpg" alt="MAB" width="260"> <img src="/images/MAB3.jpg" alt="MAB" width="300"> 
 
 **2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. [EcotoxicoMicYR_2021*](https://ecotoxicomic.org/ecotoxicomicyr_2021/), FRANCE. 👉 [More details](https://ecotoxicomic.org/ecotoxicomicyr_2021/)
 
