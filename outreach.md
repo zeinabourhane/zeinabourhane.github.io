@@ -65,7 +65,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 <img src="/images/visitescolaire1.png" width="450"> <img src="/images/visitescolaire2.png" width="350">
 
 
-<img src="/images/O1.jpeg" width="200"> <img src="/images/O2.jpeg" width="200"> <img src="/images/O6.jpeg" width="140"> <img src="/images/O4.jpeg" width="200">
+<img src="/images/O1.jpeg" width="200"> <img src="/images/O2.jpeg" width="210"> <img src="/images/O6.jpeg" width="130"> <img src="/images/O4.jpeg" width="200">
 
 ---
 ## III-  Popular science articles / Blogs (3)
