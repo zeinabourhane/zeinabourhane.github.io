@@ -33,7 +33,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. International Conference: Science and Research in, for and with UNESCO Biosphere Reserves, Eberswalde, GERMANY. 👉 [See more details](https://www.facebook.com/photo/?fbid=10220376892628172&set=a.10218179401692272) and [program](assets/ResearchConference2022Programme.pdf)
 
-<img src="/images/MAB1.jpg" alt="MAB" width="400"> <img src="/images/MAB22.png" alt="MAB" width="400">
+<img src="/images/MAB1.jpg" alt="MAB" width="350"> <img src="/images/MAB22.png" alt="MAB" width="350">
 
 **2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. [EcotoxicoMicYR_2021*](https://ecotoxicomic.org/ecotoxicomicyr_2021/), FRANCE. 👉 [More details](https://ecotoxicomic.org/ecotoxicomicyr_2021/)
 
