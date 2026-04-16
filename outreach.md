@@ -25,7 +25,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 - **Table ronde Girls in Research** (2025). Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
   
-  <img src="/images/tableronde.png" alt="ISME" width="500">
+ ## <img src="/images/tableronde.png" alt="ISME" width="500">
   
   <img src="/images/TABLE1.jpeg" alt="Table ronde" width="450">  <img src="/images/TABLE2.jpeg" alt="Table ronde" width="255">
 
