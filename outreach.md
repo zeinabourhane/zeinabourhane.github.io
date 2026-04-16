@@ -24,9 +24,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 - **Nuit de la recherche en Nouvelle-Aquitaine** (2025) 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
 
 - **Table ronde Girls in Research** (2025). Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
-  
- ## <img src="/images/tableronde.png" alt="ISME" width="500">
-  
+    
   <img src="/images/TABLE1.jpeg" alt="Table ronde" width="450">  <img src="/images/TABLE2.jpeg" alt="Table ronde" width="255">
 
 - **Circuit Scientifiques** (2025). Université de Pau et des Pays de l’Adour  👉 See [Advertisement](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html) and [my participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3)
@@ -97,8 +95,7 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
   
 > This workshop offers students the opportunity to discover the omnipresence of microorganisms and their essential role the environment. Through fun activities (quizzes, role-playing, debates), they learn to distinguish between beneficial and harmful microbes, while developing their critical thinking skills.
 
-<img src="/images/C1.jpeg" width="200"> <img src="/images/C2.jpeg" width="200"> <img src="/images/C3.jpeg" width="200"> 
-
+<img src="/images/C1.jpeg" width="200"> <img src="/images/C2.jpeg" width="200"> <img src="/images/C3.jpeg" width="200">
 <img src="/images/C4.jpeg" width="200"> <img src="/images/C6.jpeg" width="200"> <img src="/images/C5.jpeg" width="200">
 
 - **[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
