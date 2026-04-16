@@ -79,6 +79,3 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 ---
 
 <img src="/images/THESIS1.PNG" alt="Thesis" width="220"> <img src="/images/THESIS2.JPG" alt="Thesis" width="220"> <img src="/images/THESIS3.JPG" alt="Thesis" width="290">
-
----
-
