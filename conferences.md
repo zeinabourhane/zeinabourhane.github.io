@@ -28,7 +28,6 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2022**. **P**: Vertical organisation of microbial communities in Salineta hypersaline wetland, Spain. International Society for Microbial Ecology (ISME18), Belgrade, SERBIA. 👉 [See Poster](assets/Poster-FEMS-Belgrade2022.pdf)
 
-
 <img src="/images/BEL1.JPG" alt="fems" width="220"> <img src="/images/BEL2.JPG" alt="fems" width="220"> <img src="/images/BEL3.JPG" alt="fems" width="220">
 
 **2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. International Conference: Science and Research in, for and with UNESCO Biosphere Reserves, Eberswalde, GERMANY. 👉 [See more details](https://www.facebook.com/photo/?fbid=10220376892628172&set=a.10218179401692272) and [program](assets/ResearchConference2022Programme.pdf)
@@ -45,7 +44,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2019**. **OP**: Role of bioindicators in the environmental assessment. [AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, SPAIN.
 
- **2019**. **OP**. Anthropogenic impact on microbial communities in agriculture arid zones. PhD students Journey, Pau University, Pau, France, 3-6 June 2019. 👉 [See figures](images/phday.png)
+ **2019**. **OP**: Anthropogenic impact on microbial communities in agriculture arid zones. PhD students Journey, Pau University, Pau, France, 3-6 June 2019. 👉 [See figures](images/phday.png)
  
 ---
 
