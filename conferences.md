@@ -3,6 +3,7 @@
 I have had the privilege of presenting my research at 20 international and national conferences across 15 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in **MICROBIAL ECOLOGY** world, feel free to [reach out](https://www.linkedin.com/in/zeina-bourhane-772373144). I always do my best to accommodate invitations and events to share and discuss and share insights about this topic !
 
 > **OP**: Oral presentation   and     **P**: Poster
+
 ---
 
 **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NEW ZEANLAND. **(CONFIRMED)**
