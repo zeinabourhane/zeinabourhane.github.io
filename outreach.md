@@ -97,7 +97,6 @@ I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon
 
 <img src="/images/C1.jpeg" width="200"> <img src="/images/C2.jpeg" width="200"> <img src="/images/C3.jpeg" width="200"> <img src="/images/C4.jpeg" width="200"> <img src="/images/C6.jpeg" width="200"> <img src="/images/C5.jpeg" width="200">
 
-
 - **[International Microorganism Day (IMD25)](https://www.internationalmicroorganismday.org/blog/imd2025-france)** (2025). Pau, France. 👉 [More details](https://www.linkedin.com/feed/update/urn:li:activity:7374112466416590848/)
 
 > International Microorganism Day is a global celebration dedicated to highlighting the fascinating world of microorganisms and their profound contributions to our planet. From their essential roles in human health and agriculture to their critical functions in environmental sustainability and biotechnology, microbes are everywhere and they affect everything!
