@@ -14,7 +14,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. International School on Mass Spectrometry, Erice, ITALIY. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_i-had-a-pleasure-of-participating-and-presenting-activity-7242796531290968064--m-Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/Poster-intMSMS.pdf)
 
-<img src="/images/Mass1.jpg" alt="Spectro" width="250"> <img src="/images/Mass2.jpg" alt="Spectro" width="250"> <img src="/images/Mass3.jpg" alt="Spectro" width="250">
+<img src="/images/Mass1.jpg" alt="Spectro" width="230"> <img src="/images/Mass2.jpg" alt="Spectro" width="230"> <img src="/images/Mass3.jpg" alt="Spectro" width="230">
 
 **2023**. **OP**: A Comparison of the loss of polycyclic hydrocarbons (PAHs) in soil and in the atmosphere. European Geosciences Union (EGU), Vienna, AUSTRIA. 👉 [See my presentation](https://presentations.copernicus.org/EGU23/EGU23-6568_presentation.pdf)  
 
