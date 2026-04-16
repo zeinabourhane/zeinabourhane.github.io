@@ -76,6 +76,8 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 
 👉 [Download my CV](assets/Zeina_CV.pdf)
 
+---
+
 <img src="/images/THESIS1.PNG" alt="Thesis" width="230"> <img src="/images/THESIS2.JPG" alt="Thesis" width="230"> <img src="/images/THESIS3.JPG" alt="Thesis" width="260">
 
 ---
