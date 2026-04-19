@@ -10,7 +10,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. [Société Française de la microbiologie (SFM)](https://www.sfm-microbiologie.org/), Bordeaux, FRANCE. 👉 [See details, figures](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/SFM-Microbes-2025-Bordeaux.pdf)
 
-<img src="/images/SFM1.jpg" alt="SFM" width="260"> <img src="/images/SFM2.jpg" alt="SFM" width="200"> <img src="/images/SFM3.jpeg" alt="SFM" width="240">
+<img src="/images/SFM1.jpg" alt="SFM" width="260"> <img src="/images/SFM2.jpg" alt="SFM" width="200"> <img src="/images/SFM3.jpeg" alt="SFM" width="250">
 
 **2025**. **P**: Novel Bioactive molecules in Thermal Waters: A New Frontier in Cosmetic Innovation EcotoxicoMicYR, FRANCE. 👉 [See video](https://www.youtube.com/watch?v=jd-LUYRIm28)
 
