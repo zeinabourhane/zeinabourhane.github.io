@@ -8,7 +8,7 @@ I have had the privilege of presenting my research at 20 international and natio
 
 **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. International Society for Microbial Ecology (ISME20), Auckland, NEW ZEANLAND. **(CONFIRMED)**
 
-**2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. [Société Française de la microbiologie (SFM)](https://www.sfm-microbiologie.org/), Bordeaux, FRANCE. 👉 [See details, figures](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/SFM-Microbes-2025-Bordeaux.pdf)
+**2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. [Société Française de la microbiologie (SFM)](https://www.sfm-microbiologie.org/), Bordeaux, FRANCE. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/SFM-Microbes-2025-Bordeaux.pdf)
 
 <img src="/images/SFM1.jpg" alt="SFM" width="260"> <img src="/images/SFM2.jpg" alt="SFM" width="200"> <img src="/images/SFM3.jpeg" alt="SFM" width="250">
 
