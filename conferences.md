@@ -32,7 +32,7 @@ I have had the privilege of presenting my research at 15 international and natio
 
 <img src="/images/BEL1.JPG" alt="fems" width="235"> <img src="/images/BEL2.JPG" alt="fems" width="235"> <img src="/images/BEL3.JPG" alt="fems" width="235">
 
-**2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. International Conference: Science and Research in, for and with UNESCO Biosphere Reserves, Eberswalde, GERMANY. 👉 [See more details](https://www.facebook.com/photo/?fbid=10220376892628172&set=a.10218179401692272) and [program](assets/ResearchConference2022Programme.pdf)
+**2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. [International Conference: Science and Research in, for and with UNESCO Biosphere Reserves](https://www.biospherereserves.institute/research-conference), Eberswalde, GERMANY. 👉 [See more details](https://www.facebook.com/photo/?fbid=10220376892628172&set=a.10218179401692272) and [program](assets/ResearchConference2022Programme.pdf)
 
 <img src="/images/MAB1.jpg" alt="MAB" width="350"> <img src="/images/MAB22.png" alt="MAB" width="350">
 
