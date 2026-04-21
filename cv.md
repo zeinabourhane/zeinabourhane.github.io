@@ -22,7 +22,7 @@ On this page you find
 
 *Identification of Bioactive molecules in Thermal Spring Waters for skin microbiome enhancement*
 
-[CARUSO Project](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?search-keywords=CARUSO): Interreg POCTEFA
+**[CARUSO Project](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?search-keywords=CARUSO)**: Interreg POCTEFA
 
 [Institute of Analytical Sciences and Physico-Chemistry for the Environment and Materials (IPREM)](https://iprem.univ-pau.fr/fr/index.html)
 
@@ -45,7 +45,7 @@ Lebanese University, Lebanon
 
 *Modelling of chemical and microbiological processes in the atmosphere and soil*
 
-[MOBIDIC Project](https://www.uca.fr/medias/fichier/mopga-iccf_1571038931653-pdf): [Make Our Planet Great Again (MOPGA)](https://dred.uca.fr/ingenieriebr-de-projets/projets-finances/projets-termines/mobidic)
+**[MOBIDIC Project](https://www.uca.fr/medias/fichier/mopga-iccf_1571038931653-pdf)**: [Make Our Planet Great Again (MOPGA)](https://dred.uca.fr/ingenieriebr-de-projets/projets-finances/projets-termines/mobidic)
 
 [Clermont-Ferrand Institute of Chemistry (ICCF)](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme#/admin), CNRS, France
 
