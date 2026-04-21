@@ -20,7 +20,7 @@ I have received travel grants from major international societies (including FEMS
 
 - **2026**: Bourse [75th Lindau Meeting Interdisciplinary](https://www.lindau-nobel.org/), Germany  **(CONFIRMED)**
 
-- **2023**: AFEM Young researcher mobility (1200 €)
+- **2023**: AFEM Young researcher mobility (1000 €)
 
 - **2022**: [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/) Conference attendance Grant, Belgrade, Serbia (1200 €)
 
