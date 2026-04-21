@@ -73,7 +73,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 *Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
 
-[CSIC](https://delegacion.aragon.csic.es/), Zaragoza, Spain
+[Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain
 
 **Host**: Pr. Carmen Castañeda
 
