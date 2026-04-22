@@ -14,7 +14,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 - **2021**: [UNESCO MAB](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1) for young scientists program grant (5000 $) 👉 [See here](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
   
-> Project: Elaboration of the First Microbial Study of the Environmental Quality of the Jabal Moussa Biosphere Reserve, in Lebanon
+> *Project*: Elaboration of the First Microbial Study of the Environmental Quality of the Jabal Moussa Biosphere Reserve, in Lebanon
 
 > Status: CONCLUDED
 
