@@ -4,7 +4,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 ## Research grants
 
-- **2026**: Research and Training Grant, [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
+- **2026**: Research & Training Grant, [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
 
 - **2022**: Make Our Planet Great Again (MOPGA), [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin) (42 700 €)
 
