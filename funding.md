@@ -6,7 +6,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 - **2026**: Research & Training Grant, [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
 
-> Project: **Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters**
+> **Project**: Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters
 
 > Status: from September 26 till November 26. Spanish National Research Council (CSIC), Zaragoza, Spain
   
@@ -14,13 +14,13 @@ I have consistently secured competitive fellowships and project funding througho
 
 - **2021**: [UNESCO MAB](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1) for young scientists program grant (5000 $) 👉 [See here](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
   
-> Project: **Elaboration of the First Microbial Study of the Environmental Quality of the Jabal Moussa Biosphere Reserve, in Lebanon**
+> **Project**: Elaboration of the First Microbial Study of the Environmental Quality of the Jabal Moussa Biosphere Reserve, in Lebanon
 
 > Status: CONCLUDED
 
 - **2019**: Research Grant: Grant of Excellence, Energy and Environment Solutions (E2S), France (5000 €)
 
-> Project: **Adapt microgAMBI microbial Index for contaminated soils and sediments**
+> **Project**: Adapt microgAMBI microbial Index for contaminated soils and sediments
 
 > Status: CONCLUDED
 
