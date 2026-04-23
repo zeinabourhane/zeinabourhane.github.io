@@ -46,7 +46,9 @@ I have had the privilege of presenting my research at 15 international and natio
 
 **2019**. **OP**: Role of bioindicators in the environmental assessment. [AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, SPAIN.
 
- **2019**. **OP**: Anthropogenic impact on microbial communities in agriculture arid zones. PhD students Journey, Pau University, Pau, France, 3-6 June 2019. 👉 [See figures](images/phday.png)
+ **2019**. **OP**: Anthropogenic impact on microbial communities in agriculture arid zones. PhD students Journey, Pau University, Pau, France, 3-6 June 2019. 👉 [See figures](images/phdday.png)
+
+ <img src="/images/phdday.png" alt="PHDDAY" width="350">
  
 ---
 
