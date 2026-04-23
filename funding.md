@@ -8,7 +8,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 > **Project**: Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters
 
-> Status: from September 26 till November 26. Spanish National Research Council (CSIC), Zaragoza, Spain
+> **Status**: from September 26 till November 26. Spanish National Research Council (CSIC), Zaragoza, Spain
   
 - **2022**: Make Our Planet Great Again (MOPGA), [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin) (42 700 €)
 
@@ -16,13 +16,13 @@ I have consistently secured competitive fellowships and project funding througho
   
 > **Project**: Elaboration of the First Microbial Study of the Environmental Quality of the Jabal Moussa Biosphere Reserve, in Lebanon
 
-> Status: CONCLUDED
+> **Status**: CONCLUDED
 
 - **2019**: Research Grant: Grant of Excellence, Energy and Environment Solutions (E2S), France (5000 €)
 
 > **Project**: Adapt microgAMBI microbial Index for contaminated soils and sediments
 
-> Status: CONCLUDED
+> **Status**: CONCLUDED
 
 - **2018-2021**: PhD scholarship AQUASALT ERANET MED (Number NMED-0003-01) (98 500 €).
 
