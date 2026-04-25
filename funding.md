@@ -40,7 +40,7 @@ I have received travel grants from major international societies (including FEMS
 
 - **2021**: AFEM Young researcher mobility (500 €)
 
-- **2019**: Aquitaine Mobility (AquiMob) International Mobility Grant, UPPA (1200 €)
+- **2019**: [Aquitaine Mobility (AquiMob)](https://www.aquimob.fr/portail/) International Mobility Grant, UPPA (1200 €)
 
 ---
 
