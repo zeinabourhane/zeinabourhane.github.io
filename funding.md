@@ -24,7 +24,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 > **Status**: CONCLUDED
 
-- **2018-2021**: PhD scholarship AQUASALT ERANET MED (Number NMED-0003-01) (98 500 €).
+- **2018-2021**: PhD scholarship AQUASALT ERANET MED (Number NMED-0003-01) (98 500 €)
 
 ---
 
