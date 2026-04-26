@@ -44,7 +44,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 ---
 ## II- School visits (13 visits across 2 countries)
 
-I have conducted 13 school visits internationally: 10 in France and 3 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
+I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
 
 - Cité Scolaire Gaston Crampe -Aire sur Adour, FRANCE (10/10/2025), in person.
   
