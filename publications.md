@@ -10,7 +10,7 @@ On this page you find
 - **[III- Peer-reviewing activity](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/publications.md#peer-reviewing-activity)**
   
 ---
-## I- Articles
+## **I- Articles**
 
 > (*) Fisrt/ Corresponding Author
 
@@ -83,7 +83,7 @@ This review article examines the aeromicrobiome, the microbial communities inhab
 Received: 16 March 2023; Accepted: 24 April 2023; Published: 16 May 2023
 
 ---
-## II- Submitted Papers *(available upon request)*
+## **II- Submitted Papers *(available upon request)***
 
 
 - **Unveiling the metagenomic profiles of Pyrenean thermal waters**. *Under review in Microbiome*.
@@ -107,7 +107,7 @@ Kouchou A, Tadist F, **Bourhane Z**, Ben Said O, Rais N, Duran R, El Ghachtouli 
 Bem Salem F, Ben Said O, **Bourhane Z**, Sahbani A, …, Duran R. (2026)
 
 ---
-## III- Peer-reviewing activity
+## **III- Peer-reviewing activity**
 
 
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
@@ -120,7 +120,5 @@ My scientific expertise has led me to several invitations to take part in the pe
 - 1 for Scientific Reports. (2024)
   
   ** All stated reviews have been certified by Publons/ Web of Science: [OWA-4138-2025](https://www.webofscience.com/wos/author/record/OWA-4138-2025).
-  
-  
 
 ---
