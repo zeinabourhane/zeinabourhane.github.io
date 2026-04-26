@@ -2,7 +2,7 @@
 
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks.
 
-On This Page you find
+On This Page you find:
 
 - **[I- Scientific fairs (11)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
 
