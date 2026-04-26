@@ -75,7 +75,7 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 [Co supervision of MSc students](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/teaching.md#supervision-and-mentoring); Participation in multi-institutional projects (**[AQUASALT](https://recherche.univ-pau.fr/fr/axes-scientifiques/milieux-et-ressources-aquatiques/projetaquasalt.html?search-keywords=AQUASALT)**, **[MOBIDIC](https://dred.uca.fr/ingenieriebr-de-projets/projets-finances/projets-termines/mobidic)**, **[CARUSO](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?search-keywords=CARUSO)**), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ----
-## **V- CV**
+## **V- Curriculum vitae**
 
 👉 **[Download my CV](assets/Zeina_CV.pdf)**
 
