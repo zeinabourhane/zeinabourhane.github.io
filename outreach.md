@@ -1,5 +1,7 @@
 ## Outreach
 
+Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks.
+
 On This Page you find
 
 - **[I- Scientific fairs (11)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
@@ -11,8 +13,6 @@ On This Page you find
 - **[IV- General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
 - **[V- Workshops (2)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#v--workshop-1)**
-
-Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks.
 
 ---
 ## **I- Scientific fairs (11)**
