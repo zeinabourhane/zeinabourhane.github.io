@@ -59,22 +59,19 @@ More broadly, my research contributes to advancing our understanding of microbia
 ## **IV- Core Sills**
 
 **Data Analysis and Bioinformatics**
-
 R studio; QIIME2, DADA2; Tax4Fun2, PICRUSt2; CoNet, SparCC, among others.
 
 **Molecular and Microbial Techniques**
-
 eDNA/RNA extraction; DNA QC (NanoDrop/Xpose) & quantification (Qubit); PCR; qPCR-data interpretation
 
 **Computing and Workflow Automation**
-
 Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with Slurm (sbatch) on HPC clusters.
 
 **Teaching and Projects**
-
 [Co supervision of MSc students](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/teaching.md#supervision-and-mentoring); Participation in multi-institutional projects (**[AQUASALT](https://recherche.univ-pau.fr/fr/axes-scientifiques/milieux-et-ressources-aquatiques/projetaquasalt.html?search-keywords=AQUASALT)**, **[MOBIDIC](https://dred.uca.fr/ingenieriebr-de-projets/projets-finances/projets-termines/mobidic)**, **[CARUSO](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?search-keywords=CARUSO)**), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ----
+
 ## **V- Curriculum vitae**
 
 👉 **[Download my CV](assets/Zeina_CV.pdf)**
