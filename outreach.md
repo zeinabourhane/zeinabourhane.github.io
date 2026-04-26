@@ -15,7 +15,7 @@ On This Page you find
 Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in School visits and public talks.
 
 ---
-## I- Scientific fairs (11)
+## **I- Scientific fairs (11)**
 
 - **Les Cordées de la réussite** (2026)
   
@@ -42,7 +42,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 - **Open doors day** (2019). Participation as an instructor in workshops, conferences and debates fors tudents in the event (Université de Pau et des Pays de l’Adour)
 
 ---
-## II- School visits (13 visits across 2 countries)
+## **II- School visits (13 visits across 2 countries)**
 
 I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
 
@@ -65,7 +65,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 <img src="/images/O1.jpeg" width="200"> <img src="/images/O2.jpeg" width="200"> <img src="/images/O4.jpeg" width="200"> <img src="/images/O6.jpeg" width="130">
 
 ---
-## III-  Popular science articles / Blogs (3)
+## **III- Popular science articles / Blogs (3)**
 
 - **PANORAMA** (2025). An article Entitled **[Harnessing the Hidden Power of Thermal Waters: Microbiomes for a Healthy Planet](https://panorama.solutions/en/solution/harnessing-hidden-power-thermal-waters-microbiomes-healthy-planet)** 👉 [More details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbes-metabolites-share-7400642395698122752-akVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
@@ -74,7 +74,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 - **IPREM Bulletin** (2025). An article entiteld **[Étude des micro-organismes dans les eaux thermales des Pyrénées : un potentiel caché pour des cosmétiques durables](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?mtm_campaign=Newsletters/Le%20Mensuel%20de%20l%27Universit%C3%A9&mtm_medium=email&mtm_source=N%C2%B085%20-%2007/10/2025%20-%20ERRATUM%20-%20Lisez%20le%20Mensuel%20de%20l%27universit%C3%A9-85-2025-10-07)**
   
 ---
-## IV- General public talks (5)
+## **IV- General public talks (5)**
 
 - **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
 
@@ -89,7 +89,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 - **Science outreach talk** (2018). Doctoral School Day. Université de Pau et des Pays de l’Adour
 
 ---
-## V- Workshops (2)
+## **V- Workshops (2)**
 
 - **Les Marvels de l'environnement** (2026). Pau, France. 👉 [More details: coming soon]
   
