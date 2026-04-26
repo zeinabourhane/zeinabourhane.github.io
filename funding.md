@@ -2,7 +2,7 @@
 
 I have consistently secured competitive fellowships and project funding throughout my career, including at the doctoral, postdoctoral. Beyond these, I obtained travel grants and contributed to international projects, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.
 
-## Research grants
+## **I- Research grants**
 
 - **2026**: Research & Training Grant, [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
 
@@ -28,7 +28,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 ---
 
-## Travel grants
+## **II- Travel grants**
 
 I have received travel grants from major international societies (including FEMS, AFEM, …), enabling my participation in global meetings or courses across Europe and Asia.
 
