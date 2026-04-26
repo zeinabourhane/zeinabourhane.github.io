@@ -2,6 +2,8 @@
 
 I have gained teaching experience at public universities across TWO countries, delivering theoretical and laboratory sessions in different languages to undergraduate and master’s students. I hold national accreditations as an assistant professor in France (Section 68). These experiences and training have strengthened my ability to adapt to diverse academic environments and to promote critical thinking among students.
 
+---
+
 ## **I- Teaching Accreditations**
 
 **2023**. Qualification Section 68 – Maître de conférences, Ministère de l’Enseignement Supérieur, FRANCE.
