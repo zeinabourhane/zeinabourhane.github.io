@@ -146,7 +146,7 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 
 ---
 
-## V- Languages
+## **V- Languages**
 
 French – C1*
 
