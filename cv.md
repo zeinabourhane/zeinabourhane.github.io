@@ -16,7 +16,7 @@ On this page you find
 
   ---
   
-## I- Academic Positions
+## **I- Academic Positions**
 
 **[10/2024 – Present]    Postdoctoral fellow**
 
@@ -67,7 +67,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 ---
 
-## II- International Scientific stays
+## **II- International Scientific stays**
 
 **[09/2026 – 11/2026]   Research training (CONFIRMED)**
 
@@ -108,7 +108,7 @@ Eberswalde University for Sustainable Development
 
 ---
 
-## III- Membership of scientific organizations
+## **III- Membership of scientific organizations**
 
 **2026- present**. Pint of Sciences [Event Manager](https://pintofscience.fr/equipe/Pau/)
 
@@ -126,7 +126,7 @@ Eberswalde University for Sustainable Development
 
 ---
 
-## IV- Core Skills
+## **IV- Core Skills**
 
 **Data Analysis and Bioinformatics**
 
