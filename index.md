@@ -17,7 +17,7 @@ Microbial ecology | Extreme environments | Ecotoxicology | Metagenomics | Metabo
 **[Google Scholar](https://scholar.google.es/citations?user=NH2VWoIAAAAJ&hl=en&oi=ao)** | **[LinkedIn](https://www.linkedin.com/in/zeina-bourhane-772373144)** | **[HAL](https://hal.science/984215)** | **[ORCID](https://orcid.org/0000-0002-9663-2584)** | **[ResearchGate](https://www.researchgate.net/profile/Zeina-Bourhane)** | **[Loop](https://loop.frontiersin.org/people/1666424/overview)** | **[ScholarNet](https://www.scholarnet.net/?author=A5076378298)**
 
 ---
-## About Me
+## **I- About Me**
 
 Scientist in microbial ecology, with expertise in metagenomics, metabolomics and microbial network analysis applied to the valorization of extreme ecosystems.
 
@@ -30,7 +30,8 @@ More broadly, my research contributes to advancing our understanding of microbia
 <div style="clear: both;"></div>
 
 ---
-## Research Fields
+
+## **II- Research Fields**
 
 - Valorization of extreme ecosystems
 - Sepcialized thermostable metabolites
@@ -38,7 +39,8 @@ More broadly, my research contributes to advancing our understanding of microbia
 - Microbial collective biosynthetic potential
   
 ---
-## Education
+
+## **III- Education**
 
 **Ph.D. in Physiology and Biology of organisms-Populations-Interactions**  
 [09/2018 – 12/2021]   [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html), France
@@ -53,7 +55,8 @@ More broadly, my research contributes to advancing our understanding of microbia
 [09/2013 – 06/2016]    Lebanese University, Beirut, Lebanon
 
 ---
-## Core Sills
+
+## **IV- Core Sills**
 
 **Data Analysis and Bioinformatics**
 
@@ -72,7 +75,7 @@ Scripted pipelines in R; Linux/Shell batch mode processing; Job submission with 
 [Co supervision of MSc students](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/teaching.md#supervision-and-mentoring); Participation in multi-institutional projects (**[AQUASALT](https://recherche.univ-pau.fr/fr/axes-scientifiques/milieux-et-ressources-aquatiques/projetaquasalt.html?search-keywords=AQUASALT)**, **[MOBIDIC](https://dred.uca.fr/ingenieriebr-de-projets/projets-finances/projets-termines/mobidic)**, **[CARUSO](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche/caruso-2024-27/etude-des-micro-organismes-dans-les-eaux-thermales-des-pyrenees-un-potentiel-cache-pour-des-cosmetiques-durables.html?search-keywords=CARUSO)**), contributing to grant writing that secured funding; Stakeholder engagement in French, English & arabic.
 
 ----
-## CV
+## **V- CV**
 
 👉 **[Download my CV](assets/Zeina_CV.pdf)**
 
