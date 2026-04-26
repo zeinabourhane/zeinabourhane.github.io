@@ -6,11 +6,15 @@ I have gained teaching experience at public universities across TWO countries, d
 
 **2023**. Qualification Section 68 – Maître de conférences, Ministère de l’Enseignement Supérieur, FRANCE.
 
+---
+
 ## **II- Courses**
 
 - Fundamental Genetics. (36 hours)
 - Environmental ecology. (24 hours)
 - Environment and Pollution. (24 hours)
+
+---
 
 ## **III- Supervision and Mentoring**
 
@@ -27,3 +31,4 @@ I have supervised and mentored five undergraduate and master’s students in Leb
 <img src="/images/Students.png" alt="PhD Day" width="700">
 
 ---
+
