@@ -28,7 +28,7 @@ On this page you find
 
 [Université de Pau et des Pays de l'Adour](https://www.univ-pau.fr/fr/index.html) (UPPA), CNRS, France
 
-**Advisors**: Dr. Cristiana Cravo-Laureau, Prof. Robert Duran
+**Advisors**: Prof. Robert Duran, Dr. Cristiana Cravo-Laureau
 
 ---
 **[06/2023 – 07/2024]    Researcher**
