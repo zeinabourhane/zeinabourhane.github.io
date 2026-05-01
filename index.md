@@ -27,9 +27,7 @@ Using integrative multi-omics approaches, including metagenomics, metabolomics, 
 
 More broadly, my research contributes to advancing our understanding of microbial ecosystem functioning and to unlocking the biotechnological potential of microbiomes for sustainable applications.
 
-> My passions are research, teaching, mentoring, and coding
-
-<div style="clear: both;"></div>
+> ⭐ My passions are research, teaching, mentoring, and coding ⭐
 
 ---
 
