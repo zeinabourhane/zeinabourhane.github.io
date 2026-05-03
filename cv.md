@@ -80,7 +80,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 ---
 **[09/2024]    [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/)**
 
-*Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications*
+**Topic**: *Ion Mobility mass spectrometry: Fundamentals, Advances, and Applications*
 
 [Summer School Program](assests/intSMS_2024_program.pdf)
 
