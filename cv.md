@@ -20,7 +20,7 @@ On this page you find
 
 **[10/2024 – Present]    Postdoctoral fellow**
 
-*Identification of Bioactive molecules in Thermal Spring Waters for skin microbiome enhancement*
+**Project**: *Identification of Bioactive molecules in Thermal Spring Waters for skin microbiome enhancement*
 
 **[CARUSO Project](https://poctefa-caruso.eu/)**: Interreg POCTEFA
 
@@ -43,7 +43,7 @@ Lebanese University, Lebanon
 
 **[02/2022 – 05/2024]     Postdoctoral fellow**
 
-*Modelling of chemical and microbiological processes in the atmosphere and soil*
+**Project**: *Modelling of chemical and microbiological processes in the atmosphere and soil*
 
 **[MOBIDIC Project](https://www.uca.fr/medias/fichier/mopga-iccf_1571038931653-pdf)**: [Make Our Planet Great Again (MOPGA)](https://dred.uca.fr/ingenieriebr-de-projets/projets-finances/projets-termines/mobidic)
 
@@ -55,7 +55,7 @@ Lebanese University, Lebanon
 
 **[09/2018 – 12/2021]     Doctoral student**
 
-*Thesis: Anthropogenic impacts on microbial communities in agriculture arid zones*
+**Thesis**:  Anthropogenic impacts on microbial communities in agriculture arid zones*
 
 **[AQUASALT Project](https://iprem.univ-pau.fr/fr/collaborations/projets-de-recherche-termines/aquasalt-2018-22.html?search-keywords=AQUASALT)**: ERANETMED Program
 
@@ -71,7 +71,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 **[09/2026 – 11/2026]   Research training (CONFIRMED)**
 
-*Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
+**Project**: *Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
 
 [Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain
 
@@ -91,7 +91,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 Research In the World Network of Biosphere Reserve
 
-*Determine a relevant set of microbial bioindicators based on chemical and molecular approaches that can be used to assess the ecological status of Biosphere Reserve soils*
+**Project**: *Determine a relevant set of microbial bioindicators based on chemical and molecular approaches that can be used to assess the ecological status of Biosphere Reserve soils*
 
 Eberswalde University for Sustainable Development
 
@@ -100,7 +100,7 @@ Eberswalde University for Sustainable Development
 ---
 **[10/2019 – 02/2020]    Doctoral Mobility**
 
-*Adapt microgAMBI microbial Index for contaminated soils and sediments*
+**Project**: *Adapt microgAMBI microbial Index for contaminated soils and sediments*
 
 [AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, Spain
 
