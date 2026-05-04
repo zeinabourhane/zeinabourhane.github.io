@@ -10,7 +10,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 > **Project**: Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters
 
-> **Status**: from September 26 till November 26. Spanish National Research Council (CSIC), Zaragoza, Spain
+> **Status**: <u>from September 26 till November 26</u>. Spanish National Research Council (CSIC), Zaragoza, Spain
   
 - **2022**: Make Our Planet Great Again (MOPGA), [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin) (42 700 €)
 
