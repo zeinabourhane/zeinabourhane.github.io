@@ -8,8 +8,6 @@ I have gained teaching experience at public universities across TWO countries, d
 
 **2023**. Qualification Section 68 – Maître de conférences, Ministère de l’Enseignement Supérieur, FRANCE.
 
-<u>I did an internship.</u>
-
 ---
 
 ## **II- Courses**
