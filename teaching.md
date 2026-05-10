@@ -12,7 +12,7 @@ I have gained teaching experience at public universities across TWO countries, d
 
 ## **II- Courses**
 
-- Fundamental Genetics. (36 hours)
+- Fundamental Genetics. (24 hours)
 - Environmental ecology. (24 hours)
 - Environment and Pollution. (24 hours)
 
