@@ -36,13 +36,13 @@ I have received travel grants from major international societies (including FEMS
 
 - **2026**: Bourse de voyage [Société Française de la bioinformatique (SFBI)](https://www.sfbi.fr) **(CONFIRMED)**
 
-- **2026**: Bourse [75th Lindau Meeting Interdisciplinary](https://www.lindau-nobel.org/), Germany  **(CONFIRMED)**
+- **2026**: [75th Lindau Meeting Interdisciplinary](https://www.lindau-nobel.org/) grant, Germany  **(CONFIRMED)**
 
-- **2022**: AFEM Young researcher mobility (630 €)
+- **2022**: AFEM Young researcher mobility grant (630 €)
 
 - **2022**: [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/) Conference attendance Grant, Belgrade, Serbia
 
-- **2021**: AFEM Young researcher mobility (500 €)
+- **2021**: AFEM Young researcher mobility grant (500 €)
 
 - **2019**: [Aquitaine Mobility (AquiMob)](https://www.aquimob.fr/portail/) International Mobility Grant, UPPA (1200 €)
 
