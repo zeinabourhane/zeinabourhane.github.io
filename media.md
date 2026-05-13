@@ -4,6 +4,11 @@ title: Media
 permalink: /media/
 
 ---
+
+- **2026**: Bourse de voyage [Société Française de la bioinformatique (SFBI)](https://www.sfbi.fr) **(CONFIRMED)**
+  
+---
+
 Underline a text 
 
 <u>I did an internship.</u>
