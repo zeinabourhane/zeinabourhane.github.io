@@ -114,7 +114,7 @@ Eberswalde University for Sustainable Development
 
 **2026- present**. [Société Française de la bioinformatique (SFBI)](https://www.sfbi.fr) member
 
-**2026- present**. [ISME member (International Society for Microbial Ecology)](https://isme-microbes.org/)
+**2026- present**. [International Society for Microbial Ecology (ISME)](https://isme-microbes.org/) member
 
 **2025- present**. [Société Française de Microbiologie (SFM)](https://www.sfm-microbiologie.org/) member
 
