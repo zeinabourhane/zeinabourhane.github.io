@@ -112,13 +112,13 @@ Eberswalde University for Sustainable Development
 
 **2026- present**. Pint of Sciences [Event Manager](https://pintofscience.fr/equipe/Pau/)
 
+**2026- present**. [Société Française de la bioinformatique (SFBI)](https://www.sfbi.fr) member
+
 **2026- present**. [ISME member (International Society for Microbial Ecology)](https://isme-microbes.org/)
 
 **2025- present**. [Société Française de Microbiologie (SFM)](https://www.sfm-microbiologie.org/) member
 
 **2025- present**. [NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all) Network of young researchers focused on sustainable water management in the Mediterranean
-
-**2024- present**. [Société savante de la bioinformatique (SFBI)](https://www.sfbi.fr) member
 
 **2020- present**. [EcotoxicoMic member](https://ecotoxicomic.org/?s=zeina)
 
