@@ -32,7 +32,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 ## **II- Travel grants**
 
-I have received travel grants from major international societies (including FEMS, AFEM, …), enabling my participation in global meetings or courses across Europe and Asia.
+I have received travel grants from major international societies (including FEMS, AFEM, Sfbi …), enabling my participation in global meetings or courses across Europe and Asia.
 
 - **2026**: Bourse de voyage [Société Française de la bioinformatique (SFBI)](https://www.sfbi.fr) **(CONFIRMED)**
 
@@ -40,7 +40,7 @@ I have received travel grants from major international societies (including FEMS
 
 - **2022**: AFEM Young researcher mobility grant (630 €)
 
-- **2022**: [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/) Conference attendance Grant, Belgrade, Serbia
+- **2022**: [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/) Conference attendance grant, Belgrade, Serbia
 
 - **2021**: AFEM Young researcher mobility grant (500 €)
 
