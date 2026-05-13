@@ -4,7 +4,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 ---
 
-## **I- Research grants**
+## **I- Research grants (5)**
 
 - **2026**: Research & Training Grant, [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
 
