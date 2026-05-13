@@ -41,7 +41,7 @@ Lebanese University, Lebanon
 
 ---
 
-**[02/2022 – 05/2024]     Postdoctoral fellow**
+**[02/2022 – 05/2023]     Postdoctoral fellow**
 
 **Project**: *Modelling of chemical and microbiological processes in the atmosphere and soil*
 
