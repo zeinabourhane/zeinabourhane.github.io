@@ -12,7 +12,7 @@ I have consistently secured competitive fellowships and project funding througho
 
 > **Status**: <u>from September 26 till November 26</u>. Spanish National Research Council (CSIC), Zaragoza, Spain
   
-- **2022**: Make Our Planet Great Again (MOPGA), [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin) (42 700 €)
+- **2022**: [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin), Make Our Planet Great Again (MOPGA) (42 700 €)
 
 - **2021**: [UNESCO MAB](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1) for young scientists program grant (5000 $) 👉 [See here](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
   
