@@ -4,15 +4,21 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 ---
 
-## **I- Research grants (5)**
+## **I- Competitive fellowships and scholarships (2)**
+
+- **2022-2024**: [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin), Make Our Planet Great Again (MOPGA) (42 700 €)
+
+- **2018-2021**: PhD scholarship AQUASALT ERANET MED (Number NMED-0003-01) (98 500 €)
+  
+---
+
+## **II- Research grants (5)**
 
 - **2026**: Research & Training Grant, [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-research-grants/) (3000 €)
 
 > **Project**: Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters
 
 > **Status**: <u>from September 26 till November 26</u>. Spanish National Research Council (CSIC), Zaragoza, Spain
-  
-- **2022**: [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin), Make Our Planet Great Again (MOPGA) (42 700 €)
 
 - **2021**: [UNESCO MAB](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1) for young scientists program grant (5000 $) 👉 [See here](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
   
@@ -26,11 +32,9 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 > **Status**: CONCLUDED
 
-- **2018-2021**: PhD scholarship AQUASALT ERANET MED (Number NMED-0003-01) (98 500 €)
-
 ---
 
-## **II- Travel grants (5)**
+## **III- Travel grants (5)**
 
 I have received travel grants from major international societies (including FEMS, AFEM …), enabling my participation in global meetings or courses across Europe and Asia.
 
