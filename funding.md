@@ -6,7 +6,7 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 ## **I- Competitive fellowships and scholarships (2)**
 
-- **2024-2026**: Postdoctoral Fellowship, Interreg POCTEFA, CARUSO 
+- **2024-2026**: Postdoctoral Fellowship, [Interreg POCTEFA, CARUSO Project](https://poctefa-caruso.eu/)
 
 - **2022-2023**: [Postdoctoral Fellowship](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin), Make Our Planet Great Again (MOPGA) (42 700 €)
 
