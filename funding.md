@@ -8,7 +8,7 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 - **2024-2026**: Postdoctoral Fellowship, [Interreg POCTEFA, CARUSO Project](https://poctefa-caruso.eu/)
 
-- **2022-2023**: Postdoctoral Fellowship, [Make Our Planet Great Again (MOPGA), MOBIDIC](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin) (42 700 €)
+- **2022-2023**: Postdoctoral Fellowship, [Make Our Planet Great Again (MOPGA), MOBIDIC Project](https://iccf.uca.fr/version-francaise/recherche/biocatalyse-et-metabolisme/metabolisme#/admin) (42 700 €)
 
 - **2018-2021**: PhD scholarship AQUASALT ERANET MED (Number NMED-0003-01) (98 500 €)
   
