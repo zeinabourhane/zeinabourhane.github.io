@@ -29,7 +29,7 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 > **Status**: CONCLUDED
 
-- **2019**: **Research Grant: Grant of Excellence, Energy and Environment Solutions (E2S)**, France (5000 €)
+- **2019**: **Grant of Excellence, Energy and Environment Solutions (E2S)**, France (5000 €)
 
 > **Project**: Adapt microgAMBI microbial Index for contaminated soils and sediments
 
