@@ -46,11 +46,11 @@ I have had the privilege of presenting my research at 15 international and natio
 </video>
 
 <video width="700" controls>
-  <source src="./assets/Ecotoxicomic_YR-2023.mp4" type="video/mp4">
+  <source src="./videos/Ecotoxicomic_YR-2023.mp4" type="video/mp4">
 </video>
 
 <video width="700" autoplay muted loop controls>
-  <source src="./assets/Ecotoxicomic_YR-2023.mp4" type="video/mp4">
+  <source src="./videos/Ecotoxicomic_YR-2023.mp4" type="video/mp4">
 </video>
 
 
