@@ -21,6 +21,7 @@ I have had the privilege of presenting my research at 15 international and natio
 </video>
 
 >
+>
 
 **2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/), Erice, ITALIY. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_i-had-a-pleasure-of-participating-and-presenting-activity-7242796531290968064--m-Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/Poster-intMSMS.pdf)
 
@@ -38,6 +39,8 @@ I have had the privilege of presenting my research at 15 international and natio
   <source src="./videos/Ecotoxicomic_YR-2023.mp4" type="video/mp4">
 </video>
 
+>
+>
 
 **2022**. **P**: Comparison of bacterial biodegradation of polycyclic aromatic hydrocarbons (PAHs) in the atmosphere and soil. [Int. Society for Microbial Ecology (ISME18)](https://isme-microbes.org/), Lausanne, SWITZERLAND. 👉 [See presentation](https://presentations.copernicus.org/EGU23/EGU23-6568_presentation.pdf) and [Abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-6568.html)
 
