@@ -24,6 +24,8 @@ I have had the privilege of presenting my research at 15 international and natio
 
 **2023**. **P**: How microbial communities organize vertically in hypersaline wetland to ensure biogeochemical cycles? [EcotoxicoMicYR_2023](https://ecotoxicomic.org/ecotoxicomicyr_2023/), FRANCE. 👉 [Event details](https://ecotoxicomic.org/ecotoxicomicyr_2023/)
 
+> (*) EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event
+
 <video width="600" controls>
   <source src="./videos/Ecotoxicomic_YR-2023.mp4" type="video/mp4">
 </video>
