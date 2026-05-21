@@ -16,7 +16,7 @@ I have had the privilege of presenting my research at 15 international and natio
 
 > (*) EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event
 
-<video width="600" controls>
+<video width="700" controls>
   <source src="./videos/Ecotoxicomic_YR-2025.mp4" type="video/mp4">
 </video>
 
@@ -33,7 +33,7 @@ I have had the privilege of presenting my research at 15 international and natio
 
 > (*) EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event
 
-<video width="600" controls>
+<video width="700" controls>
   <source src="./videos/Ecotoxicomic_YR-2023.mp4" type="video/mp4">
 </video>
 
