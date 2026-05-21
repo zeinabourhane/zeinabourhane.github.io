@@ -14,6 +14,13 @@ I have had the privilege of presenting my research at 15 international and natio
 
 **2025**. **P**: Novel Bioactive molecules in Thermal Waters: A New Frontier in Cosmetic Innovation [EcotoxicoMicYR_2025](https://ecotoxicomic.org/ecotoxicomicyr_2025/), FRANCE. 👉 [See the YouTube video of my presentation](https://www.youtube.com/watch?v=jd-LUYRIm28)
 
+> (*) EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event
+
+<video width="600" controls>
+  <source src="./videos/Ecotoxicomic_YR-2025.mp4" type="video/mp4">
+</video>
+
+
 **2024**. **P**: Bioactive molecules identification in POCTEFA area plant extracts and thermal spring waters for skin enhancement microbiome in biosourced cosmetic. [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/), Erice, ITALIY. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_i-had-a-pleasure-of-participating-and-presenting-activity-7242796531290968064--m-Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Poster](assets/Poster-intMSMS.pdf)
 
 <img src="/images/Mass1.jpg" alt="Spectro" width="230"> <img src="/images/Mass2.jpg" alt="Spectro" width="230"> <img src="/images/Mass3.jpg" alt="Spectro" width="230">
