@@ -78,9 +78,8 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 - **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers’ talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
 
-  <video width="700" controls>
+  <video length="700" controls>
   <source src="./videos/Pint-of-Sciences-2026.mp4" type="video/mp4">
-</video>
 
 >
 >
