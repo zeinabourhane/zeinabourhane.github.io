@@ -78,6 +78,13 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 - **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers’ talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
 
+  <video width="700" controls>
+  <source src="./videos/Pint-of-Sciences-2026.mp4" type="video/mp4">
+</video>
+
+>
+>
+
 - **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
   
 - **Circuit Scientifique** (2025).  I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. 👉 [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
