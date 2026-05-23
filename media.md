@@ -34,6 +34,9 @@ Underline a text
 2 different pictures on the same line code
 separate the code to have more space between pictures
 
+-----
+
+- **Pint of Science Festival - France** (2026). PoS 18-21 May 2026. My role is to moderate the sessions and introduce the speakers’ talks as an **[Event Manager](https://pintofscience.fr/equipe/Pau/)**.
  <div style="display:flex; justify-content:space-between;">
   <img src="/images/Course1.jpg" width="100">
   <img src="/images/Course2.jpg" width="100">
