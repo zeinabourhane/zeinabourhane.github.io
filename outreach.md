@@ -23,7 +23,7 @@ On This Page you find:
   
 - **Nuit de la recherche en Nouvelle-Aquitaine** (2025) 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
 
-- **Table ronde Girls in Research** (2025). Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
+- **Table ronde "Girls in Research"** (2025). Devenir professeur-chercheuse en microbiologie 👉 [My participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=2)
     
   <img src="/images/TABLE1.jpeg" alt="Table ronde" width="450">  <img src="/images/TABLE2.jpeg" alt="Table ronde" width="255">
 
