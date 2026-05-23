@@ -76,7 +76,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 ---
 ## **IV- General public talks (5)**
 
-- **Pint of Science Festival - France** (2026). PoS 18-21 May 2026, Pau, France. 👉 [More details about the event](https://www.linkedin.com/posts/zeina-bourhane-772373144_pintofscience-sciencecommunication-research-ugcPost-7464021046967398400-bSLr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM).
+- **Pint of Science Festival - France** (2026). PoS 18-21 May 2026, Pau, France. 👉 [More details about the event](https://www.linkedin.com/posts/zeina-bourhane-772373144_pintofscience-sciencecommunication-research-ugcPost-7464021046967398400-bSLr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
   <video width="700" height="400" controls>
   <source src="./videos/Pint-of-Sciences-2026.mp4" type="video/mp4">
