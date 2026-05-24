@@ -17,7 +17,7 @@ On This Page you find:
 ---
 ## **I- Scientific fairs (11)**
 
-- **Les Cordées de la réussite** (2026)
+- **Les Cordées de la réussite** (2026) 👉 [More information coming soon :)]
   
 - **Fête de la Science** (2025) 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
   
