@@ -83,6 +83,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   <source src="./videos/Pint-of-Sciences-2026.mp4" type="video/mp4">
 
 >
+>
 
 - **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
   
