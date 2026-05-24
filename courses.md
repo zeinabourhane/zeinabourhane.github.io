@@ -1,5 +1,7 @@
 ## Courses
 
+---
+
 **I- [Proposal Writing Workshop](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM), Online workshop, 2026**
 
 A 5-week online workshop is designed for early-career and next-generation researchers. The program featured experienced project coordinators and representatives from funding organizations, providing practical insights into developing competitive research proposals.
