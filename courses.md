@@ -1,7 +1,6 @@
 ## Courses
 
 ---
-
 ## **I- [Proposal Writing Workshop](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM), Online workshop, 2026**
 
 A 5-week online workshop is designed for early-career and next-generation researchers. The program featured experienced project coordinators and representatives from funding organizations, providing practical insights into developing competitive research proposals.
@@ -14,7 +13,6 @@ The workshop covered key topics including: [From research ideas to project conce
 <img src="/images/nextgen1.jpg" alt="ISME" width="350">  <img src="/images/nextgen2.jpg" alt="ISME" width="300">
 
 ---
-
 ## **II- [Developing Skills for Women Leadership in Climate Action](https://unccelearn.org/course/view.php?id=189&page=overview), 2025**
 
 This course is designed to inspire women and girls, strengthen leadership skills, and empower emerging climate leaders to drive just and inclusive climate initiatives.
