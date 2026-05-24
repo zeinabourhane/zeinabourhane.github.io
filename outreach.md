@@ -62,7 +62,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 - Collège Ammar El Baykat, LEBANON (10/11/2021), in person.
 
-<img src="/images/O1.jpeg" width="230"> <img src="/images/O2.jpeg" width="230"> <img src="/images/O4.jpeg" width="230">
+<img src="/images/O1.jpeg" width="250"> <img src="/images/O2.jpeg" width="250"> <img src="/images/O4.jpeg" width="250">
 
 ---
 ## **III- Popular science articles / Blogs (3)**
