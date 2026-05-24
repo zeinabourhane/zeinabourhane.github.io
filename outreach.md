@@ -108,4 +108,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 > International Microorganism Day is a global celebration dedicated to highlighting the fascinating world of microorganisms and their profound contributions to our planet. From their essential roles in human health and agriculture to their critical functions in environmental sustainability and biotechnology, microbes are everywhere and they affect everything!
 
+
+<img src="/images/IMD25-1.jpeg" alt="lab" width="350"> <img src="/images/IMD25-2.jpeg" alt="lab" width="350"> 
+
 ---
