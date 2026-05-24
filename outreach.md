@@ -79,10 +79,11 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 - **Pint of Science Festival - France** (2026). PoS 18-21 May 2026, Pau, France. This event was hosted at [La Forge Moderne - Village Artisan](https://laforgemoderne.fr/pint-of-science), Pau. 
 👉 [More details about the event](https://www.linkedin.com/posts/zeina-bourhane-772373144_pintofscience-sciencecommunication-research-ugcPost-7464021046967398400-bSLr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
+>
   <video width="700" height="400" controls>
   <source src="./videos/Pint-of-Sciences-2026.mp4" type="video/mp4">
 
-  >
+>
 
 - **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
   
