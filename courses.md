@@ -1,5 +1,7 @@
 ## Courses
 
+I completed several specialized courses that strengthened my skills in research communication, leadership, and interdisciplinary approaches to sustainability and resilience. These experiences contributed to my personal and professional development and broadened my perspective on scientific and societal challenges.
+
 ---
 ## **I- [Proposal Writing Workshop](https://www.linkedin.com/posts/nextgen4med_nextgen4med-agenda-proposal-writing-workshop-activity-7425476483881717761-iS3h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM), Online workshop, 2026**
 
