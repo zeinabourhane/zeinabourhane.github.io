@@ -62,7 +62,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 - Collège Ammar El Baykat, LEBANON (10/11/2021), in person.
 
-<img src="/images/O1.jpeg" width="250"> <img src="/images/O2.jpeg" width="250"> <img src="/images/O4.jpeg" width="250">
+<img src="/images/O1.jpeg" width="240"> <img src="/images/O2.jpeg" width="240"> <img src="/images/O4.jpeg" width="240">
 
 ---
 ## **III- Popular science articles / Blogs (3)**
@@ -89,7 +89,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 - **Fête de la Science** (2025). I gave the talk “Les micro-organismes, amis ou ennemis” at Pau, France. 👉 [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
-<img src="/images/FETE1.jpeg" alt="ISME" width="415"> <img src="/images/FETE2.jpeg" alt="ISME" width="240">
+<img src="/images/FETE1.jpeg" alt="ISME" width="420"> <img src="/images/FETE2.jpeg" alt="ISME" width="240">
 
 - **Science outreach talk** (2018). Doctoral School Day. Université de Pau et des Pays de l’Adour
 
