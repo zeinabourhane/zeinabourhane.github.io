@@ -102,7 +102,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 > This workshop offers students the opportunity to discover the omnipresence of microorganisms and their essential role the environment. Through fun activities (quizzes, role-playing, debates), they learn to distinguish between beneficial and harmful microbes, while developing their critical thinking skills.
 
-<img src="/images/C1.jpeg" width="230"> <img src="/images/C2.jpeg" width="230"> <img src="/images/C3.jpeg" width="230">
+<img src="/images/C1.jpeg" width="240"> <img src="/images/C2.jpeg" width="240"> <img src="/images/C3.jpeg" width="240">
 
 <img src="/images/C4.jpeg" width="230"> <img src="/images/C6.jpeg" width="230"> <img src="/images/C5.jpeg" width="230">
 
