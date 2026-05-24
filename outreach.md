@@ -46,17 +46,17 @@ On This Page you find:
 
 I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
 
-- Cité Scolaire Gaston Crampe -Aire sur Adour, FRANCE (10/10/2025), in person.
-  
-- Lycée Jules Supervielle /Oloron-Sainte-Marie, FRANCE (09/10/2025), in person. 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
-
-- Collège Joseph Peyré - Garlin, FRANCE (15/01/2026), in person.
-  
-- Collège Jean Sarrailh - Monein, FRANCE (20/01/2026), in person.
-  
 - Collège d'Arzacq, FRANCE (03/03/2026), in person.
   
 - Collège de Baretous, FRANCE (19/03/2026), in person.
+
+- Collège Jean Sarrailh - Monein, FRANCE (20/01/2026), in person.
+  
+- Collège Joseph Peyré - Garlin, FRANCE (15/01/2026), in person.
+  
+- Cité Scolaire Gaston Crampe - Aire sur Adour, FRANCE (10/10/2025), in person.
+  
+- Lycée Jules Supervielle /Oloron-Sainte-Marie, FRANCE (09/10/2025), in person. 👉 [See here](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
   
 - Lycée Nour Al Houda, LEBNAON (13/10/2022), in person.
   
