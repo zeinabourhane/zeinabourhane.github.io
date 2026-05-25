@@ -98,6 +98,10 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 ---
 ## **V- Workshops (2)**
 
+- **Valorize the thermal water in the Pyrenees** (2026).
+
+> The workshop will take place at Université de Pau et des Pays de l’Adour. More information coming soon.
+
 - **Les Marvels de l'environnement** (2026). Pau, France.
   
 > This workshop offers students the opportunity to discover the omnipresence of microorganisms and their essential role the environment. Through fun activities (quizzes, role-playing, debates), they learn to distinguish between beneficial and harmful microbes, while developing their critical thinking skills.
