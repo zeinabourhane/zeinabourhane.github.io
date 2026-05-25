@@ -98,9 +98,9 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 ---
 ## **V- Workshops (2)**
 
-- **Valorize the thermal water in the Pyrenees** (2026).
+- **Valorize the thermal water in the Pyrenees** (2026). More information coming soon.
 
-> The workshop will take place at Université de Pau et des Pays de l’Adour. More information coming soon.
+> The workshop will take place at Université de Pau et des Pays de l’Adour on 25 June. More information coming soon.
 
 - **Les Marvels de l'environnement** (2026). Pau, France.
   
