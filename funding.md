@@ -41,7 +41,7 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 I have received travel grants from major international societies (including FEMS, AFEM …), enabling my participation in global meetings or courses across Europe and Asia.
 
-- **2026**: [75th Lindau Meeting Interdisciplinary](https://www.lindau-nobel.org/) grant, Germany **(CONFIRMED)**
+- **2026**: [75th Lindau Nobel Laureate Meeting (Interdisciplinary)](https://www.lindau-nobel.org/) grant, Germany **(CONFIRMED)**
 
 - **2022**: [Association Francophone d’Ecologie Microbienne (AFEM)](https://premc.org/afem/) Young researcher mobility grant (630 €)
 
