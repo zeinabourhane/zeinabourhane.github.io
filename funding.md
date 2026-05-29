@@ -29,7 +29,7 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 > **Status**: CONCLUDED
 
-- **2019**: **International Doctoral Mobility, Energy and Environment Solutions (E2S), UPPA**, France (5000 €)
+- **2019**: **International Doctoral Mobility, [Energy and Environment Solutions (E2S)](https://e2s-uppa.eu/fr/index.html), UPPA**, France (5000 €)
 
 > **Project**: Adapt microgAMBI microbial Index for contaminated soils and sediments
 
