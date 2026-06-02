@@ -21,7 +21,7 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 > **Project**: Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters
 
-> **Status**: <u>from September 26 till November 26</u>. Spanish National Research Council (CSIC), Zaragoza, Spain
+> **Status**: <u>from September 26 till November 26</u>.
 
 - **2021**: **[UNESCO MAB](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1) for young scientists program grant** (5000 $) 👉 [See here](https://www.unesco.org/en/articles/unescos-man-and-biosphere-programme-names-laureates-young-scientists-and-michel-batisse-awards-1)
   
