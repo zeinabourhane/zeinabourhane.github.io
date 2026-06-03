@@ -69,13 +69,14 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 ## **II- International Scientific stays**
 
-**[09/2026 – 11/2026]   Research training (CONFIRMED)**
+**[09/2026 – 06/2027]   Research Conference grant/training (FEMS) (CONFIRMED)**
 
-**Project**: *Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
+**Project**: *Metagenomic insights into microbial dynamics under redox conditions in a hypersaline wetland soil using
+Indicator of Redox in Soils (IRIS) films*
 
-[Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain
+[Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain - UPPA, Pau
 
-**Host**: Pr. Carmen Castañeda
+**Host**: Pr. Carmen Castañeda/ Pr. Robert Duran
 
 ---
 **[09/2024]    [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/)**
