@@ -17,8 +17,8 @@ On This Page you find:
 ---
 ## **I- Scientific fairs (11)**
 
-- **Campus des enfants** (2026). 15 - 16 June 2026, UPPA. These days are intended to introduce young children to the many fields of knowledge and research at the UPPA. By creating its "Children's University", the UPPA has chosen to open its doors to primary school students to develop children's questioning and critical thinking skills, but also to promote access to higher education while demystifying the university.
-*My contribution*: Les microbes dans l'environnement 👉 [Detailed program](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
+- **Campus des enfants** (2026). 15 - 16 June 2026, UPPA. These days are intended to introduce young children to the many fields of knowledge and research at the UPPA. By creating its "Children's University", the UPPA has chosen to open its doors to primary school students to develop their curiosity and critical thinking skills, while also promoting access to higher education and demystifying the university environment.
+*My contribution*: Les microbes dans l'environnement. 👉 [Detailed program](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
 
 - **Les Cordées de la réussite** (2026) 👉 [More information coming in July]
   
