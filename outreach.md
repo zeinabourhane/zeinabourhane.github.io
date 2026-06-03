@@ -17,6 +17,8 @@ On This Page you find:
 ---
 ## **I- Scientific fairs (11)**
 
+- **Campus des enfants** (2026) Les microbes dans l'environnement 👉 [Detailed program](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
+
 - **Les Cordées de la réussite** (2026) 👉 [More information coming soon]
   
 - **Fête de la Science** (2025) 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
