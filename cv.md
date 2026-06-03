@@ -72,6 +72,9 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 **[09/2026 – 11/2026]   Research training (CONFIRMED)**
 
 **Project**: *Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
+[Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain
+
+**Host**: Pr. Carmen Castañeda
 
 ---
 **[09/2024]    [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/)**
