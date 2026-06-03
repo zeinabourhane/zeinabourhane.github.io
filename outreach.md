@@ -22,7 +22,7 @@ On This Page you find:
 
 - **Les Cordées de la réussite** (2026) 👉 [More information coming in July]
   
-- **Fête de la Science** (2025). This event aims to discover the world of research and to spark interest in science by opening the doors of higher education and research institutions. 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+- **[Fête de la Science](https://www.fetedelascience.fr/la-nouvelle-aquitaine-fete-la-science)** (2025). This event aims to discover the world of research and to spark interest in science by opening the doors of higher education and research institutions. 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 - **Nuit de la recherche en Nouvelle-Aquitaine** (2025) 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
 
@@ -30,9 +30,9 @@ On This Page you find:
     
   <img src="/images/TABLE1.jpeg" alt="Table ronde" width="450">  <img src="/images/TABLE2.jpeg" alt="Table ronde" width="255">
 
-- **Circuit Scientifiques** (2025). Université de Pau et des Pays de l’Adour  👉 See [Advertisement](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html) and [my participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3)
+- **[Circuit Scientifiques](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html)** (2025). Université de Pau et des Pays de l’Adour  👉 See [Advertisement](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-circuit-scientifique-hors-les-murs-oloron-et-aire-sur-l-adour.html) and [my participation](https://partage.univ-pau.fr/service/home/~/?auth=co&loc=fr&id=95332&part=3)
 
-- **Villages des Sciences** (2025). Université de Pau et des Pays de l’Adour  👉 [My participation](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
+- **[Villages des Sciences](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)** (2025). Université de Pau et des Pays de l’Adour  👉 [My participation](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
 - **Girls in Science** (2025). les stéréotypes et comment s'en prémunir, en prenant l'exemple principal des filles dans les sciences et techniques 👉 [See figures](images/sterotype.jpeg) and [details](https://www.univ-pau.fr/fr/agenda/saps/fete-de-la-science-village-des-sciences-oloron-sainte-marie.html)
 
