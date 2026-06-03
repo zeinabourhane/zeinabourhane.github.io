@@ -50,9 +50,9 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 - **Collège de Baretous**, 25 students. FRANCE (19/03/2026), in person.
   
-- **Collège d'Arzacq**, FRANCE (03/03/2026), in person.
+- **Collège d'Arzacq**, 33 students. FRANCE (03/03/2026), in person.
 
-- **Collège Jean Sarrailh - Monein**, FRANCE (20/01/2026), in person.
+- **Collège Jean Sarrailh - Monein**, 30 students. FRANCE (20/01/2026), in person.
   
 - **Collège Joseph Peyré - Garlin**, FRANCE (15/01/2026), in person.
   
