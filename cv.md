@@ -73,7 +73,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 **Project**: *Metagenomic insights into microbial dynamics under redox conditions in extreme environments*
 
-[Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain - IPREM, UPPA, Pau
+[IPREM](https://iprem.univ-pau.fr/fr/index.html), UPPA, Pau - [Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain
 
 **Host**: Pr. Robert Duran - Pr. Carmen Castañeda
 
