@@ -75,7 +75,7 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 [Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain - IPREM, UPPA, Pau
 
-**Host**: Pr. Carmen Castañeda/ Pr. Robert Duran
+**Host**: Pr. Robert Duran - Pr. Carmen Castañeda
 
 ---
 **[09/2024]    [International School on Ion Mobility MASS SPECTROMETRY](https://www.euchems.eu/events/international-school-on-mass-spectrometry-intsms-2024/)**
