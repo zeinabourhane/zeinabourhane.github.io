@@ -69,10 +69,9 @@ Institute of Experimental Biocenotics and Agrosystems (IBEAS), [IPREM](https://i
 
 ## **II- International Scientific stays**
 
-**[09/2026 – 06/2027]   Research Conference grant/training (FEMS) (CONFIRMED)**
+**[09/2026 – 11/2026]   Research grant/Training (FEMS) (CONFIRMED)**
 
-**Project**: *Metagenomic insights into microbial dynamics under redox conditions in a hypersaline wetland soil using
-Indicator of Redox in Soils (IRIS) films*
+**Project**: *Metagenomic insights into microbial dynamics under redox conditions in extreme environments*
 
 [Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain - UPPA, Pau
 
