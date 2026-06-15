@@ -120,7 +120,7 @@ Eberswalde University for Sustainable Development
 
 **2025- present**. [NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all) Network of young researchers focused on sustainable water management in the Mediterranean
 
-**2020- present**. [EcotoxicoMic member](https://ecotoxicomic.org/?s=zeina)
+**2020- present**. [International Ecotoxicology Network (EcotoxicoMic) member](https://ecotoxicomic.org/?s=zeina)
 
 **2019- present**. Francophone Association of Microbial Ecology (AFEM) member
 
