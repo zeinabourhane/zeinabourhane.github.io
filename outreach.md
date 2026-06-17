@@ -109,6 +109,10 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 > The workshop will take place at Université de Pau et des Pays de l’Adour on 25 June. More information coming soon.
 
+- **Nos amis les micro-organismes** (2026).
+  
+> This workshop offers a fun and engaging introduction to the invisible world of microorganisms and their role in our daily lives. Through observing Petri dishes and guided discussions, children explore the diversity of life. An interactive quiz complements the workshop, reinforcing the concepts covered in a simple and participatory way. 👉 [My participation] (https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html) [and Pictures]
+
 - **Les Marvels de l'environnement** (2026). Pau, France.
   
 > This workshop offers students the opportunity to discover the omnipresence of microorganisms and their essential role the environment. Through fun activities (quizzes, role-playing, debates), they learn to distinguish between beneficial and harmful microbes, while developing their critical thinking skills.
