@@ -49,6 +49,9 @@ On This Page you find:
 
 I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
 
+- **Lycée John Perse**, 15 students. Pau,  France (17/06/2026), in person.
+> Contaminants in water. 👉 [See program]
+  
 - **Ecole Elementaire de Meillon**, 21 CM1 students. FRANCE (16/06/2026), in person.
   
 - **Ecole Elementaire d'Idron - Les Platanes**, 23 CE1/CE2 students. FRANCE (15/06/2026), in person.
