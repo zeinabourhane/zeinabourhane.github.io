@@ -89,8 +89,6 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   <video width="700" height="400" controls>
   <source src="./videos/Pint-of-Sciences-2026.mp4" type="video/mp4">
 
->
->
 
 - **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
   
@@ -103,7 +101,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 - **Science outreach talk** (2018). Doctoral School Day. Université de Pau et des Pays de l’Adour
 
 ---
-## **V- Workshops (2)**
+## **V- Workshops (4)**
 
 - **Valorize the thermal water in the Pyrenees** (2026). More information coming soon.
 
