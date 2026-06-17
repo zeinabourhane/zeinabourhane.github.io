@@ -45,13 +45,14 @@ On This Page you find:
 - **Open doors day** (2019). Participation as an instructor in workshops, conferences and debates fors tudents in the event, Université de Pau et des Pays de l’Adour
 
 ---
-## **II- School visits (13 visits across 2 countries)**
+## **II- School visits (14 visits across 2 countries)**
 
 I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon. Click on each school name to expand the entry and access more details about the visit. Among the visits
 
-- **Lycée John Perse**, 15 students. Pau,  France (17/06/2026), in person.
-> Contaminants in water. 👉 [See program]
+- **Lycée Saint John Perse**, 15 students. Pau,  France (17/06/2026), in person.
   
+> High school students visited IPREM at the Université de Pau et des Pays de l’Adour (UPPA) to learn more about water contaminants, their sources, origins, and related environmental issues. 👉 [See program](assets/stage-seconde.pdf) and [Pictures]
+
 - **Ecole Elementaire de Meillon**, 21 CM1 students. FRANCE (16/06/2026), in person.
   
 - **Ecole Elementaire d'Idron - Les Platanes**, 23 CE1/CE2 students. FRANCE (15/06/2026), in person.
