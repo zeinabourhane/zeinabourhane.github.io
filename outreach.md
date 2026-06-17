@@ -12,7 +12,7 @@ On This Page you find:
 
 - **[IV- General public talks (5)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#general-public-talks-4)**
 
-- **[V- Workshops (2)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#v--workshop-1)**
+- **[V- Workshops (4)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#v--workshop-1)**
 
 ---
 ## **I- Scientific fairs (11)**
