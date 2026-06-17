@@ -17,8 +17,8 @@ On This Page you find:
 ---
 ## **I- Scientific fairs (11)**
 
-- **Campus des enfants** (2026). 15 - 16 June 2026, UPPA. These days are intended to introduce young children to the many fields of knowledge and research at the UPPA. By creating its "Children's University", the UPPA has chosen to open its doors to primary school students to develop their curiosity and critical thinking skills, while also promoting access to higher education and demystifying the university environment.
-*My contribution*: Les microbes dans l'environnement. 👉 [Detailed program](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
+- **[Campus des enfants](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)** (2026). 15 - 16 June 2026, UPPA, Pau. These days are intended to introduce young children to the many fields of knowledge and research at the UPPA. By creating its "Children's University", the UPPA has chosen to open its doors to primary school students to develop their curiosity and critical thinking skills, while also promoting access to higher education and demystifying the university environment.
+*My contribution*: Nos amis les micro-organismes. 👉 [Detailed program and pictures](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
 
 - **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [More information coming in July]
   
@@ -109,7 +109,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 - **Nos amis les micro-organismes** (2026). Pau, France.
   
-> This workshop offers a fun and engaging introduction to the invisible world of microorganisms and their role in our daily lives. Through observing Petri dishes and guided discussions, children explore the diversity of life. An interactive quiz complements the workshop, reinforcing the concepts covered in a simple and participatory way. 👉 [My participation] (https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html) [and Pictures]
+> This workshop offers a fun and engaging introduction to the invisible world of microorganisms and their role in our daily lives. Through observing Petri dishes and guided discussions, children explore the diversity of life. An interactive quiz complements the workshop, reinforcing the concepts covered in a simple and participatory way. 👉 [My participation](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html) [and Pictures]
 
 - **Les Marvels de l'environnement** (2026). Pau, France.
   
