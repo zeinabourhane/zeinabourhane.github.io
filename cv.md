@@ -110,19 +110,20 @@ Eberswalde University for Sustainable Development
 
 ## **III- Membership of scientific organizations**
 
-**2026- present**. Pint of Sciences [Event Manager](https://pintofscience.fr/equipe/Pau/)
+**2026- present**. [Event Manager](https://pintofscience.fr/equipe/Pau/) – [Pint of Sciences](https://pintofscience.fr/)
 
-**2026- present**. [Société Française de la bioinformatique (SFBI)](https://www.sfbi.fr) member
+**2026- present**. Member – [Société Française de la bioinformatique (SFBI)](https://www.sfbi.fr)
 
-**2026- present**. [International Society for Microbial Ecology (ISME)](https://isme-microbes.org/) member
+**2026- present**. Member – [International Society for Microbial Ecology (ISME)](https://isme-microbes.org/)
 
-**2025- present**. [Société Française de Microbiologie (SFM)](https://www.sfm-microbiologie.org/) member
+**2025- present**. Member – [Société Française de Microbiologie (SFM)](https://www.sfm-microbiologie.org/)
 
-**2025- present**. [NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all) Network of young researchers focused on sustainable water management in the Mediterranean
+**2025- present**. Member – [NextGen4MED](https://www.linkedin.com/showcase/nextgen4med/posts/?feedView=all) Network of young researchers focused on sustainable water management in the Mediterranean
 
-**2020- present**. [International Ecotoxicology Network (EcotoxicoMic)](https://ecotoxicomic.org/?s=zeina) member
+**2020- present**. Member – [International Ecotoxicology Network (EcotoxicoMic)](https://ecotoxicomic.org/?s=zeina)
 
-**2019- present**. Francophone Association of Microbial Ecology (AFEM) member
+**2019- present**. Member – [Francophone Association of Microbial Ecology (AFEM)](https://premc.org/afem/)
+
 
 ---
 
