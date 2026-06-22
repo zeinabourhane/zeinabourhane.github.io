@@ -49,3 +49,11 @@ Microbial Ecology (CNRS-L - UNESCO)
 Laboratoire de Microbiologie, Santé et Environnement
 
 Lebanese University, Lebanon
+
+---
+
+## **II- Courses**
+
+- Fundamental Genetics. (36 hours)
+- Environmental ecology. (24 hours)
+- Environment and Pollution. (24 hours)
