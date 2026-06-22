@@ -12,9 +12,6 @@ I have gained teaching experience at public universities across TWO countries, d
 
 ## **II- Courses**
 
-- Fundamental Genetics. (36 hours)
-- Environmental ecology. (24 hours)
-- Environment and Pollution. (24 hours)
 - TD: Méthodes en écologie. (12 hours)
 - TD: Communication scientifique en Anglais. (10 hours)
 
