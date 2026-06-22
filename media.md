@@ -42,3 +42,10 @@ separate the code to have more space between pictures
   <img src="/images/Course2.jpg" width="100">
 
 -------
+**[06/2023 – 07/2024]    Researcher**
+
+Microbial Ecology (CNRS-L - UNESCO)
+
+Laboratoire de Microbiologie, Santé et Environnement
+
+Lebanese University, Lebanon
