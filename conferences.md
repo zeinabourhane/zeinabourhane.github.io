@@ -4,7 +4,7 @@ I have had the privilege of presenting my research at 15 international and natio
 
 > **OP**: Oral presentation   and     **P**: Poster
 
-> Whenever possible, all posters are openly available on my [profile](https://github.com/zeinabourhane/zeinabourhane.github.io/edit/main/conferences.md).
+> Whenever possible, all posters are openly available on my [profile](https://github.com/zeinabourhane/zeinabourhane.github.io/edit/main/conferences.md)
 
 ---
 
