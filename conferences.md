@@ -5,6 +5,7 @@ I have had the privilege of presenting my research at 15 international and natio
 > **OP**: Oral presentation   and     **P**: Poster
 
 > Whenever possible, all posters are openly available on my [profile](https://github.com/zeinabourhane/zeinabourhane.github.io/edit/main/conferences.md).
+
 ---
 
 **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. [International Society for Microbial Ecology (ISME20)](https://isme.live.ws-django.co.uk/conferences/2/), Auckland, NEW ZEALAND. **(CONFIRMED)**
