@@ -3,6 +3,7 @@
 I have had the privilege of presenting my research at 15 international and national conferences across 10 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in **MICROBIAL ECOLOGY** world, feel free to [reach out](https://www.linkedin.com/in/zeina-bourhane-772373144). I always do my best to accommodate invitations and events to discuss and share insights about this topic !
 
 > **OP**: Oral presentation   and     **P**: Poster
+
 > Whenever possible, all posters are openly available on my [profile](https://github.com/zeinabourhane/zeinabourhane.github.io/edit/main/conferences.md).
 ---
 
