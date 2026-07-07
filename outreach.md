@@ -26,7 +26,6 @@ On This Page you find:
   
 - **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the personal intranet](assets/Cordees-participation.pdf)
   
-   <img src="/images/Cordee1.png" alt="Cordee" width="400">
   
 - **[Fête de la Science](https://www.fetedelascience.fr/la-nouvelle-aquitaine-fete-la-science)** (2025). This event aims to discover the world of research and to spark interest in science by opening the doors of higher education and research institutions. 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
