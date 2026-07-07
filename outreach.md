@@ -18,10 +18,9 @@ On This Page you find:
 ## **I- Scientific fairs (12)**
 
 - **[Campus des enfants](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)** (2026). 15 - 16 June 2026, UPPA, Pau. These days are intended to introduce young children to the many fields of knowledge and research at the UPPA. By creating its "Children's University", the UPPA has chosen to open its doors to primary school students to develop their curiosity and critical thinking skills, while also promoting access to higher education and demystifying the university environment.
-*My contribution*: "Nos amis les micro-organismes".
-👉 [Detailed program](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
+👉 [My contribution](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
 
-  <img src="/images/camp1.jpeg" alt="Campus" width="160"> <img src="/images/camp2.jpeg" alt="Campus" width="160"> <img src="/images/camp4.jpeg" alt="Campus" width="160"> <img src="/images/camp3.jpeg" alt="Campus" width="160">
+  <img src="/images/camp1.jpeg" alt="Campus" width="165"> <img src="/images/camp2.jpeg" alt="Campus" width="165"> <img src="/images/camp4.jpeg" alt="Campus" width="165"> <img src="/images/camp3.jpeg" alt="Campus" width="165">
 
 - **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the university intranet](assets/Cordees-participation.pdf)
   
