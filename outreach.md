@@ -57,6 +57,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 - **Lycée Saint John Perse**, 15 students. Pau,  France (17/06/2026), in person.
   
 > High school students visited IPREM at the Université de Pau et des Pays de l’Adour (UPPA) to learn more about water contaminants, their sources, origins, and related environmental issues. 👉 [See program](assets/stage-seconde.pdf) and [Pictures]
+
 - **Ecole Elementaire de Meillon**, 21 CM1 students. FRANCE (16/06/2026), in person.
   
 - **Ecole Elementaire d'Idron - Les Platanes**, 23 CE1/CE2 students. FRANCE (15/06/2026), in person.
