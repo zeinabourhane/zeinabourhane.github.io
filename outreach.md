@@ -25,6 +25,7 @@ On This Page you find:
 
 - **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the university intranet](assets/Cordees-participation.pdf)
   
+  <img src="/images/Co1.jpeg" width="200"> <img src="/images/Co2.jpeg" alt="Campus" width="200"> <img src="/images/Co3.jpeg" width="200">
   
 - **[Fête de la Science](https://www.fetedelascience.fr/la-nouvelle-aquitaine-fete-la-science)** (2025). This event aims to discover the world of research and to spark interest in science by opening the doors of higher education and research institutions. 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
@@ -56,6 +57,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 - **Lycée Saint John Perse**, 15 students. Pau,  France (17/06/2026), in person.
   
 > High school students visited IPREM at the Université de Pau et des Pays de l’Adour (UPPA) to learn more about water contaminants, their sources, origins, and related environmental issues. 👉 [See program here](assets/stage-seconde.pdf)
+
 
 
 
@@ -99,7 +101,6 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   <video width="700" height="400" controls>
   <source src="./videos/Pint-of-Sciences-2026.mp4" type="video/mp4">
 
-
 - **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
   
 - **Circuit Scientifique** (2025).  I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. 👉 [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
@@ -118,7 +119,6 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 > The workshop will take place at Université de Pau et des Pays de l’Adour on 25 June. More information coming soon. 👉 [See the workshop program](https://iprem.univ-pau.fr/_attachment/intermat-2019-24-article-2-4-2/Agenda%20Workshop%20CARUSO,%20IPREM%20-%20UPPA-3.pdf?download=true)
 
 <img src="/images/W1.jpeg" width="310">  <img src="/images/W2.jpeg" width="220">
-
 
 - **Nos amis les micro-organismes** (2026). Pau, France.
   
