@@ -21,7 +21,7 @@ On This Page you find:
 *My contribution*: "Nos amis les micro-organismes".
 👉 [Detailed program](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
 
-  <img src="/images/camp1.jpeg" alt="Campus" width="230"> <img src="/images/camp2.jpeg" alt="Campus" width="230"> <img src="/images/camp4.jpeg" alt="Campus" width="230"> <img src="/images/camp3.jpeg" alt="Campus" width="230">
+  <img src="/images/camp1.jpeg" alt="Campus" width="220"> <img src="/images/camp2.jpeg" alt="Campus" width="220"> <img src="/images/camp4.jpeg" alt="Campus" width="220"> <img src="/images/camp3.jpeg" alt="Campus" width="220">
 
   
 - **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the personal intranet](assets/Cordees-participation.pdf)
@@ -58,7 +58,6 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 - **Lycée Saint John Perse**, 15 students. Pau,  France (17/06/2026), in person.
   
 > High school students visited IPREM at the Université de Pau et des Pays de l’Adour (UPPA) to learn more about water contaminants, their sources, origins, and related environmental issues. 👉 [See program](assets/stage-seconde.pdf) and [Pictures]
-
 - **Ecole Elementaire de Meillon**, 21 CM1 students. FRANCE (16/06/2026), in person.
   
 - **Ecole Elementaire d'Idron - Les Platanes**, 23 CE1/CE2 students. FRANCE (15/06/2026), in person.
