@@ -26,7 +26,6 @@ On This Page you find:
 - **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the university intranet](assets/Cordees-participation.pdf)
   
   
-  
 - **[Fête de la Science](https://www.fetedelascience.fr/la-nouvelle-aquitaine-fete-la-science)** (2025). This event aims to discover the world of research and to spark interest in science by opening the doors of higher education and research institutions. 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
 
 - **[Nuit de la recherche en Nouvelle-Aquitaine](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)** (2025). 26th September 2025, Musée national et domaine du château de Pau. 👉 [See here](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/nuit-de-la-recherche.html)
@@ -118,7 +117,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 > The workshop will take place at Université de Pau et des Pays de l’Adour on 25 June. More information coming soon. 👉 [See the workshop program](https://iprem.univ-pau.fr/_attachment/intermat-2019-24-article-2-4-2/Agenda%20Workshop%20CARUSO,%20IPREM%20-%20UPPA-3.pdf?download=true)
 
-<img src="/images/W1.jpeg" width="200"> <img src="/images/W2.jpeg" width="200">
+                                   <img src="/images/W1.jpeg" width="250">  <img src="/images/W2.jpeg" width="200">
 
 
 - **Nos amis les micro-organismes** (2026). Pau, France.
