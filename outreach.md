@@ -116,7 +116,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 - **[Valorize the thermal water in the Pyrenees](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalisme-innovationcosmaeztique-recherche-ugcPost-7479908158728134656-ksr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)** (2026). 👉 [More information and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalisme-innovationcosmaeztique-recherche-ugcPost-7479908158728134656-ksr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
   
-> The workshop will take place at Université de Pau et des Pays de l’Adour on 25 June. More information coming soon. 👉 [See the workshop program](https://iprem.univ-pau.fr/_attachment/intermat-2019-24-article-2-4-2/Agenda%20Workshop%20CARUSO,%20IPREM%20-%20UPPA-3.pdf?download=true)
+> The workshop was held at IPREM, Université de Pau et des Pays de l’Adour, on 25 June 2026. 👉 [See the workshop program](https://iprem.univ-pau.fr/_attachment/intermat-2019-24-article-2-4-2/Agenda%20Workshop%20CARUSO,%20IPREM%20-%20UPPA-3.pdf?download=true)
 
 <img src="/images/W1.jpeg" width="310">  <img src="/images/W2.jpeg" width="220">
 
