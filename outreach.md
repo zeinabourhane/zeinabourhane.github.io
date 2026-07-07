@@ -23,8 +23,8 @@ On This Page you find:
 
   <img src="/images/camp1.jpeg" alt="Campus" width="160"> <img src="/images/camp2.jpeg" alt="Campus" width="160"> <img src="/images/camp4.jpeg" alt="Campus" width="160"> <img src="/images/camp3.jpeg" alt="Campus" width="160">
 
+- **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the university intranet](assets/Cordees-participation.pdf)
   
-- **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the personal intranet](assets/Cordees-participation.pdf)
   
   
 - **[Fête de la Science](https://www.fetedelascience.fr/la-nouvelle-aquitaine-fete-la-science)** (2025). This event aims to discover the world of research and to spark interest in science by opening the doors of higher education and research institutions. 👉 [My participation and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
@@ -56,7 +56,9 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 - **Lycée Saint John Perse**, 15 students. Pau,  France (17/06/2026), in person.
   
-> High school students visited IPREM at the Université de Pau et des Pays de l’Adour (UPPA) to learn more about water contaminants, their sources, origins, and related environmental issues. 👉 [See program](assets/stage-seconde.pdf) and [Pictures]
+> High school students visited IPREM at the Université de Pau et des Pays de l’Adour (UPPA) to learn more about water contaminants, their sources, origins, and related environmental issues. 👉 [See program here](assets/stage-seconde.pdf)
+
+
 
 - **Ecole Elementaire de Meillon**, 21 CM1 students. FRANCE (16/06/2026), in person.
   
@@ -112,8 +114,8 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 ---
 ## **V- Workshops (4)**
 
-- **Valorize the thermal water in the Pyrenees** (2026). More information coming soon.
-
+- **[Valorize the thermal water in the Pyrenees](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalisme-innovationcosmaeztique-recherche-ugcPost-7479908158728134656-ksr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)** (2026). 👉 [More information and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalisme-innovationcosmaeztique-recherche-ugcPost-7479908158728134656-ksr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+  
 > The workshop will take place at Université de Pau et des Pays de l’Adour on 25 June. More information coming soon. 👉 [See the workshop program](https://iprem.univ-pau.fr/_attachment/intermat-2019-24-article-2-4-2/Agenda%20Workshop%20CARUSO,%20IPREM%20-%20UPPA-3.pdf?download=true)
 
 - **Nos amis les micro-organismes** (2026). Pau, France.
