@@ -117,7 +117,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 > The workshop will take place at Université de Pau et des Pays de l’Adour on 25 June. More information coming soon. 👉 [See the workshop program](https://iprem.univ-pau.fr/_attachment/intermat-2019-24-article-2-4-2/Agenda%20Workshop%20CARUSO,%20IPREM%20-%20UPPA-3.pdf?download=true)
 
-<img src="/images/W1.jpeg" width="280">  <img src="/images/W2.jpeg" width="200">
+<img src="/images/W1.jpeg" width="290">  <img src="/images/W2.jpeg" width="200">
 
 
 - **Nos amis les micro-organismes** (2026). Pau, France.
