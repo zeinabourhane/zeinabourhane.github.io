@@ -58,7 +58,9 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 > High school students visited IPREM at the Université de Pau et des Pays de l’Adour (UPPA) to learn more about water contaminants, their sources, origins, and related environmental issues. 👉 [See program here](assets/stage-seconde.pdf)
 
-<img src="/images/Stage2nd1.jpeg" width="150"> <img src="/images/Stage2nd2.jpeg" width="150"> <video width="300" height="300" controls> <source src="./videos/Stage2ndvideo.mp4" type="video/mp4"> 
+<img src="/images/Stage2nd1.jpeg" width="150"> <img src="/images/Stage2nd2.jpeg" width="150">
+
+<video width="300" height="300" controls> <source src="./videos/Stage2ndvideo.mp4" type="video/mp4"> 
 
 - **Ecole Elementaire de Meillon**, 21 CM1 students. FRANCE (16/06/2026), in person.
   
