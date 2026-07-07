@@ -60,6 +60,9 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
 
 <img src="/images/Stage2nd1.jpeg" width="200"> <img src="/images/Stage2nd2.jpeg" width="200">
 
+<video width="500" height="300" controls>
+ <source src="./videos/Stage2ndvideo.mp4" type="video/mp4"> 
+
 
 - **Ecole Elementaire de Meillon**, 21 CM1 students. FRANCE (16/06/2026), in person.
   
