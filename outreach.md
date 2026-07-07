@@ -21,7 +21,7 @@ On This Page you find:
 *My contribution*: "Nos amis les micro-organismes".
 👉 [Detailed program](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
 
-- **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [More information coming in July]
+- **[Les Cordées de la réussite](https://www.cordeesdelareussite.fr/)** (2026) 👉 [Read my participation from the personal intranet](assests/Cordees-participation.pdf)
   
    <img src="/images/Cordee1.png" alt="Cordee" width="400"> 
   
