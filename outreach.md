@@ -120,7 +120,7 @@ I have conducted 13 school visits internationally: 7 in France and 6 in Lebanon.
   
 > This workshop offers a fun and engaging introduction to the invisible world of microorganisms and their role in our daily lives. Through observing Petri dishes and guided discussions, children explore the diversity of life. An interactive quiz complements the workshop, reinforcing the concepts covered in a simple and participatory way. 👉 [My participation](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
 
-<img src="/images/At1.jpeg" width="200"> <img src="/images/At2.jpeg" width="200"> <img src="/images/At3.jpeg" width="220"> <img src="/images/At4.jpeg" width="200">
+<img src="/images/At1.jpeg" width="180"> <img src="/images/At2.jpeg" width="180"> <img src="/images/At3.jpeg" width="180"> <img src="/images/At4.jpeg" width="180">
 
 - **Les Marvels de l'environnement** (2026). Pau, France.
   
