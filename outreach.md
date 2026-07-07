@@ -45,7 +45,7 @@ On This Page you find:
 
 - **[Les Journées Nuées Ardentes](https://www.youtube.com/watch?v=FlFpWQB-AtU)** (2022). Participation as an instructor in workshops, podcasts, conferences, and debates for both children and adults during the event where participants discovered scientific curiosity laboratories run by researchers and students from the University of Clermont Auvergne (UCA), (Clermont Ferrand, France).
 
-- **Fête de la Science** (2021). Participation as an instructor in workshops, connecting researchers and the general public. The event allows citizens of all ages to discover science through workshops, exhibitions and various experiences (Pau, France). 👉 [See figures](images/fetedessciences.jpeg)
+- **Fête de la Science** (2021). Participation as an instructor in workshops, connecting researchers and the general public. The event allows citizens of all ages to discover science through workshops, exhibitions and various experiences (Pau, France). 👉 [See figures](images/fetedesciences.jpeg)
 
 - **Open doors day** (2019). Participation as an instructor in workshops, conferences and debates fors tudents in the event, Université de Pau et des Pays de l’Adour
 
