@@ -57,3 +57,9 @@ Lebanese University, Lebanon
 - Fundamental Genetics. (36 hours)
 - Environmental ecology. (24 hours)
 - Environment and Pollution. (24 hours)
+
+
+
+---
+Le doctorat : plus qu’un diplôme, un véritable enjeu pour la société
+The PhD: more than just a degree—a matter of real importance for society.
