@@ -114,7 +114,7 @@ I have conducted 15 school visits internationally: 9 in France and 6 in Lebanon.
 ---
 ## **V- Workshops (4)**
 
-- **[Valorize the thermal water in the Pyrenees](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalisme-innovationcosmaeztique-recherche-ugcPost-7479908158728134656-ksr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)** (2026). 👉 [More information and pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalisme-innovationcosmaeztique-recherche-ugcPost-7479908158728134656-ksr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
+- **[Valorize the thermal water in the Pyrenees](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalisme-innovationcosmaeztique-recherche-ugcPost-7479908158728134656-ksr8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)** (2026). 👉 [More information](https://poctefa-caruso.eu/caruso-organise-a-pau-un-workshop-sur-la-valorisation-des-eaux-thermales-dans-la-region-pyreneenne/?utm_source=brevo&utm_medium=email&utm_campaign=Deuxime%20Newsletter)
   
 > The workshop was held at IPREM, Université de Pau et des Pays de l’Adour, on 25 June 2026. 👉 [See the workshop program](https://iprem.univ-pau.fr/_attachment/intermat-2019-24-article-2-4-2/Agenda%20Workshop%20CARUSO,%20IPREM%20-%20UPPA-3.pdf?download=true)
 
