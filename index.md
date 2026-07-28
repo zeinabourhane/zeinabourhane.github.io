@@ -19,6 +19,8 @@ Microbial ecology | Extreme environments | Ecotoxicology | Metagenomics | Metabo
 ---
 ## **I- About Me**
 
+> ⭐ **Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. Albert Schweitzer** ⭐
+
 Scientist in microbial ecology, with expertise in metagenomics, metabolomics and microbial network analysis applied to the valorization of extreme ecosystems.
 
 My research focuses on the microbial ecology of aquatic and terrestrial environments, with a particular emphasis on extreme ecosystems such as thermal waters. I am interested in understanding the dynamics of microbial communities under environmental stress and the factors shaping their structure, function, and adaptation to changing conditions.
