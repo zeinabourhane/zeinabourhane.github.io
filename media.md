@@ -1,7 +1,8 @@
 ## Media
+
 ---
 
-**Activities coming soon**
+*Activities coming soon*
 
 ---
 
