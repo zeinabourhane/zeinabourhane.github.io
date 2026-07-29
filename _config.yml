@@ -7,6 +7,7 @@ name: Zeina Bourhane, PhD
 ##  email: zeina.bourhane@univ-pau.fr
 
 header_pages:
+## - news.md
   - publications.md
   - conferences.md
   - funding.md
