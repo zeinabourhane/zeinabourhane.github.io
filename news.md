@@ -1,8 +1,8 @@
-## Media
+## News
 
 ---
 
-*Activities coming soon*
+*News coming soon*
 
 ---
 
