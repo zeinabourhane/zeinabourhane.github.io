@@ -1,6 +1,6 @@
 # Conferences
 
-I have had the privilege of presenting my research at 15 international and national conferences across 10 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in **MICROBIAL ECOLOGY** world, feel free to [reach out](https://www.linkedin.com/in/zeina-bourhane-772373144). I always do my best to accommodate invitations and events to discuss and share insights about this topic !
+I have had the privilege of presenting my research at 14 international and national conferences across 10 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in **MICROBIAL ECOLOGY** world, feel free to [reach out](https://www.linkedin.com/in/zeina-bourhane-772373144). I always do my best to accommodate invitations and events to discuss and share insights about this topic !
 
 > **OP**: Oral presentation   and     **P**: Poster
 
@@ -46,21 +46,21 @@ I have had the privilege of presenting my research at 15 international and natio
 
 <img src="/images/ISME1.jpg" alt="ISME" width="230"> <img src="/images/ISME2.JPG" alt="ISME" width="230"> <img src="/images/ISME3.JPG" alt="ISME" width="260">
 
-[7] **2022**. **P**: Vertical organization of microbial communities in Salineta hypersaline wetland, Spain. [FEMS Conference on Microbiology](https://fems-microbiology.org/), Belgrade, SERBIA. 👉 [SDownload Poster](assets/Poster-FEMS-Belgrade2022.pdf)
+[7] **2022**. **P**: Vertical organization of microbial communities in Salineta hypersaline wetland, Spain. [FEMS Conference on Microbiology](https://fems-microbiology.org/), Belgrade, SERBIA. 👉 [Download Poster](assets/Poster-FEMS-Belgrade2022.pdf)
 
 <img src="/images/BEL1.JPG" alt="fems" width="235"> <img src="/images/BEL2.JPG" alt="fems" width="235"> <img src="/images/BEL3.JPG" alt="fems" width="235">
 
 [6] **2022**. **OP**: Microbial diversity alteration reveals biomarkers of contamination in soil-river-lake continuum. [International Conference: Science and Research in, for and with UNESCO Biosphere Reserves](https://www.hnee.de/en/forschung/forschungseinrichtungen/forschungs-transferinstitut/biosphere-reserves-institute/international-conference), Schorfheide-Chorin Biosphere Reserve, GERMANY. 👉 [See more details about the conference proceedings](assets/BiosphereReservesConference2022Proceedings.pdf) and [program](assets/ResearchConference2022Programme.pdf)
 
-<img src="/images/MAB1.jpg" alt="MAB" width="350"> <img src="/images/MAB22.png" alt="MAB" width="350">
+<img src="/images/MAB1.jpg" alt="MAB" width="350"> <img src="/images/MAB22.png" alt="MAB" width="350"> 
 
 [5] **2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. [EcotoxicoMicYR_2021*](https://ecotoxicomic.org/ecotoxicomicyr_2021/), FRANCE. 👉 [More details](https://ecotoxicomic.org/ecotoxicomicyr_2021/)
 
 > (*) EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event
 
-[4] **2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. Online event (During Covid-19 pandemic). 👉 [See abstract](assets/SETAC31-europe2021abstractbook.pdf)
+[4] **2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. Online event (During Covid-19 pandemic). 👉 [Book of abstracts](assets/SETAC31-europe2021abstractbook.pdf)
 
-[3] **2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtual Format), Montpellier, FRANCE. Online event (During Covid-19 pandemic). 👉 [See my abstract](assets/Book-of-Abstract-EcotoxicoMic2020.pdf)
+[3] **2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtual Format), Montpellier, FRANCE. Online event (During Covid-19 pandemic). 👉 [Book of abstracts](assets/Book-of-Abstract-EcotoxicoMic2020.pdf)
 
 [2] **2019**. **OP**: Role of bioindicators in the environmental assessment. [AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, SPAIN.
 
