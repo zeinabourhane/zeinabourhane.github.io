@@ -56,17 +56,17 @@ I have had the privilege of presenting my research at 15 international and natio
 
 <img src="/images/MAB1.jpg" alt="MAB" width="350"> <img src="/images/MAB22.png" alt="MAB" width="350">
 
-**2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. [EcotoxicoMicYR_2021*](https://ecotoxicomic.org/ecotoxicomicyr_2021/), FRANCE. 👉 [More details](https://ecotoxicomic.org/ecotoxicomicyr_2021/)
+[5] **2021**. **OP**: Role of microbial diversity alterations in revealing biomarkers of contamination in soil-river-lake continuum. [EcotoxicoMicYR_2021*](https://ecotoxicomic.org/ecotoxicomicyr_2021/), FRANCE. 👉 [More details](https://ecotoxicomic.org/ecotoxicomicyr_2021/)
 
 > (*) EcotoxicoMicYR is the First international webinar of young microbial ecotoxicology researchers. Online event
 
-**2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. Online event (During Covid-19 pandemic). 👉 [See abstract](assets/SETAC31-europe2021abstractbook.pdf)
+[4] **2021**. **OP**: Bacterial bioindicators for reporting contamination in a coastal soil/river/lake continuum. SETAC Europe 31st Annual Meeting, Seville, SPAIN. Online event (During Covid-19 pandemic). 👉 [See abstract](assets/SETAC31-europe2021abstractbook.pdf)
 
-**2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtual Format), Montpellier, FRANCE. Online event (During Covid-19 pandemic). 👉 [See my abstract](assets/Book-of-Abstract-EcotoxicoMic2020.pdf)
+[3] **2020**. **P**: Bacterial diversity reports contamination around the Ichkeul Lake (Tunisia). Second International Conference on Microbial Ecotoxicology, EcotoxicoMic (Virtual Format), Montpellier, FRANCE. Online event (During Covid-19 pandemic). 👉 [See my abstract](assets/Book-of-Abstract-EcotoxicoMic2020.pdf)
 
-**2019**. **OP**: Role of bioindicators in the environmental assessment. [AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, SPAIN.
+[2] **2019**. **OP**: Role of bioindicators in the environmental assessment. [AZTI Marine research center](https://www.azti.es/en/azti/), Pasaia, SPAIN.
 
- **2019**. **OP**: Anthropogenic impact on microbial communities in agriculture arid zones. PhD students Journey, Pau University, Pau, France, 3-6 June 2019.
+[1] **2019**. **OP**: Anthropogenic impact on microbial communities in agriculture arid zones. PhD students Journey, Pau University, Pau, France, 3-6 June 2019.
 
  <img src="/images/phdday.png" alt="PHDDAY" width="200">
  
