@@ -103,7 +103,7 @@ I have conducted 15 school visits internationally: 9 in France and 6 in Lebanon.
 
 - **Les Cordées de la réussite** (2026). I gave the talk “Les Marvels de l’environnement" at Pau, France.
 
-  <img src="/images/cordees.jpeg" width="360">
+  <img src="/images/cordees.jpeg" width="400">
 
   
 - **Circuit Scientifique** (2025).  I gave the talk “Le rôle des micro-organismes dans l’environnement” at Pau, France. 👉 [Pictures](https://www.linkedin.com/posts/zeina-bourhane-772373144_faeatedelascience-circuitscientifique-microbiology-activity-7384853194293702656-sDbR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM)
