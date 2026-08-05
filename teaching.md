@@ -12,7 +12,7 @@ I have gained teaching experience at public universities across TWO countries, d
 
 ## **II- Courses**
 
-- TD: Méthodes en écologie. (12 hours)
+- TD: Méthodes en écologie. (10 hours)
 - TD: Communication scientifique en Anglais. (10 hours)
 
 ---
