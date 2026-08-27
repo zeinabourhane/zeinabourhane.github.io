@@ -112,6 +112,7 @@ Bem Salem F, Ben Said O, **Bourhane Z**, Sahbani A, …, Duran R. (2026)
 
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 
+- 1 for Marine Environmental Research. IF(2024)=3.4, JCR rank (2024) 2/73 (Q1)
 - 1 for Environmental Pollution. IF(2024)=7.3, JCR rank (2024) 2/73 (Q1) [ORCID](https://orcid.org/0000-0002-9663-2584)
 - 1 for Environmental Research. IF(2024)=7.7, JCR rank (2025) 7/73 (D1) [ORCID](https://orcid.org/0000-0002-9663-2584)
 - 1 for Marine Environmental Research. IF(2024)=3.2, JCR rank (2025) 7/73 (Q1) [ORCID](https://orcid.org/0000-0002-9663-2584)
