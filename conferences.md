@@ -8,7 +8,8 @@ I have had the privilege of presenting my research at 14 international and natio
 
 ---
 
-[14] **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. [International Society for Microbial Ecology (ISME20)](https://isme.live.ws-django.co.uk/conferences/2/), Auckland, NEW ZEALAND. **(CONFIRMED)**
+[14] **2026**. **P**: Unveiling the metagenomic profiles of the Pyrenean thermal waters. [International Society for Microbial Ecology (ISME20)](https://isme.live.ws-django.co.uk/conferences/2/), Auckland, NEW ZEALAND. 👉 [See details] (https://lnkd.in/p/dpwrYpAB)
+
 
 [13] **2025**. **P**: Bioactive molecules in thermal waters: A revolution in cosmetic products. [Société Française de la microbiologie (SFM)](https://www.sfm-microbiologie.org/), Bordeaux, FRANCE. 👉 [See details](https://www.linkedin.com/posts/zeina-bourhane-772373144_thermalwater-microbiota-metabolites-activity-7378722815287500800-d-MX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLv84YBOhjXY-qVLi3IUwA3yB3VcGapmkM) and [Download Poster](assets/SFM-Microbes-2025-Bordeaux.pdf)
 
