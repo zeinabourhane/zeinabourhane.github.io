@@ -57,9 +57,29 @@ Lebanese University, Lebanon
 - Fundamental Genetics. (36 hours)
 - Environmental ecology. (24 hours)
 - Environment and Pollution. (24 hours)
-
-
-
+  
+  -----------------------------------
 ---
 Le doctorat : plus qu’un diplôme, un véritable enjeu pour la société
 The PhD: more than just a degree—a matter of real importance for society.
+
+------------------
+
+https://apascualgarcia.github.io/
+
+
+Plus informations
+https://zeinabourhane.github.io
+Spanish National Research Council (CSIC), Zaragoza, Spain
+[Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain
+
+**Host**: Pr. Carmen Castañeda
+
+https://www.dieter-schwarz-stiftung.de/
+
+**[09/2026 – 11/2026]   Research Conference/ training (CONFIRMED)**
+
+**Project**: *Metagenomic insights into microbial dynamics under redox conditions in extreme thermal waters*
+[Spanish National Research Council (CSIC)](https://delegacion.aragon.csic.es/), Zaragoza, Spain
+
+**Host**: Pr. Carmen Castañeda
