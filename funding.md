@@ -43,6 +43,10 @@ I have received travel grants from major international societies (including FEMS
 
 - **2026**: [Lindau Nobel Laureate Meetings Foundation](https://www.lindau-nobel.org/council-foundation/) grant to attend the [75th Lindau Nobel Laureate Meeting (Interdisciplinary)](https://www.lindau-nobel.org/) in Lindau, Germany (400 €)
 
+- **2026**: [Société Française de la bioinformatique (SFBI)](https://premc.org/afem/) Travel grant (700 €)
+
+- **2026**: [Association Francophone d’Ecologie Microbienne (AFEM)](https://premc.org/afem/) Young researcher mobility grant (1000 €)
+  
 - **2022**: [Association Francophone d’Ecologie Microbienne (AFEM)](https://premc.org/afem/) Young researcher mobility grant (630 €)
 
 - **2022**: [Federation of European Microbiological Societies (FEMS)](https://fems-microbiology.org/) Conference attendance grant, Belgrade, Serbia
