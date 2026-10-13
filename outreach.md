@@ -20,7 +20,7 @@ On This Page you find:
 - **[Mentorship Programme at ISME20 in Auckland](https://isme-microbes.org/public/conference/49/page/)** (2026).
 The ISME Early Career Scientist Committee (ECSC) has organized a mentorship programme that connects registered mentees and mentors, including students and early-career microbial ecologists, with established researchers. The programme provides practical guidance on effective mentoring and on building successful mentor–mentee relationships.
 
-  <img src="/images/M1.jpeg" width="200"> <img src="/images/M2.jpeg" alt="Campus" width="200"> <img src="/images/M3.jpeg" width="200">
+  <img src="/images/M1.jpeg" width="200"> <img src="/images/M2.jpeg" alt="Campus" width="200"> <img src="/images/M3.jpeg" width="300">
 
 - **[Campus des enfants](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)** (2026). 15 - 16 June 2026, UPPA, Pau. These days are intended to introduce young children to the many fields of knowledge and research at the UPPA. By creating its "Children's University", the UPPA has chosen to open its doors to primary school students to develop their curiosity and critical thinking skills, while also promoting access to higher education and demystifying the university environment.
 👉 [My contribution](https://recherche.univ-pau.fr/fr/science-et-societe/grands-evenements/campus-des-enfants.html)
