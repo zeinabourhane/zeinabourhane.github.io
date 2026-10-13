@@ -17,7 +17,7 @@ On This Page you find:
 ---
 ## **I- Scientific fairs (12)**
 
-- **[Mentorship Programme at ISME20 in Auckland](https://isme-microbes.org/public/conference/49/page/)** (2026).
+- **[Mentorship Programme at ISME20 in Auckland, New Zealand](https://isme-microbes.org/public/conference/49/page/)** (2026).
 The ISME Early Career Scientist Committee (ECSC) has organized a mentorship programme that connects registered mentees and mentors, including students and early-career microbial ecologists, with established researchers. The programme provides practical guidance on effective mentoring and on building successful mentor–mentee relationships.
 
   <img src="/images/M1.jpeg" width="200"> <img src="/images/M2.jpeg" alt="Campus" width="200"> <img src="/images/M3.jpeg" width="300">
