@@ -109,9 +109,9 @@ Bem Salem F, Ben Said O, **Bourhane Z**, Sahbani A, …, Duran R. (2026)
 ---
 ## **III- Peer-reviewing activity**
 
-
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 
+- 1 for Environmental Sciences Europe . IF(2025)=7.1
 - 1 for Environmental Microbiome (BMC). IF(2024)=6.2 
 - 1 for Marine Environmental Research. IF(2024)=3.4, JCR rank (2024) 2/73 (Q1)
 - 1 for Environmental Pollution. IF(2024)=7.3, JCR rank (2024) 2/73 (Q1) [ORCID](https://orcid.org/0000-0002-9663-2584)
