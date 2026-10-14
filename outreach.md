@@ -4,7 +4,7 @@ Commitment to public outreach is central in my career and therefore, I am always
 
 On This Page you find:
 
-- **[I- Scientific fairs (12)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
+- **[I- Scientific fairs (13)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#i--scientific-fairs-10)**
 
 - **[II- School visits (15 visits across 2 countries)](https://github.com/zeinabourhane/zeinabourhane.github.io/blob/main/outreach.md#ii--school-visits-13-visits-across-2-countries)**
 
