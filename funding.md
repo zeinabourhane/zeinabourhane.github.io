@@ -37,7 +37,7 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 ---
 
-## **III- Travel grants (5)**
+## **III- Travel grants (7)**
 
 I have received travel grants from major international societies (including FEMS, AFEM …), enabling my participation in global meetings or courses across Europe and Asia.
 
